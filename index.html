@@ -1,0 +1,54 @@
+<html>
+	<title>BF CheatSheet</title>
+	<link rel="stylesheet" href="index.css">
+	<script src="index.js" type="text/javascript"></script>
+	<body>
+		<div id="selectors">
+			<label>Trainer:</label>
+			<select id="trainerSelect" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Species:</label>
+			<select id="pokemonSelect" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Item:</label>
+			<select id="itemSelect" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Move:</label>
+			<select id="moveSelect1" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Move:</label>
+			<select id="moveSelect2" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Move:</label>
+			<select id="moveSelect3" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+			<label>Move:</label>
+			<select id="moveSelect4" onchange="filter();">
+				<option selected value="---">---</option>
+			</select>
+
+			<select id="levelSelect" onchange="filter();">
+				<option value="50">50</option>
+				<option value="60">60</option>
+				<option value="100">100</option>
+			</select>
+			<label id=levelSelLabel>Level:&nbsp;</label>
+		</div>
+		<table id="pokemonTable">
+			<tr>
+				<th>a</th>
+				<th>b</th>
+				<th>c</th>
+			</tr>
+		</table>
+		<script>
+			(async() => {await loadJson();})()
+		</script>
+	</body>
+</html>

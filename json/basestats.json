@@ -1,0 +1,3892 @@
+{
+    "Bulbasaur": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 45,
+        "Total": 318,
+        "Average": 53.0
+    },
+    "Ivysaur": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 60,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Venusaur": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Special Attack": 100,
+        "Special Defense": 100,
+        "Speed": 80,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Charmander": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Special Attack": 60,
+        "Special Defense": 50,
+        "Speed": 65,
+        "Total": 309,
+        "Average": 51.5
+    },
+    "Charmeleon": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Special Attack": 80,
+        "Special Defense": 65,
+        "Speed": 80,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Charizard": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Special Attack": 109,
+        "Special Defense": 85,
+        "Speed": 100,
+        "Total": 534,
+        "Average": 89.0
+    },
+    "Squirtle": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Special Attack": 50,
+        "Special Defense": 64,
+        "Speed": 43,
+        "Total": 314,
+        "Average": 52.33
+    },
+    "Wartortle": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Special Attack": 65,
+        "Special Defense": 80,
+        "Speed": 58,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Blastoise": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Special Attack": 85,
+        "Special Defense": 105,
+        "Speed": 78,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Caterpie": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Special Attack": 20,
+        "Special Defense": 20,
+        "Speed": 45,
+        "Total": 195,
+        "Average": 32.5
+    },
+    "Metapod": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 30,
+        "Total": 205,
+        "Average": 34.17
+    },
+    "Butterfree": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 70,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Weedle": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Special Attack": 20,
+        "Special Defense": 20,
+        "Speed": 50,
+        "Total": 195,
+        "Average": 32.5
+    },
+    "Kakuna": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 35,
+        "Total": 205,
+        "Average": 34.17
+    },
+    "Beedrill": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 40,
+        "Special Attack": 45,
+        "Special Defense": 80,
+        "Speed": 75,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Pidgey": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 56,
+        "Total": 251,
+        "Average": 41.83
+    },
+    "Pidgeotto": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 71,
+        "Total": 349,
+        "Average": 58.17
+    },
+    "Pidgeot": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Special Attack": 70,
+        "Special Defense": 70,
+        "Speed": 91,
+        "Total": 469,
+        "Average": 78.17
+    },
+    "Rattata": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Special Attack": 25,
+        "Special Defense": 35,
+        "Speed": 72,
+        "Total": 253,
+        "Average": 42.17
+    },
+    "Raticate": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Special Attack": 50,
+        "Special Defense": 70,
+        "Speed": 97,
+        "Total": 413,
+        "Average": 68.83
+    },
+    "Spearow": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Special Attack": 31,
+        "Special Defense": 31,
+        "Speed": 70,
+        "Total": 262,
+        "Average": 43.67
+    },
+    "Fearow": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Special Attack": 61,
+        "Special Defense": 61,
+        "Speed": 100,
+        "Total": 442,
+        "Average": 73.67
+    },
+    "Ekans": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Special Attack": 40,
+        "Special Defense": 54,
+        "Speed": 55,
+        "Total": 288,
+        "Average": 48.0
+    },
+    "Arbok": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "Special Attack": 65,
+        "Special Defense": 79,
+        "Speed": 80,
+        "Total": 438,
+        "Average": 73.0
+    },
+    "Pikachu": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 30,
+        "Special Attack": 50,
+        "Special Defense": 40,
+        "Speed": 90,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Raichu": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Special Attack": 90,
+        "Special Defense": 80,
+        "Speed": 100,
+        "Total": 475,
+        "Average": 79.17
+    },
+    "Sandshrew": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Special Attack": 20,
+        "Special Defense": 30,
+        "Speed": 40,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Sandslash": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Special Attack": 45,
+        "Special Defense": 55,
+        "Speed": 65,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "NidoranF": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 41,
+        "Total": 275,
+        "Average": 45.83
+    },
+    "Nidorina": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 56,
+        "Total": 365,
+        "Average": 60.83
+    },
+    "Nidoqueen": {
+        "HP": 90,
+        "Attack": 82,
+        "Defense": 87,
+        "Special Attack": 75,
+        "Special Defense": 85,
+        "Speed": 76,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "NidoranM": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 50,
+        "Total": 273,
+        "Average": 45.5
+    },
+    "Nidorino": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 65,
+        "Total": 365,
+        "Average": 60.83
+    },
+    "Nidoking": {
+        "HP": 81,
+        "Attack": 92,
+        "Defense": 77,
+        "Special Attack": 85,
+        "Special Defense": 75,
+        "Speed": 85,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Clefairy": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Special Attack": 60,
+        "Special Defense": 65,
+        "Speed": 35,
+        "Total": 323,
+        "Average": 53.83
+    },
+    "Clefable": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Special Attack": 85,
+        "Special Defense": 90,
+        "Speed": 60,
+        "Total": 473,
+        "Average": 78.83
+    },
+    "Vulpix": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Special Attack": 50,
+        "Special Defense": 65,
+        "Speed": 65,
+        "Total": 299,
+        "Average": 49.83
+    },
+    "Ninetales": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Special Attack": 81,
+        "Special Defense": 100,
+        "Speed": 100,
+        "Total": 505,
+        "Average": 84.17
+    },
+    "Jigglypuff": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Special Attack": 45,
+        "Special Defense": 25,
+        "Speed": 20,
+        "Total": 270,
+        "Average": 45.0
+    },
+    "Wigglytuff": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Special Attack": 75,
+        "Special Defense": 50,
+        "Speed": 45,
+        "Total": 425,
+        "Average": 70.83
+    },
+    "Zubat": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Special Attack": 30,
+        "Special Defense": 40,
+        "Speed": 55,
+        "Total": 245,
+        "Average": 40.83
+    },
+    "Golbat": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Special Attack": 65,
+        "Special Defense": 75,
+        "Speed": 90,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Oddish": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Special Attack": 75,
+        "Special Defense": 65,
+        "Speed": 30,
+        "Total": 320,
+        "Average": 53.33
+    },
+    "Gloom": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Special Attack": 85,
+        "Special Defense": 75,
+        "Speed": 40,
+        "Total": 395,
+        "Average": 65.83
+    },
+    "Vileplume": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Special Attack": 100,
+        "Special Defense": 90,
+        "Speed": 50,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Paras": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Special Attack": 45,
+        "Special Defense": 55,
+        "Speed": 25,
+        "Total": 285,
+        "Average": 47.5
+    },
+    "Parasect": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Special Attack": 60,
+        "Special Defense": 80,
+        "Speed": 30,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Venonat": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Special Attack": 40,
+        "Special Defense": 55,
+        "Speed": 45,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Venomoth": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Special Attack": 90,
+        "Special Defense": 75,
+        "Speed": 90,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Diglett": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Special Attack": 35,
+        "Special Defense": 45,
+        "Speed": 95,
+        "Total": 265,
+        "Average": 44.17
+    },
+    "Dugtrio": {
+        "HP": 35,
+        "Attack": 80,
+        "Defense": 50,
+        "Special Attack": 50,
+        "Special Defense": 70,
+        "Speed": 120,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Meowth": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 90,
+        "Total": 290,
+        "Average": 48.33
+    },
+    "Persian": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 115,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Psyduck": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Special Attack": 65,
+        "Special Defense": 50,
+        "Speed": 55,
+        "Total": 320,
+        "Average": 53.33
+    },
+    "Golduck": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Special Attack": 95,
+        "Special Defense": 80,
+        "Speed": 85,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Mankey": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Special Attack": 35,
+        "Special Defense": 45,
+        "Speed": 70,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Primeape": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Special Attack": 60,
+        "Special Defense": 70,
+        "Speed": 95,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Growlithe": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Special Attack": 70,
+        "Special Defense": 50,
+        "Speed": 60,
+        "Total": 350,
+        "Average": 58.33
+    },
+    "Arcanine": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Special Attack": 100,
+        "Special Defense": 80,
+        "Speed": 95,
+        "Total": 555,
+        "Average": 92.5
+    },
+    "Poliwag": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 90,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Poliwhirl": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 90,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Poliwrath": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 95,
+        "Special Attack": 70,
+        "Special Defense": 90,
+        "Speed": 70,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Abra": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Special Attack": 105,
+        "Special Defense": 55,
+        "Speed": 90,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Kadabra": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Special Attack": 120,
+        "Special Defense": 70,
+        "Speed": 105,
+        "Total": 400,
+        "Average": 66.67
+    },
+    "Alakazam": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Special Attack": 135,
+        "Special Defense": 85,
+        "Speed": 120,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Machop": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 35,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Machoke": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Special Attack": 50,
+        "Special Defense": 60,
+        "Speed": 45,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Machamp": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Special Attack": 65,
+        "Special Defense": 85,
+        "Speed": 55,
+        "Total": 505,
+        "Average": 84.17
+    },
+    "Bellsprout": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Special Attack": 70,
+        "Special Defense": 30,
+        "Speed": 40,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Weepinbell": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Special Attack": 85,
+        "Special Defense": 45,
+        "Speed": 55,
+        "Total": 390,
+        "Average": 65.0
+    },
+    "Victreebel": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Special Attack": 100,
+        "Special Defense": 60,
+        "Speed": 70,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Tentacool": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Special Attack": 50,
+        "Special Defense": 100,
+        "Speed": 70,
+        "Total": 335,
+        "Average": 55.83
+    },
+    "Tentacruel": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Special Attack": 80,
+        "Special Defense": 120,
+        "Speed": 100,
+        "Total": 515,
+        "Average": 85.83
+    },
+    "Geodude": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 20,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Graveler": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Special Attack": 45,
+        "Special Defense": 45,
+        "Speed": 35,
+        "Total": 390,
+        "Average": 65.0
+    },
+    "Golem": {
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 130,
+        "Special Attack": 55,
+        "Special Defense": 65,
+        "Speed": 45,
+        "Total": 485,
+        "Average": 80.83
+    },
+    "Ponyta": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 90,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Rapidash": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 105,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Slowpoke": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 15,
+        "Total": 315,
+        "Average": 52.5
+    },
+    "Slowbro": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Special Attack": 100,
+        "Special Defense": 80,
+        "Speed": 30,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Magnemite": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Special Attack": 95,
+        "Special Defense": 55,
+        "Speed": 45,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Magneton": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Special Attack": 120,
+        "Special Defense": 70,
+        "Speed": 70,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Farfetch'd": {
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 55,
+        "Special Attack": 58,
+        "Special Defense": 62,
+        "Speed": 60,
+        "Total": 352,
+        "Average": 58.67
+    },
+    "Doduo": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 75,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Dodrio": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 100,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Seel": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Special Attack": 45,
+        "Special Defense": 70,
+        "Speed": 45,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Dewgong": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Special Attack": 70,
+        "Special Defense": 95,
+        "Speed": 70,
+        "Total": 475,
+        "Average": 79.17
+    },
+    "Grimer": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Special Attack": 40,
+        "Special Defense": 50,
+        "Speed": 25,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Muk": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Special Attack": 65,
+        "Special Defense": 100,
+        "Speed": 50,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Shellder": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Special Attack": 45,
+        "Special Defense": 25,
+        "Speed": 40,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Cloyster": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Special Attack": 85,
+        "Special Defense": 45,
+        "Speed": 70,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Gastly": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Special Attack": 100,
+        "Special Defense": 35,
+        "Speed": 80,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Haunter": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Special Attack": 115,
+        "Special Defense": 55,
+        "Speed": 95,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Gengar": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Special Attack": 130,
+        "Special Defense": 75,
+        "Speed": 110,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Onix": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Special Attack": 30,
+        "Special Defense": 45,
+        "Speed": 70,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Drowzee": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Special Attack": 43,
+        "Special Defense": 90,
+        "Speed": 42,
+        "Total": 328,
+        "Average": 54.67
+    },
+    "Hypno": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Special Attack": 73,
+        "Special Defense": 115,
+        "Speed": 67,
+        "Total": 483,
+        "Average": 80.5
+    },
+    "Krabby": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 50,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Kingler": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 75,
+        "Total": 475,
+        "Average": 79.17
+    },
+    "Voltorb": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 100,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Electrode": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 140,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Exeggcute": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Special Attack": 60,
+        "Special Defense": 45,
+        "Speed": 40,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Exeggutor": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Special Attack": 125,
+        "Special Defense": 65,
+        "Speed": 55,
+        "Total": 520,
+        "Average": 86.67
+    },
+    "Cubone": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Special Attack": 40,
+        "Special Defense": 50,
+        "Speed": 35,
+        "Total": 320,
+        "Average": 53.33
+    },
+    "Marowak": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Special Attack": 50,
+        "Special Defense": 80,
+        "Speed": 45,
+        "Total": 425,
+        "Average": 70.83
+    },
+    "Hitmonlee": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Special Attack": 35,
+        "Special Defense": 110,
+        "Speed": 87,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Hitmonchan": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Special Attack": 35,
+        "Special Defense": 110,
+        "Speed": 76,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Lickitung": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Special Attack": 60,
+        "Special Defense": 75,
+        "Speed": 30,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Koffing": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Special Attack": 60,
+        "Special Defense": 45,
+        "Speed": 35,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Weezing": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Special Attack": 85,
+        "Special Defense": 70,
+        "Speed": 60,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Rhyhorn": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 25,
+        "Total": 345,
+        "Average": 57.5
+    },
+    "Rhydon": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Special Attack": 45,
+        "Special Defense": 45,
+        "Speed": 40,
+        "Total": 485,
+        "Average": 80.83
+    },
+    "Chansey": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Special Attack": 35,
+        "Special Defense": 105,
+        "Speed": 50,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Tangela": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Special Attack": 100,
+        "Special Defense": 40,
+        "Speed": 60,
+        "Total": 435,
+        "Average": 72.5
+    },
+    "Kangaskhan": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Special Attack": 40,
+        "Special Defense": 80,
+        "Speed": 90,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Horsea": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Special Attack": 70,
+        "Special Defense": 25,
+        "Speed": 60,
+        "Total": 295,
+        "Average": 49.17
+    },
+    "Seadra": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Special Attack": 95,
+        "Special Defense": 45,
+        "Speed": 85,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Goldeen": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Special Attack": 35,
+        "Special Defense": 50,
+        "Speed": 63,
+        "Total": 320,
+        "Average": 53.33
+    },
+    "Seaking": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Special Attack": 65,
+        "Special Defense": 80,
+        "Speed": 68,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Staryu": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Special Attack": 70,
+        "Special Defense": 55,
+        "Speed": 85,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Starmie": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Special Attack": 100,
+        "Special Defense": 85,
+        "Speed": 115,
+        "Total": 520,
+        "Average": 86.67
+    },
+    "Mr. Mime": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Special Attack": 100,
+        "Special Defense": 120,
+        "Speed": 90,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Scyther": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Special Attack": 55,
+        "Special Defense": 80,
+        "Speed": 105,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Jynx": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Special Attack": 115,
+        "Special Defense": 95,
+        "Speed": 95,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Electabuzz": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Special Attack": 95,
+        "Special Defense": 85,
+        "Speed": 105,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Magmar": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Special Attack": 100,
+        "Special Defense": 85,
+        "Speed": 93,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Pinsir": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Special Attack": 55,
+        "Special Defense": 70,
+        "Speed": 85,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Tauros": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Special Attack": 40,
+        "Special Defense": 70,
+        "Speed": 110,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Magikarp": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Special Attack": 15,
+        "Special Defense": 20,
+        "Speed": 80,
+        "Total": 200,
+        "Average": 33.33
+    },
+    "Gyarados": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Special Attack": 60,
+        "Special Defense": 100,
+        "Speed": 81,
+        "Total": 540,
+        "Average": 90.0
+    },
+    "Lapras": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Special Attack": 85,
+        "Special Defense": 95,
+        "Speed": 60,
+        "Total": 535,
+        "Average": 89.17
+    },
+    "Ditto": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Special Attack": 48,
+        "Special Defense": 48,
+        "Speed": 48,
+        "Total": 288,
+        "Average": 48.0
+    },
+    "Eevee": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Special Attack": 45,
+        "Special Defense": 65,
+        "Speed": 55,
+        "Total": 325,
+        "Average": 54.17
+    },
+    "Vaporeon": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Special Attack": 110,
+        "Special Defense": 95,
+        "Speed": 65,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Jolteon": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Special Attack": 110,
+        "Special Defense": 95,
+        "Speed": 130,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Flareon": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Special Attack": 95,
+        "Special Defense": 110,
+        "Speed": 65,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Porygon": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Special Attack": 85,
+        "Special Defense": 75,
+        "Speed": 40,
+        "Total": 395,
+        "Average": 65.83
+    },
+    "Omanyte": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Special Attack": 90,
+        "Special Defense": 55,
+        "Speed": 35,
+        "Total": 355,
+        "Average": 59.17
+    },
+    "Omastar": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Special Attack": 115,
+        "Special Defense": 70,
+        "Speed": 55,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Kabuto": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Special Attack": 55,
+        "Special Defense": 45,
+        "Speed": 55,
+        "Total": 355,
+        "Average": 59.17
+    },
+    "Kabutops": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Special Attack": 65,
+        "Special Defense": 70,
+        "Speed": 80,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Aerodactyl": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Special Attack": 60,
+        "Special Defense": 75,
+        "Speed": 130,
+        "Total": 515,
+        "Average": 85.83
+    },
+    "Snorlax": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Special Attack": 65,
+        "Special Defense": 110,
+        "Speed": 30,
+        "Total": 540,
+        "Average": 90.0
+    },
+    "Articuno": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Special Attack": 95,
+        "Special Defense": 125,
+        "Speed": 85,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Zapdos": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Special Attack": 125,
+        "Special Defense": 90,
+        "Speed": 100,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Moltres": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Special Attack": 125,
+        "Special Defense": 85,
+        "Speed": 90,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Dratini": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 50,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Dragonair": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Special Attack": 70,
+        "Special Defense": 70,
+        "Speed": 70,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Dragonite": {
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Special Attack": 100,
+        "Special Defense": 100,
+        "Speed": 80,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Mewtwo": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Special Attack": 154,
+        "Special Defense": 90,
+        "Speed": 130,
+        "Total": 680,
+        "Average": 113.33
+    },
+    "Mew": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Special Attack": 100,
+        "Special Defense": 100,
+        "Speed": 100,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Chikorita": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 65,
+        "Special Attack": 49,
+        "Special Defense": 65,
+        "Speed": 45,
+        "Total": 318,
+        "Average": 53.0
+    },
+    "Bayleef": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "Special Attack": 63,
+        "Special Defense": 80,
+        "Speed": 60,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Meganium": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "Special Attack": 83,
+        "Special Defense": 100,
+        "Speed": 80,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Cyndaquil": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Special Attack": 60,
+        "Special Defense": 50,
+        "Speed": 65,
+        "Total": 309,
+        "Average": 51.5
+    },
+    "Quilava": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Special Attack": 80,
+        "Special Defense": 65,
+        "Speed": 80,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Typhlosion": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Special Attack": 109,
+        "Special Defense": 85,
+        "Speed": 100,
+        "Total": 534,
+        "Average": 89.0
+    },
+    "Totodile": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 64,
+        "Special Attack": 44,
+        "Special Defense": 48,
+        "Speed": 43,
+        "Total": 314,
+        "Average": 52.33
+    },
+    "Croconaw": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 80,
+        "Special Attack": 59,
+        "Special Defense": 63,
+        "Speed": 58,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Feraligatr": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "Special Attack": 79,
+        "Special Defense": 83,
+        "Speed": 78,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Sentret": {
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 34,
+        "Special Attack": 35,
+        "Special Defense": 45,
+        "Speed": 20,
+        "Total": 215,
+        "Average": 35.83
+    },
+    "Furret": {
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 64,
+        "Special Attack": 45,
+        "Special Defense": 55,
+        "Speed": 90,
+        "Total": 415,
+        "Average": 69.17
+    },
+    "Hoothoot": {
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 30,
+        "Special Attack": 36,
+        "Special Defense": 56,
+        "Speed": 50,
+        "Total": 262,
+        "Average": 43.67
+    },
+    "Noctowl": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 50,
+        "Special Attack": 76,
+        "Special Defense": 96,
+        "Speed": 70,
+        "Total": 442,
+        "Average": 73.67
+    },
+    "Ledyba": {
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 30,
+        "Special Attack": 40,
+        "Special Defense": 80,
+        "Speed": 55,
+        "Total": 265,
+        "Average": 44.17
+    },
+    "Ledian": {
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 50,
+        "Special Attack": 55,
+        "Special Defense": 110,
+        "Speed": 85,
+        "Total": 390,
+        "Average": 65.0
+    },
+    "Spinarak": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 40,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 30,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Ariados": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 40,
+        "Total": 390,
+        "Average": 65.0
+    },
+    "Crobat": {
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 80,
+        "Special Attack": 70,
+        "Special Defense": 80,
+        "Speed": 130,
+        "Total": 535,
+        "Average": 89.17
+    },
+    "Chinchou": {
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 38,
+        "Special Attack": 56,
+        "Special Defense": 56,
+        "Speed": 67,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Lanturn": {
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 58,
+        "Special Attack": 76,
+        "Special Defense": 76,
+        "Speed": 67,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Pichu": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 15,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 60,
+        "Total": 205,
+        "Average": 34.17
+    },
+    "Cleffa": {
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 28,
+        "Special Attack": 45,
+        "Special Defense": 55,
+        "Speed": 15,
+        "Total": 218,
+        "Average": 36.33
+    },
+    "Igglybuff": {
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 15,
+        "Special Attack": 40,
+        "Special Defense": 20,
+        "Speed": 15,
+        "Total": 210,
+        "Average": 35.0
+    },
+    "Togepi": {
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 65,
+        "Special Attack": 40,
+        "Special Defense": 65,
+        "Speed": 20,
+        "Total": 245,
+        "Average": 40.83
+    },
+    "Togetic": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 85,
+        "Special Attack": 80,
+        "Special Defense": 105,
+        "Speed": 40,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Natu": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45,
+        "Special Attack": 70,
+        "Special Defense": 45,
+        "Speed": 70,
+        "Total": 320,
+        "Average": 53.33
+    },
+    "Xatu": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 70,
+        "Special Attack": 95,
+        "Special Defense": 70,
+        "Speed": 95,
+        "Total": 470,
+        "Average": 78.33
+    },
+    "Mareep": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 40,
+        "Special Attack": 65,
+        "Special Defense": 45,
+        "Speed": 35,
+        "Total": 280,
+        "Average": 46.67
+    },
+    "Flaaffy": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Special Attack": 80,
+        "Special Defense": 60,
+        "Speed": 45,
+        "Total": 365,
+        "Average": 60.83
+    },
+    "Ampharos": {
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "Special Attack": 115,
+        "Special Defense": 90,
+        "Speed": 55,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Bellossom": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Special Attack": 90,
+        "Special Defense": 100,
+        "Speed": 50,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Marill": {
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 50,
+        "Special Attack": 20,
+        "Special Defense": 50,
+        "Speed": 40,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Azumarill": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "Special Attack": 50,
+        "Special Defense": 80,
+        "Speed": 50,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Sudowoodo": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Special Attack": 30,
+        "Special Defense": 65,
+        "Speed": 30,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Politoed": {
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "Special Attack": 90,
+        "Special Defense": 100,
+        "Speed": 70,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Hoppip": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 40,
+        "Special Attack": 35,
+        "Special Defense": 55,
+        "Speed": 50,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Skiploom": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 50,
+        "Special Attack": 45,
+        "Special Defense": 65,
+        "Speed": 80,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Jumpluff": {
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 70,
+        "Special Attack": 55,
+        "Special Defense": 85,
+        "Speed": 110,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Aipom": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 55,
+        "Special Attack": 40,
+        "Special Defense": 55,
+        "Speed": 85,
+        "Total": 360,
+        "Average": 60.0
+    },
+    "Sunkern": {
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 30,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 30,
+        "Total": 180,
+        "Average": 30.0
+    },
+    "Sunflora": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 55,
+        "Special Attack": 105,
+        "Special Defense": 85,
+        "Speed": 30,
+        "Total": 425,
+        "Average": 70.83
+    },
+    "Yanma": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 45,
+        "Special Attack": 75,
+        "Special Defense": 45,
+        "Speed": 95,
+        "Total": 390,
+        "Average": 65.0
+    },
+    "Wooper": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 45,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 15,
+        "Total": 210,
+        "Average": 35.0
+    },
+    "Quagsire": {
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 85,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 35,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Espeon": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Special Attack": 130,
+        "Special Defense": 95,
+        "Speed": 110,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Umbreon": {
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "Special Attack": 60,
+        "Special Defense": 130,
+        "Speed": 65,
+        "Total": 525,
+        "Average": 87.5
+    },
+    "Murkrow": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 42,
+        "Special Attack": 85,
+        "Special Defense": 42,
+        "Speed": 91,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Slowking": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "Special Attack": 100,
+        "Special Defense": 110,
+        "Speed": 30,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Misdreavus": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Special Attack": 85,
+        "Special Defense": 85,
+        "Speed": 85,
+        "Total": 435,
+        "Average": 72.5
+    },
+    "Unown": {
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 48,
+        "Special Attack": 72,
+        "Special Defense": 48,
+        "Speed": 48,
+        "Total": 336,
+        "Average": 56.0
+    },
+    "Wobbuffet": {
+        "HP": 190,
+        "Attack": 33,
+        "Defense": 58,
+        "Special Attack": 33,
+        "Special Defense": 58,
+        "Speed": 33,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Girafarig": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 65,
+        "Special Attack": 90,
+        "Special Defense": 65,
+        "Speed": 85,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Pineco": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 90,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 15,
+        "Total": 290,
+        "Average": 48.33
+    },
+    "Forretress": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 140,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 40,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Dunsparce": {
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 70,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 45,
+        "Total": 415,
+        "Average": 69.17
+    },
+    "Gligar": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 105,
+        "Special Attack": 35,
+        "Special Defense": 65,
+        "Speed": 85,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Steelix": {
+        "HP": 75,
+        "Attack": 85,
+        "Defense": 200,
+        "Special Attack": 55,
+        "Special Defense": 65,
+        "Speed": 30,
+        "Total": 510,
+        "Average": 85.0
+    },
+    "Snubbull": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 30,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Granbull": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 75,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 45,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Qwilfish": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 75,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 85,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Scizor": {
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 100,
+        "Special Attack": 55,
+        "Special Defense": 80,
+        "Speed": 65,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Shuckle": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 230,
+        "Special Attack": 10,
+        "Special Defense": 230,
+        "Speed": 5,
+        "Total": 505,
+        "Average": 84.17
+    },
+    "Heracross": {
+        "HP": 80,
+        "Attack": 125,
+        "Defense": 75,
+        "Special Attack": 40,
+        "Special Defense": 95,
+        "Speed": 85,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Sneasel": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 55,
+        "Special Attack": 35,
+        "Special Defense": 75,
+        "Speed": 115,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Teddiursa": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 40,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Ursaring": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 75,
+        "Special Attack": 75,
+        "Special Defense": 75,
+        "Speed": 55,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Slugma": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 40,
+        "Special Attack": 70,
+        "Special Defense": 40,
+        "Speed": 20,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Magcargo": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 120,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 30,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Swinub": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 50,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Piloswine": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 80,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 50,
+        "Total": 450,
+        "Average": 75.0
+    },
+    "Corsola": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 85,
+        "Special Attack": 65,
+        "Special Defense": 85,
+        "Speed": 35,
+        "Total": 380,
+        "Average": 63.33
+    },
+    "Remoraid": {
+        "HP": 35,
+        "Attack": 65,
+        "Defense": 35,
+        "Special Attack": 65,
+        "Special Defense": 35,
+        "Speed": 65,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Octillery": {
+        "HP": 75,
+        "Attack": 105,
+        "Defense": 75,
+        "Special Attack": 105,
+        "Special Defense": 75,
+        "Speed": 45,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Delibird": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 45,
+        "Special Attack": 65,
+        "Special Defense": 45,
+        "Speed": 75,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Mantine": {
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 70,
+        "Special Attack": 80,
+        "Special Defense": 140,
+        "Speed": 70,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Skarmory": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 140,
+        "Special Attack": 40,
+        "Special Defense": 70,
+        "Speed": 70,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Houndour": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 30,
+        "Special Attack": 80,
+        "Special Defense": 50,
+        "Speed": 65,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Houndoom": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 50,
+        "Special Attack": 110,
+        "Special Defense": 80,
+        "Speed": 95,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Kingdra": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 95,
+        "Special Attack": 95,
+        "Special Defense": 95,
+        "Speed": 85,
+        "Total": 540,
+        "Average": 90.0
+    },
+    "Phanpy": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 60,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 40,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Donphan": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 120,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 50,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Porygon2": {
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 90,
+        "Special Attack": 105,
+        "Special Defense": 95,
+        "Speed": 60,
+        "Total": 515,
+        "Average": 85.83
+    },
+    "Stantler": {
+        "HP": 73,
+        "Attack": 95,
+        "Defense": 62,
+        "Special Attack": 85,
+        "Special Defense": 65,
+        "Speed": 85,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Smeargle": {
+        "HP": 55,
+        "Attack": 20,
+        "Defense": 35,
+        "Special Attack": 20,
+        "Special Defense": 45,
+        "Speed": 75,
+        "Total": 250,
+        "Average": 41.67
+    },
+    "Tyrogue": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 35,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 35,
+        "Total": 210,
+        "Average": 35.0
+    },
+    "Hitmontop": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 95,
+        "Special Attack": 35,
+        "Special Defense": 110,
+        "Speed": 70,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Smoochum": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 15,
+        "Special Attack": 85,
+        "Special Defense": 65,
+        "Speed": 65,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Elekid": {
+        "HP": 45,
+        "Attack": 63,
+        "Defense": 37,
+        "Special Attack": 65,
+        "Special Defense": 55,
+        "Speed": 95,
+        "Total": 360,
+        "Average": 60.0
+    },
+    "Magby": {
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 37,
+        "Special Attack": 70,
+        "Special Defense": 55,
+        "Speed": 83,
+        "Total": 365,
+        "Average": 60.83
+    },
+    "Miltank": {
+        "HP": 95,
+        "Attack": 80,
+        "Defense": 105,
+        "Special Attack": 40,
+        "Special Defense": 70,
+        "Speed": 100,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Blissey": {
+        "HP": 255,
+        "Attack": 10,
+        "Defense": 10,
+        "Special Attack": 75,
+        "Special Defense": 135,
+        "Speed": 55,
+        "Total": 540,
+        "Average": 90.0
+    },
+    "Raikou": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 75,
+        "Special Attack": 115,
+        "Special Defense": 100,
+        "Speed": 115,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Entei": {
+        "HP": 115,
+        "Attack": 115,
+        "Defense": 85,
+        "Special Attack": 90,
+        "Special Defense": 75,
+        "Speed": 100,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Suicune": {
+        "HP": 100,
+        "Attack": 75,
+        "Defense": 115,
+        "Special Attack": 90,
+        "Special Defense": 115,
+        "Speed": 85,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Larvitar": {
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Special Attack": 45,
+        "Special Defense": 50,
+        "Speed": 41,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Pupitar": {
+        "HP": 70,
+        "Attack": 84,
+        "Defense": 70,
+        "Special Attack": 65,
+        "Special Defense": 70,
+        "Speed": 51,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Tyranitar": {
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Special Attack": 95,
+        "Special Defense": 100,
+        "Speed": 61,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Lugia": {
+        "HP": 106,
+        "Attack": 90,
+        "Defense": 130,
+        "Special Attack": 90,
+        "Special Defense": 154,
+        "Speed": 110,
+        "Total": 680,
+        "Average": 113.33
+    },
+    "Ho-Oh": {
+        "HP": 106,
+        "Attack": 130,
+        "Defense": 90,
+        "Special Attack": 110,
+        "Special Defense": 154,
+        "Speed": 90,
+        "Total": 680,
+        "Average": 113.33
+    },
+    "Celebi": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Special Attack": 100,
+        "Special Defense": 100,
+        "Speed": 100,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Treecko": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Special Attack": 65,
+        "Special Defense": 55,
+        "Speed": 70,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Grovyle": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Special Attack": 85,
+        "Special Defense": 65,
+        "Speed": 95,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Sceptile": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Special Attack": 105,
+        "Special Defense": 85,
+        "Speed": 120,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Torchic": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 40,
+        "Special Attack": 70,
+        "Special Defense": 50,
+        "Speed": 45,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Combusken": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Special Attack": 85,
+        "Special Defense": 60,
+        "Speed": 55,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Blaziken": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 70,
+        "Special Attack": 110,
+        "Special Defense": 70,
+        "Speed": 80,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Mudkip": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 40,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Marshtomp": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Special Attack": 60,
+        "Special Defense": 70,
+        "Speed": 50,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Swampert": {
+        "HP": 100,
+        "Attack": 110,
+        "Defense": 90,
+        "Special Attack": 85,
+        "Special Defense": 90,
+        "Speed": 60,
+        "Total": 535,
+        "Average": 89.17
+    },
+    "Poochyena": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 35,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 35,
+        "Total": 220,
+        "Average": 36.67
+    },
+    "Mightyena": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 70,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Zigzagoon": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 41,
+        "Special Attack": 30,
+        "Special Defense": 41,
+        "Speed": 60,
+        "Total": 240,
+        "Average": 40.0
+    },
+    "Linoone": {
+        "HP": 78,
+        "Attack": 70,
+        "Defense": 61,
+        "Special Attack": 50,
+        "Special Defense": 61,
+        "Speed": 100,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Wurmple": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 35,
+        "Special Attack": 20,
+        "Special Defense": 30,
+        "Speed": 20,
+        "Total": 195,
+        "Average": 32.5
+    },
+    "Silcoon": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 15,
+        "Total": 205,
+        "Average": 34.17
+    },
+    "Beautifly": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 50,
+        "Special Attack": 90,
+        "Special Defense": 50,
+        "Speed": 65,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Cascoon": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Special Attack": 25,
+        "Special Defense": 25,
+        "Speed": 15,
+        "Total": 205,
+        "Average": 34.17
+    },
+    "Dustox": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Special Attack": 50,
+        "Special Defense": 90,
+        "Speed": 65,
+        "Total": 385,
+        "Average": 64.17
+    },
+    "Lotad": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Special Attack": 40,
+        "Special Defense": 50,
+        "Speed": 30,
+        "Total": 220,
+        "Average": 36.67
+    },
+    "Lombre": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 50,
+        "Special Attack": 60,
+        "Special Defense": 70,
+        "Speed": 50,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Ludicolo": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 70,
+        "Special Attack": 90,
+        "Special Defense": 100,
+        "Speed": 70,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Seedot": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 50,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 30,
+        "Total": 220,
+        "Average": 36.67
+    },
+    "Nuzleaf": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 40,
+        "Special Attack": 60,
+        "Special Defense": 40,
+        "Speed": 60,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Shiftry": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 60,
+        "Special Attack": 90,
+        "Special Defense": 60,
+        "Speed": 80,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Taillow": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 85,
+        "Total": 270,
+        "Average": 45.0
+    },
+    "Swellow": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 125,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Wingull": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Special Attack": 55,
+        "Special Defense": 30,
+        "Speed": 85,
+        "Total": 270,
+        "Average": 45.0
+    },
+    "Pelipper": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 100,
+        "Special Attack": 85,
+        "Special Defense": 70,
+        "Speed": 65,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Ralts": {
+        "HP": 28,
+        "Attack": 25,
+        "Defense": 25,
+        "Special Attack": 45,
+        "Special Defense": 35,
+        "Speed": 40,
+        "Total": 198,
+        "Average": 33.0
+    },
+    "Kirlia": {
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 35,
+        "Special Attack": 65,
+        "Special Defense": 55,
+        "Speed": 50,
+        "Total": 278,
+        "Average": 46.33
+    },
+    "Gardevoir": {
+        "HP": 68,
+        "Attack": 65,
+        "Defense": 65,
+        "Special Attack": 125,
+        "Special Defense": 115,
+        "Speed": 80,
+        "Total": 518,
+        "Average": 86.33
+    },
+    "Surskit": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 32,
+        "Special Attack": 50,
+        "Special Defense": 52,
+        "Speed": 65,
+        "Total": 269,
+        "Average": 44.83
+    },
+    "Masquerain": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 62,
+        "Special Attack": 80,
+        "Special Defense": 82,
+        "Speed": 60,
+        "Total": 414,
+        "Average": 69.0
+    },
+    "Shroomish": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Special Attack": 40,
+        "Special Defense": 60,
+        "Speed": 35,
+        "Total": 295,
+        "Average": 49.17
+    },
+    "Breloom": {
+        "HP": 60,
+        "Attack": 130,
+        "Defense": 80,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 70,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Slakoth": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 30,
+        "Total": 280,
+        "Average": 46.67
+    },
+    "Vigoroth": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 90,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Slaking": {
+        "HP": 150,
+        "Attack": 160,
+        "Defense": 100,
+        "Special Attack": 95,
+        "Special Defense": 65,
+        "Speed": 100,
+        "Total": 670,
+        "Average": 111.67
+    },
+    "Nincada": {
+        "HP": 31,
+        "Attack": 45,
+        "Defense": 90,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 40,
+        "Total": 266,
+        "Average": 44.33
+    },
+    "Ninjask": {
+        "HP": 61,
+        "Attack": 90,
+        "Defense": 45,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 160,
+        "Total": 456,
+        "Average": 76.0
+    },
+    "Shedinja": {
+        "HP": 1,
+        "Attack": 90,
+        "Defense": 45,
+        "Special Attack": 30,
+        "Special Defense": 30,
+        "Speed": 40,
+        "Total": 236,
+        "Average": 39.33
+    },
+    "Whismur": {
+        "HP": 64,
+        "Attack": 51,
+        "Defense": 23,
+        "Special Attack": 51,
+        "Special Defense": 23,
+        "Speed": 28,
+        "Total": 240,
+        "Average": 40.0
+    },
+    "Loudred": {
+        "HP": 84,
+        "Attack": 71,
+        "Defense": 43,
+        "Special Attack": 71,
+        "Special Defense": 43,
+        "Speed": 48,
+        "Total": 360,
+        "Average": 60.0
+    },
+    "Exploud": {
+        "HP": 104,
+        "Attack": 91,
+        "Defense": 63,
+        "Special Attack": 91,
+        "Special Defense": 63,
+        "Speed": 68,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Makuhita": {
+        "HP": 72,
+        "Attack": 60,
+        "Defense": 30,
+        "Special Attack": 20,
+        "Special Defense": 30,
+        "Speed": 25,
+        "Total": 237,
+        "Average": 39.5
+    },
+    "Hariyama": {
+        "HP": 144,
+        "Attack": 120,
+        "Defense": 60,
+        "Special Attack": 40,
+        "Special Defense": 60,
+        "Speed": 50,
+        "Total": 474,
+        "Average": 79.0
+    },
+    "Azurill": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 40,
+        "Special Attack": 20,
+        "Special Defense": 40,
+        "Speed": 20,
+        "Total": 190,
+        "Average": 31.67
+    },
+    "Nosepass": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 135,
+        "Special Attack": 45,
+        "Special Defense": 90,
+        "Speed": 30,
+        "Total": 375,
+        "Average": 62.5
+    },
+    "Skitty": {
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Special Attack": 35,
+        "Special Defense": 35,
+        "Speed": 50,
+        "Total": 260,
+        "Average": 43.33
+    },
+    "Delcatty": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 65,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 70,
+        "Total": 380,
+        "Average": 63.33
+    },
+    "Sableye": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 75,
+        "Special Attack": 65,
+        "Special Defense": 65,
+        "Speed": 50,
+        "Total": 380,
+        "Average": 63.33
+    },
+    "Mawile": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 85,
+        "Special Attack": 55,
+        "Special Defense": 55,
+        "Speed": 50,
+        "Total": 380,
+        "Average": 63.33
+    },
+    "Aron": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 100,
+        "Special Attack": 40,
+        "Special Defense": 40,
+        "Speed": 30,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Lairon": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 140,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 40,
+        "Total": 430,
+        "Average": 71.67
+    },
+    "Aggron": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 180,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 50,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Meditite": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 55,
+        "Special Attack": 40,
+        "Special Defense": 55,
+        "Speed": 60,
+        "Total": 280,
+        "Average": 46.67
+    },
+    "Medicham": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Special Attack": 60,
+        "Special Defense": 75,
+        "Speed": 80,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Electrike": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Special Attack": 65,
+        "Special Defense": 40,
+        "Speed": 65,
+        "Total": 295,
+        "Average": 49.17
+    },
+    "Manectric": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 60,
+        "Special Attack": 105,
+        "Special Defense": 60,
+        "Speed": 105,
+        "Total": 475,
+        "Average": 79.17
+    },
+    "Plusle": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 40,
+        "Special Attack": 85,
+        "Special Defense": 75,
+        "Speed": 95,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Minun": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 50,
+        "Special Attack": 75,
+        "Special Defense": 85,
+        "Speed": 95,
+        "Total": 405,
+        "Average": 67.5
+    },
+    "Volbeat": {
+        "HP": 65,
+        "Attack": 73,
+        "Defense": 55,
+        "Special Attack": 47,
+        "Special Defense": 75,
+        "Speed": 85,
+        "Total": 400,
+        "Average": 66.67
+    },
+    "Illumise": {
+        "HP": 65,
+        "Attack": 47,
+        "Defense": 55,
+        "Special Attack": 73,
+        "Special Defense": 75,
+        "Speed": 85,
+        "Total": 400,
+        "Average": 66.67
+    },
+    "Roselia": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 45,
+        "Special Attack": 100,
+        "Special Defense": 80,
+        "Speed": 65,
+        "Total": 400,
+        "Average": 66.67
+    },
+    "Gulpin": {
+        "HP": 70,
+        "Attack": 43,
+        "Defense": 53,
+        "Special Attack": 43,
+        "Special Defense": 53,
+        "Speed": 40,
+        "Total": 302,
+        "Average": 50.33
+    },
+    "Swalot": {
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 83,
+        "Special Attack": 73,
+        "Special Defense": 83,
+        "Speed": 55,
+        "Total": 467,
+        "Average": 77.83
+    },
+    "Carvanha": {
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 20,
+        "Special Attack": 65,
+        "Special Defense": 20,
+        "Speed": 65,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Sharpedo": {
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 40,
+        "Special Attack": 95,
+        "Special Defense": 40,
+        "Speed": 95,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Wailmer": {
+        "HP": 130,
+        "Attack": 70,
+        "Defense": 35,
+        "Special Attack": 70,
+        "Special Defense": 35,
+        "Speed": 60,
+        "Total": 400,
+        "Average": 66.67
+    },
+    "Wailord": {
+        "HP": 170,
+        "Attack": 90,
+        "Defense": 45,
+        "Special Attack": 90,
+        "Special Defense": 45,
+        "Speed": 60,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Numel": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 40,
+        "Special Attack": 65,
+        "Special Defense": 45,
+        "Speed": 35,
+        "Total": 305,
+        "Average": 50.83
+    },
+    "Camerupt": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Special Attack": 105,
+        "Special Defense": 75,
+        "Speed": 40,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Torkoal": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 140,
+        "Special Attack": 85,
+        "Special Defense": 70,
+        "Speed": 20,
+        "Total": 470,
+        "Average": 78.33
+    },
+    "Spoink": {
+        "HP": 60,
+        "Attack": 25,
+        "Defense": 35,
+        "Special Attack": 70,
+        "Special Defense": 80,
+        "Speed": 60,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Grumpig": {
+        "HP": 80,
+        "Attack": 45,
+        "Defense": 65,
+        "Special Attack": 90,
+        "Special Defense": 110,
+        "Speed": 80,
+        "Total": 470,
+        "Average": 78.33
+    },
+    "Spinda": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 60,
+        "Total": 360,
+        "Average": 60.0
+    },
+    "Trapinch": {
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 45,
+        "Special Attack": 45,
+        "Special Defense": 45,
+        "Speed": 10,
+        "Total": 290,
+        "Average": 48.33
+    },
+    "Vibrava": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 70,
+        "Total": 340,
+        "Average": 56.67
+    },
+    "Flygon": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 80,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 100,
+        "Total": 520,
+        "Average": 86.67
+    },
+    "Cacnea": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 40,
+        "Special Attack": 85,
+        "Special Defense": 40,
+        "Speed": 35,
+        "Total": 335,
+        "Average": 55.83
+    },
+    "Cacturne": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 60,
+        "Special Attack": 115,
+        "Special Defense": 60,
+        "Speed": 55,
+        "Total": 475,
+        "Average": 79.17
+    },
+    "Swablu": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 60,
+        "Special Attack": 40,
+        "Special Defense": 75,
+        "Speed": 50,
+        "Total": 310,
+        "Average": 51.67
+    },
+    "Altaria": {
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 90,
+        "Special Attack": 70,
+        "Special Defense": 105,
+        "Speed": 80,
+        "Total": 490,
+        "Average": 81.67
+    },
+    "Zangoose": {
+        "HP": 73,
+        "Attack": 115,
+        "Defense": 60,
+        "Special Attack": 60,
+        "Special Defense": 60,
+        "Speed": 90,
+        "Total": 458,
+        "Average": 76.33
+    },
+    "Seviper": {
+        "HP": 73,
+        "Attack": 100,
+        "Defense": 60,
+        "Special Attack": 100,
+        "Special Defense": 60,
+        "Speed": 65,
+        "Total": 458,
+        "Average": 76.33
+    },
+    "Lunatone": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 65,
+        "Special Attack": 95,
+        "Special Defense": 85,
+        "Speed": 70,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Solrock": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 85,
+        "Special Attack": 55,
+        "Special Defense": 65,
+        "Speed": 70,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Barboach": {
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 43,
+        "Special Attack": 46,
+        "Special Defense": 41,
+        "Speed": 60,
+        "Total": 288,
+        "Average": 48.0
+    },
+    "Whiscash": {
+        "HP": 110,
+        "Attack": 78,
+        "Defense": 73,
+        "Special Attack": 76,
+        "Special Defense": 71,
+        "Speed": 60,
+        "Total": 468,
+        "Average": 78.0
+    },
+    "Corphish": {
+        "HP": 43,
+        "Attack": 80,
+        "Defense": 65,
+        "Special Attack": 50,
+        "Special Defense": 35,
+        "Speed": 35,
+        "Total": 308,
+        "Average": 51.33
+    },
+    "Crawdaunt": {
+        "HP": 63,
+        "Attack": 120,
+        "Defense": 85,
+        "Special Attack": 90,
+        "Special Defense": 55,
+        "Speed": 55,
+        "Total": 468,
+        "Average": 78.0
+    },
+    "Baltoy": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 55,
+        "Special Attack": 40,
+        "Special Defense": 70,
+        "Speed": 55,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Claydol": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 105,
+        "Special Attack": 70,
+        "Special Defense": 120,
+        "Speed": 75,
+        "Total": 500,
+        "Average": 83.33
+    },
+    "Lileep": {
+        "HP": 66,
+        "Attack": 41,
+        "Defense": 77,
+        "Special Attack": 61,
+        "Special Defense": 87,
+        "Speed": 23,
+        "Total": 355,
+        "Average": 59.17
+    },
+    "Cradily": {
+        "HP": 86,
+        "Attack": 81,
+        "Defense": 97,
+        "Special Attack": 81,
+        "Special Defense": 107,
+        "Speed": 43,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Anorith": {
+        "HP": 45,
+        "Attack": 95,
+        "Defense": 50,
+        "Special Attack": 40,
+        "Special Defense": 50,
+        "Speed": 75,
+        "Total": 355,
+        "Average": 59.17
+    },
+    "Armaldo": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 100,
+        "Special Attack": 70,
+        "Special Defense": 80,
+        "Speed": 45,
+        "Total": 495,
+        "Average": 82.5
+    },
+    "Feebas": {
+        "HP": 20,
+        "Attack": 15,
+        "Defense": 20,
+        "Special Attack": 10,
+        "Special Defense": 55,
+        "Speed": 80,
+        "Total": 200,
+        "Average": 33.33
+    },
+    "Milotic": {
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 79,
+        "Special Attack": 100,
+        "Special Defense": 125,
+        "Speed": 81,
+        "Total": 540,
+        "Average": 90.0
+    },
+    "Castform": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "Special Attack": 70,
+        "Special Defense": 70,
+        "Speed": 70,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Kecleon": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 70,
+        "Special Attack": 60,
+        "Special Defense": 120,
+        "Speed": 40,
+        "Total": 440,
+        "Average": 73.33
+    },
+    "Shuppet": {
+        "HP": 44,
+        "Attack": 75,
+        "Defense": 35,
+        "Special Attack": 63,
+        "Special Defense": 33,
+        "Speed": 45,
+        "Total": 295,
+        "Average": 49.17
+    },
+    "Banette": {
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 65,
+        "Special Attack": 83,
+        "Special Defense": 63,
+        "Speed": 65,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Duskull": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 90,
+        "Special Attack": 30,
+        "Special Defense": 90,
+        "Speed": 25,
+        "Total": 295,
+        "Average": 49.17
+    },
+    "Dusclops": {
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 130,
+        "Special Attack": 60,
+        "Special Defense": 130,
+        "Speed": 25,
+        "Total": 455,
+        "Average": 75.83
+    },
+    "Tropius": {
+        "HP": 99,
+        "Attack": 68,
+        "Defense": 83,
+        "Special Attack": 72,
+        "Special Defense": 87,
+        "Speed": 51,
+        "Total": 460,
+        "Average": 76.67
+    },
+    "Chimecho": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 70,
+        "Special Attack": 95,
+        "Special Defense": 80,
+        "Speed": 65,
+        "Total": 425,
+        "Average": 70.83
+    },
+    "Absol": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Special Attack": 75,
+        "Special Defense": 60,
+        "Speed": 75,
+        "Total": 465,
+        "Average": 77.5
+    },
+    "Wynaut": {
+        "HP": 95,
+        "Attack": 23,
+        "Defense": 48,
+        "Special Attack": 23,
+        "Special Defense": 48,
+        "Speed": 23,
+        "Total": 260,
+        "Average": 43.33
+    },
+    "Snorunt": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 50,
+        "Special Attack": 50,
+        "Special Defense": 50,
+        "Speed": 50,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Glalie": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Special Attack": 80,
+        "Special Defense": 80,
+        "Speed": 80,
+        "Total": 480,
+        "Average": 80.0
+    },
+    "Spheal": {
+        "HP": 70,
+        "Attack": 40,
+        "Defense": 50,
+        "Special Attack": 55,
+        "Special Defense": 50,
+        "Speed": 25,
+        "Total": 290,
+        "Average": 48.33
+    },
+    "Sealeo": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 70,
+        "Special Attack": 75,
+        "Special Defense": 70,
+        "Speed": 45,
+        "Total": 410,
+        "Average": 68.33
+    },
+    "Walrein": {
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 90,
+        "Special Attack": 95,
+        "Special Defense": 90,
+        "Speed": 65,
+        "Total": 530,
+        "Average": 88.33
+    },
+    "Clamperl": {
+        "HP": 35,
+        "Attack": 64,
+        "Defense": 85,
+        "Special Attack": 74,
+        "Special Defense": 55,
+        "Speed": 32,
+        "Total": 345,
+        "Average": 57.5
+    },
+    "Huntail": {
+        "HP": 55,
+        "Attack": 104,
+        "Defense": 105,
+        "Special Attack": 94,
+        "Special Defense": 75,
+        "Speed": 52,
+        "Total": 485,
+        "Average": 80.83
+    },
+    "Gorebyss": {
+        "HP": 55,
+        "Attack": 84,
+        "Defense": 105,
+        "Special Attack": 114,
+        "Special Defense": 75,
+        "Speed": 52,
+        "Total": 485,
+        "Average": 80.83
+    },
+    "Relicanth": {
+        "HP": 100,
+        "Attack": 90,
+        "Defense": 130,
+        "Special Attack": 45,
+        "Special Defense": 65,
+        "Speed": 55,
+        "Total": 485,
+        "Average": 80.83
+    },
+    "Luvdisc": {
+        "HP": 43,
+        "Attack": 30,
+        "Defense": 55,
+        "Special Attack": 40,
+        "Special Defense": 65,
+        "Speed": 97,
+        "Total": 330,
+        "Average": 55.0
+    },
+    "Bagon": {
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 60,
+        "Special Attack": 40,
+        "Special Defense": 30,
+        "Speed": 50,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Shelgon": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 100,
+        "Special Attack": 60,
+        "Special Defense": 50,
+        "Speed": 50,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Salamence": {
+        "HP": 95,
+        "Attack": 135,
+        "Defense": 80,
+        "Special Attack": 110,
+        "Special Defense": 80,
+        "Speed": 100,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Beldum": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 80,
+        "Special Attack": 35,
+        "Special Defense": 60,
+        "Speed": 30,
+        "Total": 300,
+        "Average": 50.0
+    },
+    "Metang": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 100,
+        "Special Attack": 55,
+        "Special Defense": 80,
+        "Speed": 50,
+        "Total": 420,
+        "Average": 70.0
+    },
+    "Metagross": {
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 130,
+        "Special Attack": 95,
+        "Special Defense": 90,
+        "Speed": 70,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Regirock": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 200,
+        "Special Attack": 50,
+        "Special Defense": 100,
+        "Speed": 50,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Regice": {
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 100,
+        "Special Attack": 100,
+        "Special Defense": 200,
+        "Speed": 50,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Registeel": {
+        "HP": 80,
+        "Attack": 75,
+        "Defense": 150,
+        "Special Attack": 75,
+        "Special Defense": 150,
+        "Speed": 50,
+        "Total": 580,
+        "Average": 96.67
+    },
+    "Latias": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 90,
+        "Special Attack": 110,
+        "Special Defense": 130,
+        "Speed": 110,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Latios": {
+        "HP": 80,
+        "Attack": 90,
+        "Defense": 80,
+        "Special Attack": 130,
+        "Special Defense": 110,
+        "Speed": 110,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Kyogre": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 90,
+        "Special Attack": 150,
+        "Special Defense": 140,
+        "Speed": 90,
+        "Total": 670,
+        "Average": 111.67
+    },
+    "Groudon": {
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 140,
+        "Special Attack": 100,
+        "Special Defense": 90,
+        "Speed": 90,
+        "Total": 670,
+        "Average": 111.67
+    },
+    "Rayquaza": {
+        "HP": 105,
+        "Attack": 150,
+        "Defense": 90,
+        "Special Attack": 150,
+        "Special Defense": 90,
+        "Speed": 95,
+        "Total": 680,
+        "Average": 113.33
+    },
+    "Jirachi": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Special Attack": 100,
+        "Special Defense": 100,
+        "Speed": 100,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Deoxys (Normal Forme)": {
+        "HP": 50,
+        "Attack": 150,
+        "Defense": 50,
+        "Special Attack": 150,
+        "Special Defense": 50,
+        "Speed": 150,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Deoxys (Attack Forme)": {
+        "HP": 50,
+        "Attack": 180,
+        "Defense": 20,
+        "Special Attack": 180,
+        "Special Defense": 20,
+        "Speed": 150,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Deoxys (Defense Forme)": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 160,
+        "Special Attack": 70,
+        "Special Defense": 160,
+        "Speed": 90,
+        "Total": 600,
+        "Average": 100.0
+    },
+    "Deoxys (Speed Forme)": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 90,
+        "Special Attack": 95,
+        "Special Defense": 90,
+        "Speed": 180,
+        "Total": 600,
+        "Average": 100.0
+    }
+}

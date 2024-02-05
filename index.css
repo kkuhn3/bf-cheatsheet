@@ -1,0 +1,49 @@
+html {
+  background-color: #d3dfeb;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  font-family: serif;
+  border: 1px solid #aaaaaa;
+  text-align: left;
+  padding: 8px;
+  font-size: 24px;
+}
+
+td {
+  font-family: sans-serif;
+  border: 1px solid #aaaaaa;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+select {
+  width: 120px;
+  margin-bottom: 4px;
+  font-family: sans-serif;
+}
+
+label {
+  font-family: sans-serif;
+}
+
+#levelSelLabel {
+  float: right;
+}
+#levelSelect {
+  float: right;
+  width: 50px;
+}
