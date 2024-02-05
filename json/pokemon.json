@@ -11465,9 +11465,9 @@
         "Ability 2": "---",
         "EVs": "170/ 0 /170/ 0 /170/ 0 "
     },
-    "Alakazam ": {
+    "Alakazam Silver": {
         "Species": "Alakazam",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Modest",
         "Item": "BrightPowder",
         "Move 1": "ThunderPunch",
@@ -11478,9 +11478,9 @@
         "Ability 2": "Inner Focus",
         "EVs": "106/ 0 /152/100/ 0 /152 "
     },
-    "Entei ": {
+    "Entei Silver": {
         "Species": "Entei",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Lonely",
         "Item": "Lum Berry",
         "Move 1": "Fire Blast",
@@ -11491,22 +11491,22 @@
         "Ability 2": "---",
         "EVs": "100/152/152/100/ 6 / 0  "
     },
-    "Snorlax ": {
+    "Snorlax Silver": {
         "Species": "Snorlax",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
-        "Item": "Chesto Berry",
-        "Move 1": "Curse",
-        "Move 2": "Return",
-        "Move 3": "Rest",
+        "Item": "Quick Claw",
+        "Move 1": "Body Slam",
+        "Move 2": "Belly Drum",
+        "Move 3": "Yawn",
         "Move 4": "Shadow Ball",
         "Ability 1": "Immunity",
         "Ability 2": "Thick Fat",
-        "EVs": "252/252/ 0 / 6 / 0 / 0  "
+        "EVs": "152/152/ 0 /106/100/0 "
     },
-    "Raikou ": {
+    "Raikou Gold": {
         "Species": "Raikou",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Modest",
         "Item": "Lum Berry",
         "Move 1": "Thunderbolt",
@@ -11517,9 +11517,9 @@
         "Ability 2": "---",
         "EVs": "158/ 0 /252/ 0 / 0 /100 "
     },
-    "Latios ": {
+    "Latios Gold": {
         "Species": "Latios",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Modest",
         "Item": "BrightPowder",
         "Move 1": "Psychic",
@@ -11530,22 +11530,35 @@
         "Ability 2": "---",
         "EVs": "252/ 0 /252/ 0 / 0 / 6  "
     },
-    "Swampert ": {
+    "Snorlax Gold": {
+        "Species": "Snorlax",
+        "Instance": "Gold",
+        "Nature": "Adamant",
+        "Item": "Chesto Berry",
+        "Move 1": "Curse",
+        "Move 2": "Return",
+        "Move 3": "Rest",
+        "Move 4": "Shadow Ball",
+        "Ability 1": "Immunity",
+        "Ability 2": "Thick Fat",
+        "EVs": "252/252/ 0 / 6 / 0 / 0  "
+    },
+    "Swampert Silver": {
         "Species": "Swampert",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Brave",
-        "Item": "Leftovers",
+        "Item": "Focus Band",
         "Move 1": "Surf",
         "Move 2": "Earthquake",
         "Move 3": "Ice Beam",
-        "Move 4": "Mirror Coat",
-        "Ability 1": "Torrent",
+        "Move 4": "Counter",
+        "Ability 1": "Intimidate",
         "Ability 2": "---",
-        "EVs": "252/252/ 6 / 0 / 0 / 0  "
+        "EVs": "152/152/106/100/ 0 / 0  "
     },
-    "Salamence ": {
+    "Salamence Silver": {
         "Species": "Salamence",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "Lum Berry",
         "Move 1": "Earthquake",
@@ -11556,9 +11569,9 @@
         "Ability 2": "---",
         "EVs": "152/152/106/ 0 / 0 /100 "
     },
-    "Charizard ": {
+    "Charizard Silver": {
         "Species": "Charizard",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Quiet",
         "Item": "White Herb",
         "Move 1": "Overheat",
@@ -11569,9 +11582,22 @@
         "Ability 2": "---",
         "EVs": "100/152/106/ 0 / 0 /152 "
     },
-    "Metagross ": {
+    "Swampert Gold": {
+        "Species": "Swampert",
+        "Instance": "Gold",
+        "Nature": "Brave",
+        "Item": "Leftovers",
+        "Move 1": "Surf",
+        "Move 2": "Earthquake",
+        "Move 3": "Ice Beam",
+        "Move 4": "Mirror Coat",
+        "Ability 1": "Torrent",
+        "Ability 2": "---",
+        "EVs": "252/252/ 6 / 0 / 0 / 0  "
+    },
+    "Metagross Gold": {
         "Species": "Metagross",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Brave",
         "Item": "Quick Claw",
         "Move 1": "Psychic",
@@ -11582,9 +11608,9 @@
         "Ability 2": "---",
         "EVs": "252/252/ 6 / 0 / 0 / 0  "
     },
-    "Latias ": {
+    "Latias Gold": {
         "Species": "Latias",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Modest",
         "Item": "Chesto Berry",
         "Move 1": "Thunderbolt",
@@ -11595,9 +11621,9 @@
         "Ability 2": "---",
         "EVs": "252/ 0 /252/ 0 / 0 / 6  "
     },
-    "Crobat ": {
+    "Crobat Silver": {
         "Species": "Crobat",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "BrightPowder",
         "Move 1": "Confuse Ray",
@@ -11608,22 +11634,22 @@
         "Ability 2": "---",
         "EVs": "152/ 0 / 0 /100/106/152 "
     },
-    "Slaking ": {
+    "Slaking Silver": {
         "Species": "Slaking",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Hardy",
         "Item": "Scope Lens",
-        "Move 1": "Hyper Beam",
-        "Move 2": "Earthquake",
+        "Move 1": "Earthquake",
+        "Move 2": "Swagger",
         "Move 3": "Shadow Ball",
-        "Move 4": "Yawn",
+        "Move 4": "Brick Break",
         "Ability 1": "Truant",
         "Ability 2": "---",
-        "EVs": " 6 /252/ 0 / 0 / 0 /252 "
+        "EVs": "152/152/ 0 /100/ 0 /106 "
     },
-    "Lapras ": {
+    "Lapras Silver": {
         "Species": "Lapras",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Quiet",
         "Item": "Quick Claw",
         "Move 1": "Ice Beam",
@@ -11634,9 +11660,9 @@
         "Ability 2": "Shell Armor",
         "EVs": " 0 / 0 /252/106/152/ 0  "
     },
-    "Arcanine ": {
+    "Arcanine Gold": {
         "Species": "Arcanine",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Hasty",
         "Item": "White Herb",
         "Move 1": "Overheat",
@@ -11647,9 +11673,22 @@
         "Ability 2": "Intimidate",
         "EVs": " 6 /252/252/ 0 / 0 / 0  "
     },
-    "Suicune ": {
+    "Slaking Gold": {
+        "Species": "Slaking",
+        "Instance": "Gold",
+        "Nature": "Hardy",
+        "Item": "Scope Lens",
+        "Move 1": "Hyper Beam",
+        "Move 2": "Earthquake",
+        "Move 3": "Shadow Ball",
+        "Move 4": "Yawn",
+        "Ability 1": "Truant",
+        "Ability 2": "---",
+        "EVs": " 6 /252/ 0 / 0 / 0 /252 "
+    },
+    "Suicune Gold": {
         "Species": "Suicune",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Hasty",
         "Item": "King's Rock",
         "Move 1": "Blizzard",
@@ -11660,9 +11699,9 @@
         "Ability 2": "---",
         "EVs": "252/ 0 /252/ 0 / 0 / 6  "
     },
-    "Heracross ": {
+    "Heracross Silver": {
         "Species": "Heracross",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Jolly",
         "Item": "Salac Berry",
         "Move 1": "Megahorn",
@@ -11673,22 +11712,22 @@
         "Ability 2": "Swarm",
         "EVs": "106/152/ 0 /0/100/152 "
     },
-    "Umbreon ": {
+    "Umbreon Silver": {
         "Species": "Umbreon",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Calm",
-        "Item": "Chesto Berry",
-        "Move 1": "Double-Edge",
+        "Item": "Leftovers",
+        "Move 1": "Body Slam",
         "Move 2": "Confuse Ray",
-        "Move 3": "Rest",
-        "Move 4": "Psychic",
+        "Move 3": "Psychic",
+        "Move 4": "Faint Attack",
         "Ability 1": "Synchronize",
         "Ability 2": "---",
-        "EVs": "252/ 0 / 0 /252/ 6 / 0  "
+        "EVs": "152/ 0 /100/152/106/ 0  "
     },
-    "Shedinja ": {
+    "Shedinja Silver": {
         "Species": "Shedinja",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "BrightPowder",
         "Move 1": "Shadow Ball",
@@ -11699,9 +11738,22 @@
         "Ability 2": "---",
         "EVs": " 0 /252/ 6 / 0 / 0 /252 "
     },
-    "Gengar ": {
+    "Umbreon Gold": {
+        "Species": "Umbreon",
+        "Instance": "Gold",
+        "Nature": "Calm",
+        "Item": "Chesto Berry",
+        "Move 1": "Double-Edge",
+        "Move 2": "Confuse Ray",
+        "Move 3": "Rest",
+        "Move 4": "Psychic",
+        "Ability 1": "Synchronize",
+        "Ability 2": "---",
+        "EVs": "252/ 0 / 0 /252/ 6 / 0  "
+    },
+    "Gengar Gold": {
         "Species": "Gengar",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Modest",
         "Item": "Leftovers",
         "Move 1": "Psychic",
@@ -11712,9 +11764,9 @@
         "Ability 2": "---",
         "EVs": "252/ 0 /252/ 6 / 0 / 0  "
     },
-    "Breloom ": {
+    "Breloom Gold": {
         "Species": "Breloom",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Jolly",
         "Item": "Lum Berry",
         "Move 1": "Spore",
@@ -11725,9 +11777,9 @@
         "Ability 2": "---",
         "EVs": " 6 /252/ 0 / 0 / 0 /252 "
     },
-    "Metang ": {
+    "Metang Silver": {
         "Species": "Metang",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Brave",
         "Item": "Sitrus Berry",
         "Move 1": "Light Screen",
@@ -11738,9 +11790,9 @@
         "Ability 2": "---",
         "EVs": " 0 /252/252/ 6 / 0 / 0  "
     },
-    "Skarmory ": {
+    "Skarmory Silver": {
         "Species": "Skarmory",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Impish",
         "Item": "Sitrus Berry",
         "Move 1": "Toxic",
@@ -11751,9 +11803,9 @@
         "Ability 2": "Sturdy",
         "EVs": "252/ 0 / 0 / 6 /252/ 0  "
     },
-    "Aggron ": {
+    "Aggron Silver": {
         "Species": "Aggron",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "Sitrus Berry",
         "Move 1": "Thunderbolt",
@@ -11764,22 +11816,61 @@
         "Ability 2": "Rock Head",
         "EVs": " 0 /252/ 0 /252/ 6 / 0  "
     },
-    "Seviper ": {
+    "Metang Gold": {
+        "Species": "Metang",
+        "Instance": "Gold",
+        "Nature": "Brave",
+        "Item": "Sitrus Berry",
+        "Move 1": "Light Screen",
+        "Move 2": "Psychic",
+        "Move 3": "Reflect",
+        "Move 4": "Metal Claw",
+        "Ability 1": "Clear Body",
+        "Ability 2": "---",
+        "EVs": " 0 /252/252/ 6 / 0 / 0  "
+    },
+    "Skarmory Gold": {
+        "Species": "Skarmory",
+        "Instance": "Gold",
+        "Nature": "Impish",
+        "Item": "Sitrus Berry",
+        "Move 1": "Toxic",
+        "Move 2": "Aerial Ace",
+        "Move 3": "Protect",
+        "Move 4": "Steel Wing",
+        "Ability 1": "Keen Eye",
+        "Ability 2": "Sturdy",
+        "EVs": "252/ 0 / 0 / 6 /252/ 0  "
+    },
+    "Aggron Gold": {
+        "Species": "Aggron",
+        "Instance": "Gold",
+        "Nature": "Adamant",
+        "Item": "Sitrus Berry",
+        "Move 1": "Thunderbolt",
+        "Move 2": "Protect",
+        "Move 3": "SolarBeam",
+        "Move 4": "Dragon Claw",
+        "Ability 1": "Sturdy",
+        "Ability 2": "Rock Head",
+        "EVs": " 0 /252/ 0 /252/ 6 / 0  "
+    },
+    "Seviper Silver": {
         "Species": "Seviper",
-        "Instance": "",
-        "Nature": "Bold",
-        "Item": "Focus Band",
+        "Instance": "Silver",
+        "Nature": "Brave",
+        "Item": "Quick Claw",
         "Move 1": "Swagger",
         "Move 2": "Crunch",
-        "Move 3": "Sludge Bomb",
+        "Move 3": "Poison Fang",
         "Move 4": "Giga Drain",
         "Ability 1": "Shed Skin",
         "Ability 2": "---",
-        "EVs": "252/ 0 / 0 /252/ 6 / 0  "
+        "EVs": "252/ 0 /252/ 6 / 0 / 0  "
     },
-    "Shuckle ": {
+    "Shuckle Silver": {
         "Species": "Shuckle",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Bold",
         "Item": "Chesto Berry",
         "Move 1": "Toxic",
@@ -11790,9 +11881,9 @@
         "Ability 2": "---",
         "EVs": "252/ 0 / 0 /106/252/ 0  "
     },
-    "Milotic ": {
+    "Milotic Silver": {
         "Species": "Milotic",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Modest",
         "Item": "Leftovers",
         "Move 1": "Ice Beam",
@@ -11803,9 +11894,22 @@
         "Ability 2": "---",
         "EVs": "152/ 0 /100/152/106/ 0  "
     },
-    "Steelix ": {
+    "Seviper Gold": {
+        "Species": "Seviper",
+        "Instance": "Gold",
+        "Nature": "Bold",
+        "Item": "Focus Band",
+        "Move 1": "Swagger",
+        "Move 2": "Crunch",
+        "Move 3": "Sludge Bomb",
+        "Move 4": "Giga Drain",
+        "Ability 1": "Shed Skin",
+        "Ability 2": "---",
+        "EVs": "252/ 0 / 0 /252/ 6 / 0  "
+    },
+    "Steelix Gold": {
         "Species": "Steelix",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Brave",
         "Item": "BrightPowder",
         "Move 1": "Earthquake",
@@ -11816,9 +11920,9 @@
         "Ability 2": "Rock Head",
         "EVs": "252/ 0 / 0 / 6 /252/ 0  "
     },
-    "Gyarados ": {
+    "Gyarados Gold": {
         "Species": "Gyarados",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Adamant",
         "Item": "Chesto Berry",
         "Move 1": "Dragon Dance",
@@ -11829,9 +11933,9 @@
         "Ability 2": "---",
         "EVs": "252/ 6 / 0 / 0 /252/ 0  "
     },
-    "Regirock ": {
+    "Regirock Silver": {
         "Species": "Regirock",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "Quick Claw",
         "Move 1": "Explosion",
@@ -11842,9 +11946,9 @@
         "Ability 2": "---",
         "EVs": "152/152/ 0 /106/100/ 0  "
     },
-    "Registeel ": {
+    "Registeel Silver": {
         "Species": "Registeel",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Adamant",
         "Item": "Leftovers",
         "Move 1": "Earthquake",
@@ -11855,9 +11959,9 @@
         "Ability 2": "---",
         "EVs": "152/152/ 0 / 6 /200/ 0  "
     },
-    "Regice ": {
+    "Regice Silver": {
         "Species": "Regice",
-        "Instance": "",
+        "Instance": "Silver",
         "Nature": "Modest",
         "Item": "Chesto Berry",
         "Move 1": "Ice Beam",
@@ -11868,9 +11972,9 @@
         "Ability 2": "---",
         "EVs": "106/ 0 /152/100/152/ 0  "
     },
-    "Articuno ": {
+    "Articuno Gold": {
         "Species": "Articuno",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Mild",
         "Item": "Scope Lens",
         "Move 1": "Blizzard",
@@ -11881,9 +11985,9 @@
         "Ability 2": "---",
         "EVs": " 6 / 0 /252/ 0 / 0 /252 "
     },
-    "Zapdos ": {
+    "Zapdos Gold": {
         "Species": "Zapdos",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Mild",
         "Item": "Lum Berry",
         "Move 1": "Thunder",
@@ -11894,9 +11998,9 @@
         "Ability 2": "---",
         "EVs": " 6 / 0 /252/ 0 / 0 /252 "
     },
-    "Moltres ": {
+    "Moltres Gold": {
         "Species": "Moltres",
-        "Instance": "",
+        "Instance": "Gold",
         "Nature": "Mild",
         "Item": "BrightPowder",
         "Move 1": "Fire Blast",

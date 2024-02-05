@@ -31,7 +31,7 @@ tr:nth-child(odd) {
 }
 
 select {
-  width: 120px;
+  width: 130px;
   margin-bottom: 4px;
   font-family: sans-serif;
 }

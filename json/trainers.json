@@ -15485,5 +15485,113 @@
             "Starmie 7",
             "Starmie 8"
         ]
+    },
+    "ANABEL Silver": {
+        "Class": "Salon Maiden",
+        "IVs": 24,
+        "Pokemon": [
+            "Alakazam Silver",
+            "Entei Silver",
+            "Snorlax Silver"
+        ]
+    },
+    "ANABEL Gold": {
+        "Class": "Salon Maiden",
+        "IVs": 31,
+        "Pokemon": [
+            "Raikou Gold",
+            "Latios Gold",
+            "Snorla Gold"
+        ]
+    },
+    "TUCKER Silver": {
+        "Class": "Dome Ace",
+        "IVs": 20,
+        "Pokemon": [
+            "Swampert Silver",
+            "Salamence Silver",
+            "Charizard Silver"
+        ]
+    },
+    "TUCKER Gold": {
+        "Class": "Dome Ace",
+        "IVs": 31,
+        "Pokemon": [
+            "Swampert Gold",
+            "Metagross Gold",
+            "Latias Gold"
+        ]
+    },
+    "SPENSER Silver": {
+        "Class": "Palace Maven",
+        "IVs": 16,
+        "Pokemon": [
+            "Crobat Silver",
+            "Slaking Silver",
+            "Lapras Silver"
+        ]
+    },
+    "SPENSER Gold": {
+        "Class": "Palace Maven",
+        "IVs": 31,
+        "Pokemon": [
+            "Arcanine Gold",
+            "Slaking Gold",
+            "Suicune Gold"
+        ]
+    },
+    "GRETA Silver": {
+        "Class": "Arena Tycoon",
+        "IVs": 20,
+        "Pokemon": [
+            "Heracross Silver",
+            "Umbreon Silver",
+            "Shedinja Silver"
+        ]
+    },
+    "GRETA Gold": {
+        "Class": "Arena Tycoon",
+        "IVs": 31,
+        "Pokemon": [
+            "Umbreon Gold",
+            "Gengar Gold",
+            "Breloom Gold"
+        ]
+    },
+    "LUCY Silver": {
+        "Class": "Pike Queen",
+        "IVs": 16,
+        "Pokemon": [
+            "Seviper Silver",
+            "Shuckle Silver",
+            "Milotic Silver"
+        ]
+    },
+    "LUCY Gold": {
+        "Class": "Pike Queen",
+        "IVs": 31,
+        "Pokemon": [
+            "Seviper Gold",
+            "Steelix Gold",
+            "Gyarados Gold"
+        ]
+    },
+    "BRANDON Silver": {
+        "Class": "Pyramid King",
+        "IVs": 16,
+        "Pokemon": [
+            "Regirock Silver",
+            "Registeel Silver",
+            "Regice Silver"
+        ]
+    },
+    "BRANDON Gold": {
+        "Class": "Pyramid King",
+        "IVs": 31,
+        "Pokemon": [
+            "Articuno Gold",
+            "Zapdos Gold",
+            "Moltres Gold"
+        ]
     }
 }
