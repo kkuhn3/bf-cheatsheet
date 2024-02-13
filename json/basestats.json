@@ -7,7 +7,9 @@
         "Special Defense": 65,
         "Speed": 45,
         "Total": 318,
-        "Average": 53.0
+        "Average": 53.0,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Ivysaur": {
         "HP": 60,
@@ -17,7 +19,9 @@
         "Special Defense": 80,
         "Speed": 60,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Venusaur": {
         "HP": 80,
@@ -27,7 +31,9 @@
         "Special Defense": 100,
         "Speed": 80,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Charmander": {
         "HP": 39,
@@ -37,7 +43,9 @@
         "Special Defense": 50,
         "Speed": 65,
         "Total": 309,
-        "Average": 51.5
+        "Average": 51.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Charmeleon": {
         "HP": 58,
@@ -47,7 +55,9 @@
         "Special Defense": 65,
         "Speed": 80,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Charizard": {
         "HP": 78,
@@ -57,7 +67,9 @@
         "Special Defense": 85,
         "Speed": 100,
         "Total": 534,
-        "Average": 89.0
+        "Average": 89.0,
+        "Type1": "Fire",
+        "Type2": "Flying"
     },
     "Squirtle": {
         "HP": 44,
@@ -67,7 +79,9 @@
         "Special Defense": 64,
         "Speed": 43,
         "Total": 314,
-        "Average": 52.33
+        "Average": 52.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Wartortle": {
         "HP": 59,
@@ -77,7 +91,9 @@
         "Special Defense": 80,
         "Speed": 58,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Blastoise": {
         "HP": 79,
@@ -87,7 +103,9 @@
         "Special Defense": 105,
         "Speed": 78,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Caterpie": {
         "HP": 45,
@@ -97,7 +115,9 @@
         "Special Defense": 20,
         "Speed": 45,
         "Total": 195,
-        "Average": 32.5
+        "Average": 32.5,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Metapod": {
         "HP": 50,
@@ -107,7 +127,9 @@
         "Special Defense": 25,
         "Speed": 30,
         "Total": 205,
-        "Average": 34.17
+        "Average": 34.17,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Butterfree": {
         "HP": 60,
@@ -117,7 +139,9 @@
         "Special Defense": 80,
         "Speed": 70,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Weedle": {
         "HP": 40,
@@ -127,7 +151,9 @@
         "Special Defense": 20,
         "Speed": 50,
         "Total": 195,
-        "Average": 32.5
+        "Average": 32.5,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Kakuna": {
         "HP": 45,
@@ -137,7 +163,9 @@
         "Special Defense": 25,
         "Speed": 35,
         "Total": 205,
-        "Average": 34.17
+        "Average": 34.17,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Beedrill": {
         "HP": 65,
@@ -147,7 +175,9 @@
         "Special Defense": 80,
         "Speed": 75,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Pidgey": {
         "HP": 40,
@@ -157,7 +187,9 @@
         "Special Defense": 35,
         "Speed": 56,
         "Total": 251,
-        "Average": 41.83
+        "Average": 41.83,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Pidgeotto": {
         "HP": 63,
@@ -167,7 +199,9 @@
         "Special Defense": 50,
         "Speed": 71,
         "Total": 349,
-        "Average": 58.17
+        "Average": 58.17,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Pidgeot": {
         "HP": 83,
@@ -177,7 +211,9 @@
         "Special Defense": 70,
         "Speed": 91,
         "Total": 469,
-        "Average": 78.17
+        "Average": 78.17,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Rattata": {
         "HP": 30,
@@ -187,7 +223,9 @@
         "Special Defense": 35,
         "Speed": 72,
         "Total": 253,
-        "Average": 42.17
+        "Average": 42.17,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Raticate": {
         "HP": 55,
@@ -197,7 +235,9 @@
         "Special Defense": 70,
         "Speed": 97,
         "Total": 413,
-        "Average": 68.83
+        "Average": 68.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Spearow": {
         "HP": 40,
@@ -207,7 +247,9 @@
         "Special Defense": 31,
         "Speed": 70,
         "Total": 262,
-        "Average": 43.67
+        "Average": 43.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Fearow": {
         "HP": 65,
@@ -217,7 +259,9 @@
         "Special Defense": 61,
         "Speed": 100,
         "Total": 442,
-        "Average": 73.67
+        "Average": 73.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Ekans": {
         "HP": 35,
@@ -227,7 +271,9 @@
         "Special Defense": 54,
         "Speed": 55,
         "Total": 288,
-        "Average": 48.0
+        "Average": 48.0,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Arbok": {
         "HP": 60,
@@ -237,7 +283,9 @@
         "Special Defense": 79,
         "Speed": 80,
         "Total": 438,
-        "Average": 73.0
+        "Average": 73.0,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Pikachu": {
         "HP": 35,
@@ -247,7 +295,9 @@
         "Special Defense": 40,
         "Speed": 90,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Raichu": {
         "HP": 60,
@@ -257,7 +307,9 @@
         "Special Defense": 80,
         "Speed": 100,
         "Total": 475,
-        "Average": 79.17
+        "Average": 79.17,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Sandshrew": {
         "HP": 50,
@@ -267,7 +319,9 @@
         "Special Defense": 30,
         "Speed": 40,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Sandslash": {
         "HP": 75,
@@ -277,7 +331,9 @@
         "Special Defense": 55,
         "Speed": 65,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "NidoranF": {
         "HP": 55,
@@ -287,7 +343,9 @@
         "Special Defense": 40,
         "Speed": 41,
         "Total": 275,
-        "Average": 45.83
+        "Average": 45.83,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Nidorina": {
         "HP": 70,
@@ -297,7 +355,9 @@
         "Special Defense": 55,
         "Speed": 56,
         "Total": 365,
-        "Average": 60.83
+        "Average": 60.83,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Nidoqueen": {
         "HP": 90,
@@ -307,7 +367,9 @@
         "Special Defense": 85,
         "Speed": 76,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Poison",
+        "Type2": "Ground"
     },
     "NidoranM": {
         "HP": 46,
@@ -317,7 +379,9 @@
         "Special Defense": 40,
         "Speed": 50,
         "Total": 273,
-        "Average": 45.5
+        "Average": 45.5,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Nidorino": {
         "HP": 61,
@@ -327,7 +391,9 @@
         "Special Defense": 55,
         "Speed": 65,
         "Total": 365,
-        "Average": 60.83
+        "Average": 60.83,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Nidoking": {
         "HP": 81,
@@ -337,7 +403,9 @@
         "Special Defense": 75,
         "Speed": 85,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Poison",
+        "Type2": "Ground"
     },
     "Clefairy": {
         "HP": 70,
@@ -347,7 +415,9 @@
         "Special Defense": 65,
         "Speed": 35,
         "Total": 323,
-        "Average": 53.83
+        "Average": 53.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Clefable": {
         "HP": 95,
@@ -357,7 +427,9 @@
         "Special Defense": 90,
         "Speed": 60,
         "Total": 473,
-        "Average": 78.83
+        "Average": 78.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Vulpix": {
         "HP": 38,
@@ -367,7 +439,9 @@
         "Special Defense": 65,
         "Speed": 65,
         "Total": 299,
-        "Average": 49.83
+        "Average": 49.83,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Ninetales": {
         "HP": 73,
@@ -377,7 +451,9 @@
         "Special Defense": 100,
         "Speed": 100,
         "Total": 505,
-        "Average": 84.17
+        "Average": 84.17,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Jigglypuff": {
         "HP": 115,
@@ -387,7 +463,9 @@
         "Special Defense": 25,
         "Speed": 20,
         "Total": 270,
-        "Average": 45.0
+        "Average": 45.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Wigglytuff": {
         "HP": 140,
@@ -397,7 +475,9 @@
         "Special Defense": 50,
         "Speed": 45,
         "Total": 425,
-        "Average": 70.83
+        "Average": 70.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Zubat": {
         "HP": 40,
@@ -407,7 +487,9 @@
         "Special Defense": 40,
         "Speed": 55,
         "Total": 245,
-        "Average": 40.83
+        "Average": 40.83,
+        "Type1": "Poison",
+        "Type2": "Flying"
     },
     "Golbat": {
         "HP": 75,
@@ -417,7 +499,9 @@
         "Special Defense": 75,
         "Speed": 90,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Poison",
+        "Type2": "Flying"
     },
     "Oddish": {
         "HP": 45,
@@ -427,7 +511,9 @@
         "Special Defense": 65,
         "Speed": 30,
         "Total": 320,
-        "Average": 53.33
+        "Average": 53.33,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Gloom": {
         "HP": 60,
@@ -437,7 +523,9 @@
         "Special Defense": 75,
         "Speed": 40,
         "Total": 395,
-        "Average": 65.83
+        "Average": 65.83,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Vileplume": {
         "HP": 75,
@@ -447,7 +535,9 @@
         "Special Defense": 90,
         "Speed": 50,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Paras": {
         "HP": 35,
@@ -457,7 +547,9 @@
         "Special Defense": 55,
         "Speed": 25,
         "Total": 285,
-        "Average": 47.5
+        "Average": 47.5,
+        "Type1": "Bug",
+        "Type2": "Grass"
     },
     "Parasect": {
         "HP": 60,
@@ -467,7 +559,9 @@
         "Special Defense": 80,
         "Speed": 30,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Bug",
+        "Type2": "Grass"
     },
     "Venonat": {
         "HP": 60,
@@ -477,7 +571,9 @@
         "Special Defense": 55,
         "Speed": 45,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Venomoth": {
         "HP": 70,
@@ -487,7 +583,9 @@
         "Special Defense": 75,
         "Speed": 90,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Diglett": {
         "HP": 10,
@@ -497,7 +595,9 @@
         "Special Defense": 45,
         "Speed": 95,
         "Total": 265,
-        "Average": 44.17
+        "Average": 44.17,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Dugtrio": {
         "HP": 35,
@@ -507,7 +607,9 @@
         "Special Defense": 70,
         "Speed": 120,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Meowth": {
         "HP": 40,
@@ -517,7 +619,9 @@
         "Special Defense": 40,
         "Speed": 90,
         "Total": 290,
-        "Average": 48.33
+        "Average": 48.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Persian": {
         "HP": 65,
@@ -527,7 +631,9 @@
         "Special Defense": 65,
         "Speed": 115,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Psyduck": {
         "HP": 50,
@@ -537,7 +643,9 @@
         "Special Defense": 50,
         "Speed": 55,
         "Total": 320,
-        "Average": 53.33
+        "Average": 53.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Golduck": {
         "HP": 80,
@@ -547,7 +655,9 @@
         "Special Defense": 80,
         "Speed": 85,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Mankey": {
         "HP": 40,
@@ -557,7 +667,9 @@
         "Special Defense": 45,
         "Speed": 70,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Primeape": {
         "HP": 65,
@@ -567,7 +679,9 @@
         "Special Defense": 70,
         "Speed": 95,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Growlithe": {
         "HP": 55,
@@ -577,7 +691,9 @@
         "Special Defense": 50,
         "Speed": 60,
         "Total": 350,
-        "Average": 58.33
+        "Average": 58.33,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Arcanine": {
         "HP": 90,
@@ -587,7 +703,9 @@
         "Special Defense": 80,
         "Speed": 95,
         "Total": 555,
-        "Average": 92.5
+        "Average": 92.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Poliwag": {
         "HP": 40,
@@ -597,7 +715,9 @@
         "Special Defense": 40,
         "Speed": 90,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Poliwhirl": {
         "HP": 65,
@@ -607,7 +727,9 @@
         "Special Defense": 50,
         "Speed": 90,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Poliwrath": {
         "HP": 90,
@@ -617,7 +739,9 @@
         "Special Defense": 90,
         "Speed": 70,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Water",
+        "Type2": "Fighting"
     },
     "Abra": {
         "HP": 25,
@@ -627,7 +751,9 @@
         "Special Defense": 55,
         "Speed": 90,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Kadabra": {
         "HP": 40,
@@ -637,7 +763,9 @@
         "Special Defense": 70,
         "Speed": 105,
         "Total": 400,
-        "Average": 66.67
+        "Average": 66.67,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Alakazam": {
         "HP": 55,
@@ -647,7 +775,9 @@
         "Special Defense": 85,
         "Speed": 120,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Machop": {
         "HP": 70,
@@ -657,7 +787,9 @@
         "Special Defense": 35,
         "Speed": 35,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Machoke": {
         "HP": 80,
@@ -667,7 +799,9 @@
         "Special Defense": 60,
         "Speed": 45,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Machamp": {
         "HP": 90,
@@ -677,7 +811,9 @@
         "Special Defense": 85,
         "Speed": 55,
         "Total": 505,
-        "Average": 84.17
+        "Average": 84.17,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Bellsprout": {
         "HP": 50,
@@ -687,7 +823,9 @@
         "Special Defense": 30,
         "Speed": 40,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Weepinbell": {
         "HP": 65,
@@ -697,7 +835,9 @@
         "Special Defense": 45,
         "Speed": 55,
         "Total": 390,
-        "Average": 65.0
+        "Average": 65.0,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Victreebel": {
         "HP": 80,
@@ -707,7 +847,9 @@
         "Special Defense": 60,
         "Speed": 70,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Tentacool": {
         "HP": 40,
@@ -717,7 +859,9 @@
         "Special Defense": 100,
         "Speed": 70,
         "Total": 335,
-        "Average": 55.83
+        "Average": 55.83,
+        "Type1": "Water",
+        "Type2": "Poison"
     },
     "Tentacruel": {
         "HP": 80,
@@ -727,7 +871,9 @@
         "Special Defense": 120,
         "Speed": 100,
         "Total": 515,
-        "Average": 85.83
+        "Average": 85.83,
+        "Type1": "Water",
+        "Type2": "Poison"
     },
     "Geodude": {
         "HP": 40,
@@ -737,7 +883,9 @@
         "Special Defense": 30,
         "Speed": 20,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Graveler": {
         "HP": 55,
@@ -747,7 +895,9 @@
         "Special Defense": 45,
         "Speed": 35,
         "Total": 390,
-        "Average": 65.0
+        "Average": 65.0,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Golem": {
         "HP": 80,
@@ -757,7 +907,9 @@
         "Special Defense": 65,
         "Speed": 45,
         "Total": 485,
-        "Average": 80.83
+        "Average": 80.83,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Ponyta": {
         "HP": 50,
@@ -767,7 +919,9 @@
         "Special Defense": 65,
         "Speed": 90,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Rapidash": {
         "HP": 65,
@@ -777,7 +931,9 @@
         "Special Defense": 80,
         "Speed": 105,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Slowpoke": {
         "HP": 90,
@@ -787,7 +943,9 @@
         "Special Defense": 40,
         "Speed": 15,
         "Total": 315,
-        "Average": 52.5
+        "Average": 52.5,
+        "Type1": "Water",
+        "Type2": "Psychic"
     },
     "Slowbro": {
         "HP": 95,
@@ -797,7 +955,9 @@
         "Special Defense": 80,
         "Speed": 30,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Water",
+        "Type2": "Psychic"
     },
     "Magnemite": {
         "HP": 25,
@@ -807,7 +967,9 @@
         "Special Defense": 55,
         "Speed": 45,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Electric",
+        "Type2": "Steel"
     },
     "Magneton": {
         "HP": 50,
@@ -817,7 +979,9 @@
         "Special Defense": 70,
         "Speed": 70,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Electric",
+        "Type2": "Steel"
     },
     "Farfetch'd": {
         "HP": 52,
@@ -827,7 +991,9 @@
         "Special Defense": 62,
         "Speed": 60,
         "Total": 352,
-        "Average": 58.67
+        "Average": 58.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Doduo": {
         "HP": 35,
@@ -837,7 +1003,9 @@
         "Special Defense": 35,
         "Speed": 75,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Dodrio": {
         "HP": 60,
@@ -847,7 +1015,9 @@
         "Special Defense": 60,
         "Speed": 100,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Seel": {
         "HP": 65,
@@ -857,7 +1027,9 @@
         "Special Defense": 70,
         "Speed": 45,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Dewgong": {
         "HP": 90,
@@ -867,7 +1039,9 @@
         "Special Defense": 95,
         "Speed": 70,
         "Total": 475,
-        "Average": 79.17
+        "Average": 79.17,
+        "Type1": "Water",
+        "Type2": "Ice"
     },
     "Grimer": {
         "HP": 80,
@@ -877,7 +1051,9 @@
         "Special Defense": 50,
         "Speed": 25,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Muk": {
         "HP": 105,
@@ -887,7 +1063,9 @@
         "Special Defense": 100,
         "Speed": 50,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Shellder": {
         "HP": 30,
@@ -897,7 +1075,9 @@
         "Special Defense": 25,
         "Speed": 40,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Cloyster": {
         "HP": 50,
@@ -907,7 +1087,9 @@
         "Special Defense": 45,
         "Speed": 70,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Water",
+        "Type2": "Ice"
     },
     "Gastly": {
         "HP": 30,
@@ -917,7 +1099,9 @@
         "Special Defense": 35,
         "Speed": 80,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Ghost",
+        "Type2": "Poison"
     },
     "Haunter": {
         "HP": 45,
@@ -927,7 +1111,9 @@
         "Special Defense": 55,
         "Speed": 95,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Ghost",
+        "Type2": "Poison"
     },
     "Gengar": {
         "HP": 60,
@@ -937,7 +1123,9 @@
         "Special Defense": 75,
         "Speed": 110,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Ghost",
+        "Type2": "Poison"
     },
     "Onix": {
         "HP": 35,
@@ -947,7 +1135,9 @@
         "Special Defense": 45,
         "Speed": 70,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Drowzee": {
         "HP": 60,
@@ -957,7 +1147,9 @@
         "Special Defense": 90,
         "Speed": 42,
         "Total": 328,
-        "Average": 54.67
+        "Average": 54.67,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Hypno": {
         "HP": 85,
@@ -967,7 +1159,9 @@
         "Special Defense": 115,
         "Speed": 67,
         "Total": 483,
-        "Average": 80.5
+        "Average": 80.5,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Krabby": {
         "HP": 30,
@@ -977,7 +1171,9 @@
         "Special Defense": 25,
         "Speed": 50,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Kingler": {
         "HP": 55,
@@ -987,7 +1183,9 @@
         "Special Defense": 50,
         "Speed": 75,
         "Total": 475,
-        "Average": 79.17
+        "Average": 79.17,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Voltorb": {
         "HP": 40,
@@ -997,7 +1195,9 @@
         "Special Defense": 55,
         "Speed": 100,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Electrode": {
         "HP": 60,
@@ -1007,7 +1207,9 @@
         "Special Defense": 80,
         "Speed": 140,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Exeggcute": {
         "HP": 60,
@@ -1017,7 +1219,9 @@
         "Special Defense": 45,
         "Speed": 40,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Grass",
+        "Type2": "Psychic"
     },
     "Exeggutor": {
         "HP": 95,
@@ -1027,7 +1231,9 @@
         "Special Defense": 65,
         "Speed": 55,
         "Total": 520,
-        "Average": 86.67
+        "Average": 86.67,
+        "Type1": "Grass",
+        "Type2": "Psychic"
     },
     "Cubone": {
         "HP": 50,
@@ -1037,7 +1243,9 @@
         "Special Defense": 50,
         "Speed": 35,
         "Total": 320,
-        "Average": 53.33
+        "Average": 53.33,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Marowak": {
         "HP": 60,
@@ -1047,7 +1255,9 @@
         "Special Defense": 80,
         "Speed": 45,
         "Total": 425,
-        "Average": 70.83
+        "Average": 70.83,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Hitmonlee": {
         "HP": 50,
@@ -1057,7 +1267,9 @@
         "Special Defense": 110,
         "Speed": 87,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Hitmonchan": {
         "HP": 50,
@@ -1067,7 +1279,9 @@
         "Special Defense": 110,
         "Speed": 76,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Lickitung": {
         "HP": 90,
@@ -1077,7 +1291,9 @@
         "Special Defense": 75,
         "Speed": 30,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Koffing": {
         "HP": 40,
@@ -1087,7 +1303,9 @@
         "Special Defense": 45,
         "Speed": 35,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Weezing": {
         "HP": 65,
@@ -1097,7 +1315,9 @@
         "Special Defense": 70,
         "Speed": 60,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Rhyhorn": {
         "HP": 80,
@@ -1107,7 +1327,9 @@
         "Special Defense": 30,
         "Speed": 25,
         "Total": 345,
-        "Average": 57.5
+        "Average": 57.5,
+        "Type1": "Ground",
+        "Type2": "Rock"
     },
     "Rhydon": {
         "HP": 105,
@@ -1117,7 +1339,9 @@
         "Special Defense": 45,
         "Speed": 40,
         "Total": 485,
-        "Average": 80.83
+        "Average": 80.83,
+        "Type1": "Ground",
+        "Type2": "Rock"
     },
     "Chansey": {
         "HP": 250,
@@ -1127,7 +1351,9 @@
         "Special Defense": 105,
         "Speed": 50,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Tangela": {
         "HP": 65,
@@ -1137,7 +1363,9 @@
         "Special Defense": 40,
         "Speed": 60,
         "Total": 435,
-        "Average": 72.5
+        "Average": 72.5,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Kangaskhan": {
         "HP": 105,
@@ -1147,7 +1375,9 @@
         "Special Defense": 80,
         "Speed": 90,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Horsea": {
         "HP": 30,
@@ -1157,7 +1387,9 @@
         "Special Defense": 25,
         "Speed": 60,
         "Total": 295,
-        "Average": 49.17
+        "Average": 49.17,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Seadra": {
         "HP": 55,
@@ -1167,7 +1399,9 @@
         "Special Defense": 45,
         "Speed": 85,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Goldeen": {
         "HP": 45,
@@ -1177,7 +1411,9 @@
         "Special Defense": 50,
         "Speed": 63,
         "Total": 320,
-        "Average": 53.33
+        "Average": 53.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Seaking": {
         "HP": 80,
@@ -1187,7 +1423,9 @@
         "Special Defense": 80,
         "Speed": 68,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Staryu": {
         "HP": 30,
@@ -1197,7 +1435,9 @@
         "Special Defense": 55,
         "Speed": 85,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Starmie": {
         "HP": 60,
@@ -1207,7 +1447,9 @@
         "Special Defense": 85,
         "Speed": 115,
         "Total": 520,
-        "Average": 86.67
+        "Average": 86.67,
+        "Type1": "Water",
+        "Type2": "Psychic"
     },
     "Mr. Mime": {
         "HP": 40,
@@ -1217,7 +1459,9 @@
         "Special Defense": 120,
         "Speed": 90,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Scyther": {
         "HP": 70,
@@ -1227,7 +1471,9 @@
         "Special Defense": 80,
         "Speed": 105,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Jynx": {
         "HP": 65,
@@ -1237,7 +1483,9 @@
         "Special Defense": 95,
         "Speed": 95,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Ice",
+        "Type2": "Psychic"
     },
     "Electabuzz": {
         "HP": 65,
@@ -1247,7 +1495,9 @@
         "Special Defense": 85,
         "Speed": 105,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Magmar": {
         "HP": 65,
@@ -1257,7 +1507,9 @@
         "Special Defense": 85,
         "Speed": 93,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Pinsir": {
         "HP": 65,
@@ -1267,7 +1519,9 @@
         "Special Defense": 70,
         "Speed": 85,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Tauros": {
         "HP": 75,
@@ -1277,7 +1531,9 @@
         "Special Defense": 70,
         "Speed": 110,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Magikarp": {
         "HP": 20,
@@ -1287,7 +1543,9 @@
         "Special Defense": 20,
         "Speed": 80,
         "Total": 200,
-        "Average": 33.33
+        "Average": 33.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Gyarados": {
         "HP": 95,
@@ -1297,7 +1555,9 @@
         "Special Defense": 100,
         "Speed": 81,
         "Total": 540,
-        "Average": 90.0
+        "Average": 90.0,
+        "Type1": "Water",
+        "Type2": "Flying"
     },
     "Lapras": {
         "HP": 130,
@@ -1307,7 +1567,9 @@
         "Special Defense": 95,
         "Speed": 60,
         "Total": 535,
-        "Average": 89.17
+        "Average": 89.17,
+        "Type1": "Water",
+        "Type2": "Ice"
     },
     "Ditto": {
         "HP": 48,
@@ -1317,7 +1579,9 @@
         "Special Defense": 48,
         "Speed": 48,
         "Total": 288,
-        "Average": 48.0
+        "Average": 48.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Eevee": {
         "HP": 55,
@@ -1327,7 +1591,9 @@
         "Special Defense": 65,
         "Speed": 55,
         "Total": 325,
-        "Average": 54.17
+        "Average": 54.17,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Vaporeon": {
         "HP": 130,
@@ -1337,7 +1603,9 @@
         "Special Defense": 95,
         "Speed": 65,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Jolteon": {
         "HP": 65,
@@ -1347,7 +1615,9 @@
         "Special Defense": 95,
         "Speed": 130,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Flareon": {
         "HP": 65,
@@ -1357,7 +1627,9 @@
         "Special Defense": 110,
         "Speed": 65,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Porygon": {
         "HP": 65,
@@ -1367,7 +1639,9 @@
         "Special Defense": 75,
         "Speed": 40,
         "Total": 395,
-        "Average": 65.83
+        "Average": 65.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Omanyte": {
         "HP": 35,
@@ -1377,7 +1651,9 @@
         "Special Defense": 55,
         "Speed": 35,
         "Total": 355,
-        "Average": 59.17
+        "Average": 59.17,
+        "Type1": "Rock",
+        "Type2": "Water"
     },
     "Omastar": {
         "HP": 70,
@@ -1387,7 +1663,9 @@
         "Special Defense": 70,
         "Speed": 55,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Rock",
+        "Type2": "Water"
     },
     "Kabuto": {
         "HP": 30,
@@ -1397,7 +1675,9 @@
         "Special Defense": 45,
         "Speed": 55,
         "Total": 355,
-        "Average": 59.17
+        "Average": 59.17,
+        "Type1": "Rock",
+        "Type2": "Water"
     },
     "Kabutops": {
         "HP": 60,
@@ -1407,7 +1687,9 @@
         "Special Defense": 70,
         "Speed": 80,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Rock",
+        "Type2": "Water"
     },
     "Aerodactyl": {
         "HP": 80,
@@ -1417,7 +1699,9 @@
         "Special Defense": 75,
         "Speed": 130,
         "Total": 515,
-        "Average": 85.83
+        "Average": 85.83,
+        "Type1": "Rock",
+        "Type2": "Flying"
     },
     "Snorlax": {
         "HP": 160,
@@ -1427,7 +1711,9 @@
         "Special Defense": 110,
         "Speed": 30,
         "Total": 540,
-        "Average": 90.0
+        "Average": 90.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Articuno": {
         "HP": 90,
@@ -1437,7 +1723,9 @@
         "Special Defense": 125,
         "Speed": 85,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Ice",
+        "Type2": "Flying"
     },
     "Zapdos": {
         "HP": 90,
@@ -1447,7 +1735,9 @@
         "Special Defense": 90,
         "Speed": 100,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Electric",
+        "Type2": "Flying"
     },
     "Moltres": {
         "HP": 90,
@@ -1457,7 +1747,9 @@
         "Special Defense": 85,
         "Speed": 90,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Fire",
+        "Type2": "Flying"
     },
     "Dratini": {
         "HP": 41,
@@ -1467,7 +1759,9 @@
         "Special Defense": 50,
         "Speed": 50,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Dragon",
+        "Type2": ""
     },
     "Dragonair": {
         "HP": 61,
@@ -1477,7 +1771,9 @@
         "Special Defense": 70,
         "Speed": 70,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Dragon",
+        "Type2": ""
     },
     "Dragonite": {
         "HP": 91,
@@ -1487,7 +1783,9 @@
         "Special Defense": 100,
         "Speed": 80,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Dragon",
+        "Type2": "Flying"
     },
     "Mewtwo": {
         "HP": 106,
@@ -1497,7 +1795,9 @@
         "Special Defense": 90,
         "Speed": 130,
         "Total": 680,
-        "Average": 113.33
+        "Average": 113.33,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Mew": {
         "HP": 100,
@@ -1507,7 +1807,9 @@
         "Special Defense": 100,
         "Speed": 100,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Chikorita": {
         "HP": 45,
@@ -1517,7 +1819,9 @@
         "Special Defense": 65,
         "Speed": 45,
         "Total": 318,
-        "Average": 53.0
+        "Average": 53.0,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Bayleef": {
         "HP": 60,
@@ -1527,7 +1831,9 @@
         "Special Defense": 80,
         "Speed": 60,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Meganium": {
         "HP": 80,
@@ -1537,7 +1843,9 @@
         "Special Defense": 100,
         "Speed": 80,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Cyndaquil": {
         "HP": 39,
@@ -1547,7 +1855,9 @@
         "Special Defense": 50,
         "Speed": 65,
         "Total": 309,
-        "Average": 51.5
+        "Average": 51.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Quilava": {
         "HP": 58,
@@ -1557,7 +1867,9 @@
         "Special Defense": 65,
         "Speed": 80,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Typhlosion": {
         "HP": 78,
@@ -1567,7 +1879,9 @@
         "Special Defense": 85,
         "Speed": 100,
         "Total": 534,
-        "Average": 89.0
+        "Average": 89.0,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Totodile": {
         "HP": 50,
@@ -1577,7 +1891,9 @@
         "Special Defense": 48,
         "Speed": 43,
         "Total": 314,
-        "Average": 52.33
+        "Average": 52.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Croconaw": {
         "HP": 65,
@@ -1587,7 +1903,9 @@
         "Special Defense": 63,
         "Speed": 58,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Feraligatr": {
         "HP": 85,
@@ -1597,7 +1915,9 @@
         "Special Defense": 83,
         "Speed": 78,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Sentret": {
         "HP": 35,
@@ -1607,7 +1927,9 @@
         "Special Defense": 45,
         "Speed": 20,
         "Total": 215,
-        "Average": 35.83
+        "Average": 35.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Furret": {
         "HP": 85,
@@ -1617,7 +1939,9 @@
         "Special Defense": 55,
         "Speed": 90,
         "Total": 415,
-        "Average": 69.17
+        "Average": 69.17,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Hoothoot": {
         "HP": 60,
@@ -1627,7 +1951,9 @@
         "Special Defense": 56,
         "Speed": 50,
         "Total": 262,
-        "Average": 43.67
+        "Average": 43.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Noctowl": {
         "HP": 100,
@@ -1637,7 +1963,9 @@
         "Special Defense": 96,
         "Speed": 70,
         "Total": 442,
-        "Average": 73.67
+        "Average": 73.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Ledyba": {
         "HP": 40,
@@ -1647,7 +1975,9 @@
         "Special Defense": 80,
         "Speed": 55,
         "Total": 265,
-        "Average": 44.17
+        "Average": 44.17,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Ledian": {
         "HP": 55,
@@ -1657,7 +1987,9 @@
         "Special Defense": 110,
         "Speed": 85,
         "Total": 390,
-        "Average": 65.0
+        "Average": 65.0,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Spinarak": {
         "HP": 40,
@@ -1667,7 +1999,9 @@
         "Special Defense": 40,
         "Speed": 30,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Ariados": {
         "HP": 70,
@@ -1677,7 +2011,9 @@
         "Special Defense": 60,
         "Speed": 40,
         "Total": 390,
-        "Average": 65.0
+        "Average": 65.0,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Crobat": {
         "HP": 85,
@@ -1687,7 +2023,9 @@
         "Special Defense": 80,
         "Speed": 130,
         "Total": 535,
-        "Average": 89.17
+        "Average": 89.17,
+        "Type1": "Poison",
+        "Type2": "Flying"
     },
     "Chinchou": {
         "HP": 75,
@@ -1697,7 +2035,9 @@
         "Special Defense": 56,
         "Speed": 67,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Water",
+        "Type2": "Electric"
     },
     "Lanturn": {
         "HP": 125,
@@ -1707,7 +2047,9 @@
         "Special Defense": 76,
         "Speed": 67,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Water",
+        "Type2": "Electric"
     },
     "Pichu": {
         "HP": 20,
@@ -1717,7 +2059,9 @@
         "Special Defense": 35,
         "Speed": 60,
         "Total": 205,
-        "Average": 34.17
+        "Average": 34.17,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Cleffa": {
         "HP": 50,
@@ -1727,7 +2071,9 @@
         "Special Defense": 55,
         "Speed": 15,
         "Total": 218,
-        "Average": 36.33
+        "Average": 36.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Igglybuff": {
         "HP": 90,
@@ -1737,7 +2083,9 @@
         "Special Defense": 20,
         "Speed": 15,
         "Total": 210,
-        "Average": 35.0
+        "Average": 35.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Togepi": {
         "HP": 35,
@@ -1747,7 +2095,9 @@
         "Special Defense": 65,
         "Speed": 20,
         "Total": 245,
-        "Average": 40.83
+        "Average": 40.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Togetic": {
         "HP": 55,
@@ -1757,7 +2107,9 @@
         "Special Defense": 105,
         "Speed": 40,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Natu": {
         "HP": 40,
@@ -1767,7 +2119,9 @@
         "Special Defense": 45,
         "Speed": 70,
         "Total": 320,
-        "Average": 53.33
+        "Average": 53.33,
+        "Type1": "Psychic",
+        "Type2": "Flying"
     },
     "Xatu": {
         "HP": 65,
@@ -1777,7 +2131,9 @@
         "Special Defense": 70,
         "Speed": 95,
         "Total": 470,
-        "Average": 78.33
+        "Average": 78.33,
+        "Type1": "Psychic",
+        "Type2": "Flying"
     },
     "Mareep": {
         "HP": 55,
@@ -1787,7 +2143,9 @@
         "Special Defense": 45,
         "Speed": 35,
         "Total": 280,
-        "Average": 46.67
+        "Average": 46.67,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Flaaffy": {
         "HP": 70,
@@ -1797,7 +2155,9 @@
         "Special Defense": 60,
         "Speed": 45,
         "Total": 365,
-        "Average": 60.83
+        "Average": 60.83,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Ampharos": {
         "HP": 90,
@@ -1807,7 +2167,9 @@
         "Special Defense": 90,
         "Speed": 55,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Bellossom": {
         "HP": 75,
@@ -1817,7 +2179,9 @@
         "Special Defense": 100,
         "Speed": 50,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Marill": {
         "HP": 70,
@@ -1827,7 +2191,9 @@
         "Special Defense": 50,
         "Speed": 40,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Azumarill": {
         "HP": 100,
@@ -1837,7 +2203,9 @@
         "Special Defense": 80,
         "Speed": 50,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Sudowoodo": {
         "HP": 70,
@@ -1847,7 +2215,9 @@
         "Special Defense": 65,
         "Speed": 30,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Rock",
+        "Type2": ""
     },
     "Politoed": {
         "HP": 90,
@@ -1857,7 +2227,9 @@
         "Special Defense": 100,
         "Speed": 70,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Hoppip": {
         "HP": 35,
@@ -1867,7 +2239,9 @@
         "Special Defense": 55,
         "Speed": 50,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Grass",
+        "Type2": "Flying"
     },
     "Skiploom": {
         "HP": 55,
@@ -1877,7 +2251,9 @@
         "Special Defense": 65,
         "Speed": 80,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Grass",
+        "Type2": "Flying"
     },
     "Jumpluff": {
         "HP": 75,
@@ -1887,7 +2263,9 @@
         "Special Defense": 85,
         "Speed": 110,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Grass",
+        "Type2": "Flying"
     },
     "Aipom": {
         "HP": 55,
@@ -1897,7 +2275,9 @@
         "Special Defense": 55,
         "Speed": 85,
         "Total": 360,
-        "Average": 60.0
+        "Average": 60.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Sunkern": {
         "HP": 30,
@@ -1907,7 +2287,9 @@
         "Special Defense": 30,
         "Speed": 30,
         "Total": 180,
-        "Average": 30.0
+        "Average": 30.0,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Sunflora": {
         "HP": 75,
@@ -1917,7 +2299,9 @@
         "Special Defense": 85,
         "Speed": 30,
         "Total": 425,
-        "Average": 70.83
+        "Average": 70.83,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Yanma": {
         "HP": 65,
@@ -1927,7 +2311,9 @@
         "Special Defense": 45,
         "Speed": 95,
         "Total": 390,
-        "Average": 65.0
+        "Average": 65.0,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Wooper": {
         "HP": 55,
@@ -1937,7 +2323,9 @@
         "Special Defense": 25,
         "Speed": 15,
         "Total": 210,
-        "Average": 35.0
+        "Average": 35.0,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Quagsire": {
         "HP": 95,
@@ -1947,7 +2335,9 @@
         "Special Defense": 65,
         "Speed": 35,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Espeon": {
         "HP": 65,
@@ -1957,7 +2347,9 @@
         "Special Defense": 95,
         "Speed": 110,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Umbreon": {
         "HP": 95,
@@ -1967,7 +2359,9 @@
         "Special Defense": 130,
         "Speed": 65,
         "Total": 525,
-        "Average": 87.5
+        "Average": 87.5,
+        "Type1": "Dark",
+        "Type2": ""
     },
     "Murkrow": {
         "HP": 60,
@@ -1977,7 +2371,9 @@
         "Special Defense": 42,
         "Speed": 91,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Dark",
+        "Type2": "Flying"
     },
     "Slowking": {
         "HP": 95,
@@ -1987,7 +2383,9 @@
         "Special Defense": 110,
         "Speed": 30,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Water",
+        "Type2": "Psychic"
     },
     "Misdreavus": {
         "HP": 60,
@@ -1997,7 +2395,9 @@
         "Special Defense": 85,
         "Speed": 85,
         "Total": 435,
-        "Average": 72.5
+        "Average": 72.5,
+        "Type1": "Ghost",
+        "Type2": ""
     },
     "Unown": {
         "HP": 48,
@@ -2007,7 +2407,9 @@
         "Special Defense": 48,
         "Speed": 48,
         "Total": 336,
-        "Average": 56.0
+        "Average": 56.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Wobbuffet": {
         "HP": 190,
@@ -2017,7 +2419,9 @@
         "Special Defense": 58,
         "Speed": 33,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Girafarig": {
         "HP": 70,
@@ -2027,7 +2431,9 @@
         "Special Defense": 65,
         "Speed": 85,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Normal",
+        "Type2": "Psychic"
     },
     "Pineco": {
         "HP": 50,
@@ -2037,7 +2443,9 @@
         "Special Defense": 35,
         "Speed": 15,
         "Total": 290,
-        "Average": 48.33
+        "Average": 48.33,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Forretress": {
         "HP": 75,
@@ -2047,7 +2455,9 @@
         "Special Defense": 60,
         "Speed": 40,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Bug",
+        "Type2": "Steel"
     },
     "Dunsparce": {
         "HP": 100,
@@ -2057,7 +2467,9 @@
         "Special Defense": 65,
         "Speed": 45,
         "Total": 415,
-        "Average": 69.17
+        "Average": 69.17,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Gligar": {
         "HP": 65,
@@ -2067,7 +2479,9 @@
         "Special Defense": 65,
         "Speed": 85,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Ground",
+        "Type2": "Flying"
     },
     "Steelix": {
         "HP": 75,
@@ -2077,7 +2491,9 @@
         "Special Defense": 65,
         "Speed": 30,
         "Total": 510,
-        "Average": 85.0
+        "Average": 85.0,
+        "Type1": "Steel",
+        "Type2": "Ground"
     },
     "Snubbull": {
         "HP": 60,
@@ -2087,7 +2503,9 @@
         "Special Defense": 40,
         "Speed": 30,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Granbull": {
         "HP": 90,
@@ -2097,7 +2515,9 @@
         "Special Defense": 60,
         "Speed": 45,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Qwilfish": {
         "HP": 65,
@@ -2107,7 +2527,9 @@
         "Special Defense": 55,
         "Speed": 85,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Water",
+        "Type2": "Poison"
     },
     "Scizor": {
         "HP": 70,
@@ -2117,7 +2539,9 @@
         "Special Defense": 80,
         "Speed": 65,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Bug",
+        "Type2": "Steel"
     },
     "Shuckle": {
         "HP": 20,
@@ -2127,7 +2551,9 @@
         "Special Defense": 230,
         "Speed": 5,
         "Total": 505,
-        "Average": 84.17
+        "Average": 84.17,
+        "Type1": "Bug",
+        "Type2": "Rock"
     },
     "Heracross": {
         "HP": 80,
@@ -2137,7 +2563,9 @@
         "Special Defense": 95,
         "Speed": 85,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Bug",
+        "Type2": "Fighting"
     },
     "Sneasel": {
         "HP": 55,
@@ -2147,7 +2575,9 @@
         "Special Defense": 75,
         "Speed": 115,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Dark",
+        "Type2": "Ice"
     },
     "Teddiursa": {
         "HP": 60,
@@ -2157,7 +2587,9 @@
         "Special Defense": 50,
         "Speed": 40,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Ursaring": {
         "HP": 90,
@@ -2167,7 +2599,9 @@
         "Special Defense": 75,
         "Speed": 55,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Slugma": {
         "HP": 40,
@@ -2177,7 +2611,9 @@
         "Special Defense": 40,
         "Speed": 20,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Magcargo": {
         "HP": 50,
@@ -2187,7 +2623,9 @@
         "Special Defense": 80,
         "Speed": 30,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Fire",
+        "Type2": "Rock"
     },
     "Swinub": {
         "HP": 50,
@@ -2197,7 +2635,9 @@
         "Special Defense": 30,
         "Speed": 50,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Ice",
+        "Type2": "Ground"
     },
     "Piloswine": {
         "HP": 100,
@@ -2207,7 +2647,9 @@
         "Special Defense": 60,
         "Speed": 50,
         "Total": 450,
-        "Average": 75.0
+        "Average": 75.0,
+        "Type1": "Ice",
+        "Type2": "Ground"
     },
     "Corsola": {
         "HP": 55,
@@ -2217,7 +2659,9 @@
         "Special Defense": 85,
         "Speed": 35,
         "Total": 380,
-        "Average": 63.33
+        "Average": 63.33,
+        "Type1": "Water",
+        "Type2": "Rock"
     },
     "Remoraid": {
         "HP": 35,
@@ -2227,7 +2671,9 @@
         "Special Defense": 35,
         "Speed": 65,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Octillery": {
         "HP": 75,
@@ -2237,7 +2683,9 @@
         "Special Defense": 75,
         "Speed": 45,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Delibird": {
         "HP": 45,
@@ -2247,7 +2695,9 @@
         "Special Defense": 45,
         "Speed": 75,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Ice",
+        "Type2": "Flying"
     },
     "Mantine": {
         "HP": 65,
@@ -2257,7 +2707,9 @@
         "Special Defense": 140,
         "Speed": 70,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Water",
+        "Type2": "Flying"
     },
     "Skarmory": {
         "HP": 65,
@@ -2267,7 +2719,9 @@
         "Special Defense": 70,
         "Speed": 70,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Steel",
+        "Type2": "Flying"
     },
     "Houndour": {
         "HP": 45,
@@ -2277,7 +2731,9 @@
         "Special Defense": 50,
         "Speed": 65,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Dark",
+        "Type2": "Fire"
     },
     "Houndoom": {
         "HP": 75,
@@ -2287,7 +2743,9 @@
         "Special Defense": 80,
         "Speed": 95,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Dark",
+        "Type2": "Fire"
     },
     "Kingdra": {
         "HP": 75,
@@ -2297,7 +2755,9 @@
         "Special Defense": 95,
         "Speed": 85,
         "Total": 540,
-        "Average": 90.0
+        "Average": 90.0,
+        "Type1": "Water",
+        "Type2": "Dragon"
     },
     "Phanpy": {
         "HP": 90,
@@ -2307,7 +2767,9 @@
         "Special Defense": 40,
         "Speed": 40,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Donphan": {
         "HP": 90,
@@ -2317,7 +2779,9 @@
         "Special Defense": 60,
         "Speed": 50,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Porygon2": {
         "HP": 85,
@@ -2327,7 +2791,9 @@
         "Special Defense": 95,
         "Speed": 60,
         "Total": 515,
-        "Average": 85.83
+        "Average": 85.83,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Stantler": {
         "HP": 73,
@@ -2337,7 +2803,9 @@
         "Special Defense": 65,
         "Speed": 85,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Smeargle": {
         "HP": 55,
@@ -2347,7 +2815,9 @@
         "Special Defense": 45,
         "Speed": 75,
         "Total": 250,
-        "Average": 41.67
+        "Average": 41.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Tyrogue": {
         "HP": 35,
@@ -2357,7 +2827,9 @@
         "Special Defense": 35,
         "Speed": 35,
         "Total": 210,
-        "Average": 35.0
+        "Average": 35.0,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Hitmontop": {
         "HP": 50,
@@ -2367,7 +2839,9 @@
         "Special Defense": 110,
         "Speed": 70,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Smoochum": {
         "HP": 45,
@@ -2377,7 +2851,9 @@
         "Special Defense": 65,
         "Speed": 65,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Ice",
+        "Type2": "Psychic"
     },
     "Elekid": {
         "HP": 45,
@@ -2387,7 +2863,9 @@
         "Special Defense": 55,
         "Speed": 95,
         "Total": 360,
-        "Average": 60.0
+        "Average": 60.0,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Magby": {
         "HP": 45,
@@ -2397,7 +2875,9 @@
         "Special Defense": 55,
         "Speed": 83,
         "Total": 365,
-        "Average": 60.83
+        "Average": 60.83,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Miltank": {
         "HP": 95,
@@ -2407,7 +2887,9 @@
         "Special Defense": 70,
         "Speed": 100,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Blissey": {
         "HP": 255,
@@ -2417,7 +2899,9 @@
         "Special Defense": 135,
         "Speed": 55,
         "Total": 540,
-        "Average": 90.0
+        "Average": 90.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Raikou": {
         "HP": 90,
@@ -2427,7 +2911,9 @@
         "Special Defense": 100,
         "Speed": 115,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Entei": {
         "HP": 115,
@@ -2437,7 +2923,9 @@
         "Special Defense": 75,
         "Speed": 100,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Suicune": {
         "HP": 100,
@@ -2447,7 +2935,9 @@
         "Special Defense": 115,
         "Speed": 85,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Larvitar": {
         "HP": 50,
@@ -2457,7 +2947,9 @@
         "Special Defense": 50,
         "Speed": 41,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Pupitar": {
         "HP": 70,
@@ -2467,7 +2959,9 @@
         "Special Defense": 70,
         "Speed": 51,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Rock",
+        "Type2": "Ground"
     },
     "Tyranitar": {
         "HP": 100,
@@ -2477,7 +2971,9 @@
         "Special Defense": 100,
         "Speed": 61,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Rock",
+        "Type2": "Dark"
     },
     "Lugia": {
         "HP": 106,
@@ -2487,7 +2983,9 @@
         "Special Defense": 154,
         "Speed": 110,
         "Total": 680,
-        "Average": 113.33
+        "Average": 113.33,
+        "Type1": "Psychic",
+        "Type2": "Flying"
     },
     "Ho-Oh": {
         "HP": 106,
@@ -2497,7 +2995,9 @@
         "Special Defense": 154,
         "Speed": 90,
         "Total": 680,
-        "Average": 113.33
+        "Average": 113.33,
+        "Type1": "Fire",
+        "Type2": "Flying"
     },
     "Celebi": {
         "HP": 100,
@@ -2507,7 +3007,9 @@
         "Special Defense": 100,
         "Speed": 100,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": "Grass"
     },
     "Treecko": {
         "HP": 40,
@@ -2517,7 +3019,9 @@
         "Special Defense": 55,
         "Speed": 70,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Grovyle": {
         "HP": 50,
@@ -2527,7 +3031,9 @@
         "Special Defense": 65,
         "Speed": 95,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Sceptile": {
         "HP": 70,
@@ -2537,7 +3043,9 @@
         "Special Defense": 85,
         "Speed": 120,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Torchic": {
         "HP": 45,
@@ -2547,7 +3055,9 @@
         "Special Defense": 50,
         "Speed": 45,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Combusken": {
         "HP": 60,
@@ -2557,7 +3067,9 @@
         "Special Defense": 60,
         "Speed": 55,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Fire",
+        "Type2": "Fighting"
     },
     "Blaziken": {
         "HP": 80,
@@ -2567,7 +3079,9 @@
         "Special Defense": 70,
         "Speed": 80,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Fire",
+        "Type2": "Fighting"
     },
     "Mudkip": {
         "HP": 50,
@@ -2577,7 +3091,9 @@
         "Special Defense": 50,
         "Speed": 40,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Marshtomp": {
         "HP": 70,
@@ -2587,7 +3103,9 @@
         "Special Defense": 70,
         "Speed": 50,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Swampert": {
         "HP": 100,
@@ -2597,7 +3115,9 @@
         "Special Defense": 90,
         "Speed": 60,
         "Total": 535,
-        "Average": 89.17
+        "Average": 89.17,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Poochyena": {
         "HP": 35,
@@ -2607,7 +3127,9 @@
         "Special Defense": 30,
         "Speed": 35,
         "Total": 220,
-        "Average": 36.67
+        "Average": 36.67,
+        "Type1": "Dark",
+        "Type2": ""
     },
     "Mightyena": {
         "HP": 70,
@@ -2617,7 +3139,9 @@
         "Special Defense": 60,
         "Speed": 70,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Dark",
+        "Type2": ""
     },
     "Zigzagoon": {
         "HP": 38,
@@ -2627,7 +3151,9 @@
         "Special Defense": 41,
         "Speed": 60,
         "Total": 240,
-        "Average": 40.0
+        "Average": 40.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Linoone": {
         "HP": 78,
@@ -2637,7 +3163,9 @@
         "Special Defense": 61,
         "Speed": 100,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Wurmple": {
         "HP": 45,
@@ -2647,7 +3175,9 @@
         "Special Defense": 30,
         "Speed": 20,
         "Total": 195,
-        "Average": 32.5
+        "Average": 32.5,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Silcoon": {
         "HP": 50,
@@ -2657,7 +3187,9 @@
         "Special Defense": 25,
         "Speed": 15,
         "Total": 205,
-        "Average": 34.17
+        "Average": 34.17,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Beautifly": {
         "HP": 60,
@@ -2667,7 +3199,9 @@
         "Special Defense": 50,
         "Speed": 65,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Cascoon": {
         "HP": 50,
@@ -2677,7 +3211,9 @@
         "Special Defense": 25,
         "Speed": 15,
         "Total": 205,
-        "Average": 34.17
+        "Average": 34.17,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Dustox": {
         "HP": 60,
@@ -2687,7 +3223,9 @@
         "Special Defense": 90,
         "Speed": 65,
         "Total": 385,
-        "Average": 64.17
+        "Average": 64.17,
+        "Type1": "Bug",
+        "Type2": "Poison"
     },
     "Lotad": {
         "HP": 40,
@@ -2697,7 +3235,9 @@
         "Special Defense": 50,
         "Speed": 30,
         "Total": 220,
-        "Average": 36.67
+        "Average": 36.67,
+        "Type1": "Water",
+        "Type2": "Grass"
     },
     "Lombre": {
         "HP": 60,
@@ -2707,7 +3247,9 @@
         "Special Defense": 70,
         "Speed": 50,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Water",
+        "Type2": "Grass"
     },
     "Ludicolo": {
         "HP": 80,
@@ -2717,7 +3259,9 @@
         "Special Defense": 100,
         "Speed": 70,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Water",
+        "Type2": "Grass"
     },
     "Seedot": {
         "HP": 40,
@@ -2727,7 +3271,9 @@
         "Special Defense": 30,
         "Speed": 30,
         "Total": 220,
-        "Average": 36.67
+        "Average": 36.67,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Nuzleaf": {
         "HP": 70,
@@ -2737,7 +3283,9 @@
         "Special Defense": 40,
         "Speed": 60,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Grass",
+        "Type2": "Dark"
     },
     "Shiftry": {
         "HP": 90,
@@ -2747,7 +3295,9 @@
         "Special Defense": 60,
         "Speed": 80,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Grass",
+        "Type2": "Dark"
     },
     "Taillow": {
         "HP": 40,
@@ -2757,7 +3307,9 @@
         "Special Defense": 30,
         "Speed": 85,
         "Total": 270,
-        "Average": 45.0
+        "Average": 45.0,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Swellow": {
         "HP": 60,
@@ -2767,7 +3319,9 @@
         "Special Defense": 50,
         "Speed": 125,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Wingull": {
         "HP": 40,
@@ -2777,7 +3331,9 @@
         "Special Defense": 30,
         "Speed": 85,
         "Total": 270,
-        "Average": 45.0
+        "Average": 45.0,
+        "Type1": "Water",
+        "Type2": "Flying"
     },
     "Pelipper": {
         "HP": 60,
@@ -2787,7 +3343,9 @@
         "Special Defense": 70,
         "Speed": 65,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Water",
+        "Type2": "Flying"
     },
     "Ralts": {
         "HP": 28,
@@ -2797,7 +3355,9 @@
         "Special Defense": 35,
         "Speed": 40,
         "Total": 198,
-        "Average": 33.0
+        "Average": 33.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Kirlia": {
         "HP": 38,
@@ -2807,7 +3367,9 @@
         "Special Defense": 55,
         "Speed": 50,
         "Total": 278,
-        "Average": 46.33
+        "Average": 46.33,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Gardevoir": {
         "HP": 68,
@@ -2817,7 +3379,9 @@
         "Special Defense": 115,
         "Speed": 80,
         "Total": 518,
-        "Average": 86.33
+        "Average": 86.33,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Surskit": {
         "HP": 40,
@@ -2827,7 +3391,9 @@
         "Special Defense": 52,
         "Speed": 65,
         "Total": 269,
-        "Average": 44.83
+        "Average": 44.83,
+        "Type1": "Bug",
+        "Type2": "Water"
     },
     "Masquerain": {
         "HP": 70,
@@ -2837,7 +3403,9 @@
         "Special Defense": 82,
         "Speed": 60,
         "Total": 414,
-        "Average": 69.0
+        "Average": 69.0,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Shroomish": {
         "HP": 60,
@@ -2847,7 +3415,9 @@
         "Special Defense": 60,
         "Speed": 35,
         "Total": 295,
-        "Average": 49.17
+        "Average": 49.17,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Breloom": {
         "HP": 60,
@@ -2857,7 +3427,9 @@
         "Special Defense": 60,
         "Speed": 70,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Grass",
+        "Type2": "Fighting"
     },
     "Slakoth": {
         "HP": 60,
@@ -2867,7 +3439,9 @@
         "Special Defense": 35,
         "Speed": 30,
         "Total": 280,
-        "Average": 46.67
+        "Average": 46.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Vigoroth": {
         "HP": 80,
@@ -2877,7 +3451,9 @@
         "Special Defense": 55,
         "Speed": 90,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Slaking": {
         "HP": 150,
@@ -2887,7 +3463,9 @@
         "Special Defense": 65,
         "Speed": 100,
         "Total": 670,
-        "Average": 111.67
+        "Average": 111.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Nincada": {
         "HP": 31,
@@ -2897,7 +3475,9 @@
         "Special Defense": 30,
         "Speed": 40,
         "Total": 266,
-        "Average": 44.33
+        "Average": 44.33,
+        "Type1": "Bug",
+        "Type2": "Ground"
     },
     "Ninjask": {
         "HP": 61,
@@ -2907,7 +3487,9 @@
         "Special Defense": 50,
         "Speed": 160,
         "Total": 456,
-        "Average": 76.0
+        "Average": 76.0,
+        "Type1": "Bug",
+        "Type2": "Flying"
     },
     "Shedinja": {
         "HP": 1,
@@ -2917,7 +3499,9 @@
         "Special Defense": 30,
         "Speed": 40,
         "Total": 236,
-        "Average": 39.33
+        "Average": 39.33,
+        "Type1": "Bug",
+        "Type2": "Ghost"
     },
     "Whismur": {
         "HP": 64,
@@ -2927,7 +3511,9 @@
         "Special Defense": 23,
         "Speed": 28,
         "Total": 240,
-        "Average": 40.0
+        "Average": 40.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Loudred": {
         "HP": 84,
@@ -2937,7 +3523,9 @@
         "Special Defense": 43,
         "Speed": 48,
         "Total": 360,
-        "Average": 60.0
+        "Average": 60.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Exploud": {
         "HP": 104,
@@ -2947,7 +3535,9 @@
         "Special Defense": 63,
         "Speed": 68,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Makuhita": {
         "HP": 72,
@@ -2957,7 +3547,9 @@
         "Special Defense": 30,
         "Speed": 25,
         "Total": 237,
-        "Average": 39.5
+        "Average": 39.5,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Hariyama": {
         "HP": 144,
@@ -2967,7 +3559,9 @@
         "Special Defense": 60,
         "Speed": 50,
         "Total": 474,
-        "Average": 79.0
+        "Average": 79.0,
+        "Type1": "Fighting",
+        "Type2": ""
     },
     "Azurill": {
         "HP": 50,
@@ -2977,7 +3571,9 @@
         "Special Defense": 40,
         "Speed": 20,
         "Total": 190,
-        "Average": 31.67
+        "Average": 31.67,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Nosepass": {
         "HP": 30,
@@ -2987,7 +3583,9 @@
         "Special Defense": 90,
         "Speed": 30,
         "Total": 375,
-        "Average": 62.5
+        "Average": 62.5,
+        "Type1": "Rock",
+        "Type2": ""
     },
     "Skitty": {
         "HP": 50,
@@ -2997,7 +3595,9 @@
         "Special Defense": 35,
         "Speed": 50,
         "Total": 260,
-        "Average": 43.33
+        "Average": 43.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Delcatty": {
         "HP": 70,
@@ -3007,7 +3607,9 @@
         "Special Defense": 55,
         "Speed": 70,
         "Total": 380,
-        "Average": 63.33
+        "Average": 63.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Sableye": {
         "HP": 50,
@@ -3017,7 +3619,9 @@
         "Special Defense": 65,
         "Speed": 50,
         "Total": 380,
-        "Average": 63.33
+        "Average": 63.33,
+        "Type1": "Dark",
+        "Type2": "Ghost"
     },
     "Mawile": {
         "HP": 50,
@@ -3027,7 +3631,9 @@
         "Special Defense": 55,
         "Speed": 50,
         "Total": 380,
-        "Average": 63.33
+        "Average": 63.33,
+        "Type1": "Steel",
+        "Type2": ""
     },
     "Aron": {
         "HP": 50,
@@ -3037,7 +3643,9 @@
         "Special Defense": 40,
         "Speed": 30,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Steel",
+        "Type2": "Rock"
     },
     "Lairon": {
         "HP": 60,
@@ -3047,7 +3655,9 @@
         "Special Defense": 50,
         "Speed": 40,
         "Total": 430,
-        "Average": 71.67
+        "Average": 71.67,
+        "Type1": "Steel",
+        "Type2": "Rock"
     },
     "Aggron": {
         "HP": 70,
@@ -3057,7 +3667,9 @@
         "Special Defense": 60,
         "Speed": 50,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Steel",
+        "Type2": "Rock"
     },
     "Meditite": {
         "HP": 30,
@@ -3067,7 +3679,9 @@
         "Special Defense": 55,
         "Speed": 60,
         "Total": 280,
-        "Average": 46.67
+        "Average": 46.67,
+        "Type1": "Fighting",
+        "Type2": "Psychic"
     },
     "Medicham": {
         "HP": 60,
@@ -3077,7 +3691,9 @@
         "Special Defense": 75,
         "Speed": 80,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Fighting",
+        "Type2": "Psychic"
     },
     "Electrike": {
         "HP": 40,
@@ -3087,7 +3703,9 @@
         "Special Defense": 40,
         "Speed": 65,
         "Total": 295,
-        "Average": 49.17
+        "Average": 49.17,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Manectric": {
         "HP": 70,
@@ -3097,7 +3715,9 @@
         "Special Defense": 60,
         "Speed": 105,
         "Total": 475,
-        "Average": 79.17
+        "Average": 79.17,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Plusle": {
         "HP": 60,
@@ -3107,7 +3727,9 @@
         "Special Defense": 75,
         "Speed": 95,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Minun": {
         "HP": 60,
@@ -3117,7 +3739,9 @@
         "Special Defense": 85,
         "Speed": 95,
         "Total": 405,
-        "Average": 67.5
+        "Average": 67.5,
+        "Type1": "Electric",
+        "Type2": ""
     },
     "Volbeat": {
         "HP": 65,
@@ -3127,7 +3751,9 @@
         "Special Defense": 75,
         "Speed": 85,
         "Total": 400,
-        "Average": 66.67
+        "Average": 66.67,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Illumise": {
         "HP": 65,
@@ -3137,7 +3763,9 @@
         "Special Defense": 75,
         "Speed": 85,
         "Total": 400,
-        "Average": 66.67
+        "Average": 66.67,
+        "Type1": "Bug",
+        "Type2": ""
     },
     "Roselia": {
         "HP": 50,
@@ -3147,7 +3775,9 @@
         "Special Defense": 80,
         "Speed": 65,
         "Total": 400,
-        "Average": 66.67
+        "Average": 66.67,
+        "Type1": "Grass",
+        "Type2": "Poison"
     },
     "Gulpin": {
         "HP": 70,
@@ -3157,7 +3787,9 @@
         "Special Defense": 53,
         "Speed": 40,
         "Total": 302,
-        "Average": 50.33
+        "Average": 50.33,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Swalot": {
         "HP": 100,
@@ -3167,7 +3799,9 @@
         "Special Defense": 83,
         "Speed": 55,
         "Total": 467,
-        "Average": 77.83
+        "Average": 77.83,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Carvanha": {
         "HP": 45,
@@ -3177,7 +3811,9 @@
         "Special Defense": 20,
         "Speed": 65,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Water",
+        "Type2": "Dark"
     },
     "Sharpedo": {
         "HP": 70,
@@ -3187,7 +3823,9 @@
         "Special Defense": 40,
         "Speed": 95,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Water",
+        "Type2": "Dark"
     },
     "Wailmer": {
         "HP": 130,
@@ -3197,7 +3835,9 @@
         "Special Defense": 35,
         "Speed": 60,
         "Total": 400,
-        "Average": 66.67
+        "Average": 66.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Wailord": {
         "HP": 170,
@@ -3207,7 +3847,9 @@
         "Special Defense": 45,
         "Speed": 60,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Numel": {
         "HP": 60,
@@ -3217,7 +3859,9 @@
         "Special Defense": 45,
         "Speed": 35,
         "Total": 305,
-        "Average": 50.83
+        "Average": 50.83,
+        "Type1": "Fire",
+        "Type2": "Ground"
     },
     "Camerupt": {
         "HP": 70,
@@ -3227,7 +3871,9 @@
         "Special Defense": 75,
         "Speed": 40,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Fire",
+        "Type2": "Ground"
     },
     "Torkoal": {
         "HP": 70,
@@ -3237,7 +3883,9 @@
         "Special Defense": 70,
         "Speed": 20,
         "Total": 470,
-        "Average": 78.33
+        "Average": 78.33,
+        "Type1": "Fire",
+        "Type2": ""
     },
     "Spoink": {
         "HP": 60,
@@ -3247,7 +3895,9 @@
         "Special Defense": 80,
         "Speed": 60,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Grumpig": {
         "HP": 80,
@@ -3257,7 +3907,9 @@
         "Special Defense": 110,
         "Speed": 80,
         "Total": 470,
-        "Average": 78.33
+        "Average": 78.33,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Spinda": {
         "HP": 60,
@@ -3267,7 +3919,9 @@
         "Special Defense": 60,
         "Speed": 60,
         "Total": 360,
-        "Average": 60.0
+        "Average": 60.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Trapinch": {
         "HP": 45,
@@ -3277,7 +3931,9 @@
         "Special Defense": 45,
         "Speed": 10,
         "Total": 290,
-        "Average": 48.33
+        "Average": 48.33,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Vibrava": {
         "HP": 50,
@@ -3287,7 +3943,9 @@
         "Special Defense": 50,
         "Speed": 70,
         "Total": 340,
-        "Average": 56.67
+        "Average": 56.67,
+        "Type1": "Ground",
+        "Type2": "Dragon"
     },
     "Flygon": {
         "HP": 80,
@@ -3297,7 +3955,9 @@
         "Special Defense": 80,
         "Speed": 100,
         "Total": 520,
-        "Average": 86.67
+        "Average": 86.67,
+        "Type1": "Ground",
+        "Type2": "Dragon"
     },
     "Cacnea": {
         "HP": 50,
@@ -3307,7 +3967,9 @@
         "Special Defense": 40,
         "Speed": 35,
         "Total": 335,
-        "Average": 55.83
+        "Average": 55.83,
+        "Type1": "Grass",
+        "Type2": ""
     },
     "Cacturne": {
         "HP": 70,
@@ -3317,7 +3979,9 @@
         "Special Defense": 60,
         "Speed": 55,
         "Total": 475,
-        "Average": 79.17
+        "Average": 79.17,
+        "Type1": "Grass",
+        "Type2": "Dark"
     },
     "Swablu": {
         "HP": 45,
@@ -3327,7 +3991,9 @@
         "Special Defense": 75,
         "Speed": 50,
         "Total": 310,
-        "Average": 51.67
+        "Average": 51.67,
+        "Type1": "Normal",
+        "Type2": "Flying"
     },
     "Altaria": {
         "HP": 75,
@@ -3337,7 +4003,9 @@
         "Special Defense": 105,
         "Speed": 80,
         "Total": 490,
-        "Average": 81.67
+        "Average": 81.67,
+        "Type1": "Dragon",
+        "Type2": "Flying"
     },
     "Zangoose": {
         "HP": 73,
@@ -3347,7 +4015,9 @@
         "Special Defense": 60,
         "Speed": 90,
         "Total": 458,
-        "Average": 76.33
+        "Average": 76.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Seviper": {
         "HP": 73,
@@ -3357,7 +4027,9 @@
         "Special Defense": 60,
         "Speed": 65,
         "Total": 458,
-        "Average": 76.33
+        "Average": 76.33,
+        "Type1": "Poison",
+        "Type2": ""
     },
     "Lunatone": {
         "HP": 70,
@@ -3367,7 +4039,9 @@
         "Special Defense": 85,
         "Speed": 70,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Rock",
+        "Type2": "Psychic"
     },
     "Solrock": {
         "HP": 70,
@@ -3377,7 +4051,9 @@
         "Special Defense": 65,
         "Speed": 70,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Rock",
+        "Type2": "Psychic"
     },
     "Barboach": {
         "HP": 50,
@@ -3387,7 +4063,9 @@
         "Special Defense": 41,
         "Speed": 60,
         "Total": 288,
-        "Average": 48.0
+        "Average": 48.0,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Whiscash": {
         "HP": 110,
@@ -3397,7 +4075,9 @@
         "Special Defense": 71,
         "Speed": 60,
         "Total": 468,
-        "Average": 78.0
+        "Average": 78.0,
+        "Type1": "Water",
+        "Type2": "Ground"
     },
     "Corphish": {
         "HP": 43,
@@ -3407,7 +4087,9 @@
         "Special Defense": 35,
         "Speed": 35,
         "Total": 308,
-        "Average": 51.33
+        "Average": 51.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Crawdaunt": {
         "HP": 63,
@@ -3417,7 +4099,9 @@
         "Special Defense": 55,
         "Speed": 55,
         "Total": 468,
-        "Average": 78.0
+        "Average": 78.0,
+        "Type1": "Water",
+        "Type2": "Dark"
     },
     "Baltoy": {
         "HP": 40,
@@ -3427,7 +4111,9 @@
         "Special Defense": 70,
         "Speed": 55,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Ground",
+        "Type2": "Psychic"
     },
     "Claydol": {
         "HP": 60,
@@ -3437,7 +4123,9 @@
         "Special Defense": 120,
         "Speed": 75,
         "Total": 500,
-        "Average": 83.33
+        "Average": 83.33,
+        "Type1": "Ground",
+        "Type2": "Psychic"
     },
     "Lileep": {
         "HP": 66,
@@ -3447,7 +4135,9 @@
         "Special Defense": 87,
         "Speed": 23,
         "Total": 355,
-        "Average": 59.17
+        "Average": 59.17,
+        "Type1": "Rock",
+        "Type2": "Grass"
     },
     "Cradily": {
         "HP": 86,
@@ -3457,7 +4147,9 @@
         "Special Defense": 107,
         "Speed": 43,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Rock",
+        "Type2": "Grass"
     },
     "Anorith": {
         "HP": 45,
@@ -3467,7 +4159,9 @@
         "Special Defense": 50,
         "Speed": 75,
         "Total": 355,
-        "Average": 59.17
+        "Average": 59.17,
+        "Type1": "Rock",
+        "Type2": "Bug"
     },
     "Armaldo": {
         "HP": 75,
@@ -3477,7 +4171,9 @@
         "Special Defense": 80,
         "Speed": 45,
         "Total": 495,
-        "Average": 82.5
+        "Average": 82.5,
+        "Type1": "Rock",
+        "Type2": "Bug"
     },
     "Feebas": {
         "HP": 20,
@@ -3487,7 +4183,9 @@
         "Special Defense": 55,
         "Speed": 80,
         "Total": 200,
-        "Average": 33.33
+        "Average": 33.33,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Milotic": {
         "HP": 95,
@@ -3497,7 +4195,9 @@
         "Special Defense": 125,
         "Speed": 81,
         "Total": 540,
-        "Average": 90.0
+        "Average": 90.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Castform": {
         "HP": 70,
@@ -3507,7 +4207,9 @@
         "Special Defense": 70,
         "Speed": 70,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Kecleon": {
         "HP": 60,
@@ -3517,7 +4219,9 @@
         "Special Defense": 120,
         "Speed": 40,
         "Total": 440,
-        "Average": 73.33
+        "Average": 73.33,
+        "Type1": "Normal",
+        "Type2": ""
     },
     "Shuppet": {
         "HP": 44,
@@ -3527,7 +4231,9 @@
         "Special Defense": 33,
         "Speed": 45,
         "Total": 295,
-        "Average": 49.17
+        "Average": 49.17,
+        "Type1": "Ghost",
+        "Type2": ""
     },
     "Banette": {
         "HP": 64,
@@ -3537,7 +4243,9 @@
         "Special Defense": 63,
         "Speed": 65,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Ghost",
+        "Type2": ""
     },
     "Duskull": {
         "HP": 20,
@@ -3547,7 +4255,9 @@
         "Special Defense": 90,
         "Speed": 25,
         "Total": 295,
-        "Average": 49.17
+        "Average": 49.17,
+        "Type1": "Ghost",
+        "Type2": ""
     },
     "Dusclops": {
         "HP": 40,
@@ -3557,7 +4267,9 @@
         "Special Defense": 130,
         "Speed": 25,
         "Total": 455,
-        "Average": 75.83
+        "Average": 75.83,
+        "Type1": "Ghost",
+        "Type2": ""
     },
     "Tropius": {
         "HP": 99,
@@ -3567,7 +4279,9 @@
         "Special Defense": 87,
         "Speed": 51,
         "Total": 460,
-        "Average": 76.67
+        "Average": 76.67,
+        "Type1": "Grass",
+        "Type2": "Flying"
     },
     "Chimecho": {
         "HP": 65,
@@ -3577,7 +4291,9 @@
         "Special Defense": 80,
         "Speed": 65,
         "Total": 425,
-        "Average": 70.83
+        "Average": 70.83,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Absol": {
         "HP": 65,
@@ -3587,7 +4303,9 @@
         "Special Defense": 60,
         "Speed": 75,
         "Total": 465,
-        "Average": 77.5
+        "Average": 77.5,
+        "Type1": "Dark",
+        "Type2": ""
     },
     "Wynaut": {
         "HP": 95,
@@ -3597,7 +4315,9 @@
         "Special Defense": 48,
         "Speed": 23,
         "Total": 260,
-        "Average": 43.33
+        "Average": 43.33,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Snorunt": {
         "HP": 50,
@@ -3607,7 +4327,9 @@
         "Special Defense": 50,
         "Speed": 50,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Ice",
+        "Type2": ""
     },
     "Glalie": {
         "HP": 80,
@@ -3617,7 +4339,9 @@
         "Special Defense": 80,
         "Speed": 80,
         "Total": 480,
-        "Average": 80.0
+        "Average": 80.0,
+        "Type1": "Ice",
+        "Type2": ""
     },
     "Spheal": {
         "HP": 70,
@@ -3627,7 +4351,9 @@
         "Special Defense": 50,
         "Speed": 25,
         "Total": 290,
-        "Average": 48.33
+        "Average": 48.33,
+        "Type1": "Ice",
+        "Type2": "Water"
     },
     "Sealeo": {
         "HP": 90,
@@ -3637,7 +4363,9 @@
         "Special Defense": 70,
         "Speed": 45,
         "Total": 410,
-        "Average": 68.33
+        "Average": 68.33,
+        "Type1": "Ice",
+        "Type2": "Water"
     },
     "Walrein": {
         "HP": 110,
@@ -3647,7 +4375,9 @@
         "Special Defense": 90,
         "Speed": 65,
         "Total": 530,
-        "Average": 88.33
+        "Average": 88.33,
+        "Type1": "Ice",
+        "Type2": "Water"
     },
     "Clamperl": {
         "HP": 35,
@@ -3657,7 +4387,9 @@
         "Special Defense": 55,
         "Speed": 32,
         "Total": 345,
-        "Average": 57.5
+        "Average": 57.5,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Huntail": {
         "HP": 55,
@@ -3667,7 +4399,9 @@
         "Special Defense": 75,
         "Speed": 52,
         "Total": 485,
-        "Average": 80.83
+        "Average": 80.83,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Gorebyss": {
         "HP": 55,
@@ -3677,7 +4411,9 @@
         "Special Defense": 75,
         "Speed": 52,
         "Total": 485,
-        "Average": 80.83
+        "Average": 80.83,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Relicanth": {
         "HP": 100,
@@ -3687,7 +4423,9 @@
         "Special Defense": 65,
         "Speed": 55,
         "Total": 485,
-        "Average": 80.83
+        "Average": 80.83,
+        "Type1": "Rock",
+        "Type2": "Water"
     },
     "Luvdisc": {
         "HP": 43,
@@ -3697,7 +4435,9 @@
         "Special Defense": 65,
         "Speed": 97,
         "Total": 330,
-        "Average": 55.0
+        "Average": 55.0,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Bagon": {
         "HP": 45,
@@ -3707,7 +4447,9 @@
         "Special Defense": 30,
         "Speed": 50,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Dragon",
+        "Type2": ""
     },
     "Shelgon": {
         "HP": 65,
@@ -3717,7 +4459,9 @@
         "Special Defense": 50,
         "Speed": 50,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Dragon",
+        "Type2": ""
     },
     "Salamence": {
         "HP": 95,
@@ -3727,7 +4471,9 @@
         "Special Defense": 80,
         "Speed": 100,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Dragon",
+        "Type2": "Flying"
     },
     "Beldum": {
         "HP": 40,
@@ -3737,7 +4483,9 @@
         "Special Defense": 60,
         "Speed": 30,
         "Total": 300,
-        "Average": 50.0
+        "Average": 50.0,
+        "Type1": "Steel",
+        "Type2": "Psychic"
     },
     "Metang": {
         "HP": 60,
@@ -3747,7 +4495,9 @@
         "Special Defense": 80,
         "Speed": 50,
         "Total": 420,
-        "Average": 70.0
+        "Average": 70.0,
+        "Type1": "Steel",
+        "Type2": "Psychic"
     },
     "Metagross": {
         "HP": 80,
@@ -3757,7 +4507,9 @@
         "Special Defense": 90,
         "Speed": 70,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Steel",
+        "Type2": "Psychic"
     },
     "Regirock": {
         "HP": 80,
@@ -3767,7 +4519,9 @@
         "Special Defense": 100,
         "Speed": 50,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Rock",
+        "Type2": ""
     },
     "Regice": {
         "HP": 80,
@@ -3777,7 +4531,9 @@
         "Special Defense": 200,
         "Speed": 50,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Ice",
+        "Type2": ""
     },
     "Registeel": {
         "HP": 80,
@@ -3787,7 +4543,9 @@
         "Special Defense": 150,
         "Speed": 50,
         "Total": 580,
-        "Average": 96.67
+        "Average": 96.67,
+        "Type1": "Steel",
+        "Type2": ""
     },
     "Latias": {
         "HP": 80,
@@ -3797,7 +4555,9 @@
         "Special Defense": 130,
         "Speed": 110,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Dragon",
+        "Type2": "Psychic"
     },
     "Latios": {
         "HP": 80,
@@ -3807,7 +4567,9 @@
         "Special Defense": 110,
         "Speed": 110,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Dragon",
+        "Type2": "Psychic"
     },
     "Kyogre": {
         "HP": 100,
@@ -3817,7 +4579,9 @@
         "Special Defense": 140,
         "Speed": 90,
         "Total": 670,
-        "Average": 111.67
+        "Average": 111.67,
+        "Type1": "Water",
+        "Type2": ""
     },
     "Groudon": {
         "HP": 100,
@@ -3827,7 +4591,9 @@
         "Special Defense": 90,
         "Speed": 90,
         "Total": 670,
-        "Average": 111.67
+        "Average": 111.67,
+        "Type1": "Ground",
+        "Type2": ""
     },
     "Rayquaza": {
         "HP": 105,
@@ -3837,7 +4603,9 @@
         "Special Defense": 90,
         "Speed": 95,
         "Total": 680,
-        "Average": 113.33
+        "Average": 113.33,
+        "Type1": "Dragon",
+        "Type2": "Flying"
     },
     "Jirachi": {
         "HP": 100,
@@ -3847,7 +4615,9 @@
         "Special Defense": 100,
         "Speed": 100,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Steel",
+        "Type2": "Psychic"
     },
     "Deoxys (Normal Forme)": {
         "HP": 50,
@@ -3857,7 +4627,9 @@
         "Special Defense": 50,
         "Speed": 150,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Deoxys (Attack Forme)": {
         "HP": 50,
@@ -3867,7 +4639,9 @@
         "Special Defense": 20,
         "Speed": 150,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Deoxys (Defense Forme)": {
         "HP": 50,
@@ -3877,7 +4651,9 @@
         "Special Defense": 160,
         "Speed": 90,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": ""
     },
     "Deoxys (Speed Forme)": {
         "HP": 50,
@@ -3887,6 +4663,8 @@
         "Special Defense": 90,
         "Speed": 180,
         "Total": 600,
-        "Average": 100.0
+        "Average": 100.0,
+        "Type1": "Psychic",
+        "Type2": ""
     }
 }

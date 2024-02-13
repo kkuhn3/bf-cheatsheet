@@ -68,7 +68,43 @@ with open('../json/basestats.json', 'w') as statsOut:
 					"Special Defense": int(line[6]),
 					"Speed": int(line[7]),
 					"Total": int(line[8]),
-					"Average": float(line[9])
+					"Average": float(line[9]),
+					"Type1": line[10],
+					"Type2": line[11]
 				}
 		asJson = json.dumps(statsJson, indent=4, sort_keys=False)
 		statsOut.write(asJson)
+
+with open('../json/typechart.json', 'w') as typeOut:
+	with open('../csv/typechart.csv') as typeIn:
+		reader = csv.reader(typeIn, delimiter=',', quotechar='"')
+		typeJson = {}
+		lineOne = []
+		for line in reader:
+			if line[0] != "":
+				typeJson[line[0]] = {}
+				for i in range(18):
+					if i > 0:
+						typeJson[line[0]][lineOne[i]] = float(line[i])
+			else:
+				lineOne = line
+		asJson = json.dumps(typeJson, indent=4, sort_keys=False)
+		typeOut.write(asJson)
+
+with open('../json/moves.json', 'w') as movesOut:
+	with open('../csv/moves.csv') as movesIn:
+		reader = csv.reader(movesIn, delimiter=',', quotechar='"')
+		moveJson = {}
+		for line in reader:
+			if line[0] != "#":
+				power = 0
+				if line[3] == "---":
+					power = None
+				else:
+					power = int(line[3])
+				moveJson[line[1].lower()] = {
+					"Type": line[2],
+					"Power": power
+				}
+		asJson = json.dumps(moveJson, indent=4, sort_keys=False)
+		movesOut.write(asJson)

@@ -1,0 +1,371 @@
+#,MOVE,TYPE,POWER,PP,ACC
+1,Pound,Normal,40,35,100%
+2,Karate Chop,Fighting,50,25,100%
+3,DoubleSlap,Normal,15,10,85%
+4,Comet Punch,Normal,18,15,85%
+5,Mega Punch,Normal,80,20,85%
+6,Pay Day,Normal,40,20,100%
+7,Fire Punch,Fire,75,15,100%
+8,Ice Punch,Ice,75,15,100%
+9,ThunderPunch,Electric,75,15,100%
+10,Scratch,Normal,40,35,100%
+11,Vicegrip,Normal,55,30,100%
+12,Guillotine,Normal,---,5,30%
+13,Razor Wind,Normal,80,10,100%*
+14,Swords Dance,Normal,---,30,---
+15,Cut,Normal,50,30,95%
+16,Gust,Flying,40,35,100%
+17,Wing Attack,Flying,60,35,100%
+18,Whirlwind,Normal,---,20,---*
+19,Fly,Flying,70,15,95%
+20,Bind,Normal,15,20,85%*
+21,Slam,Normal,80,20,75%
+22,Vine Whip,Grass,35,25*,100%
+23,Stomp,Normal,65,20,100%
+24,Double Kick,Fighting,30,30,100%
+25,Mega Kick,Normal,120,5,75%
+26,Jump Kick,Fighting,70,10*,95%
+27,Rolling Kick,Fighting,60,15,85%
+28,Sand-Attack,Ground,---,15,100%
+29,Headbutt,Normal,70,15,100%
+30,Horn Attack,Normal,65,25,100%
+31,Fury Attack,Normal,15,20,85%
+32,Horn Drill,Normal,---,5,30%
+33,Tackle,Normal,35,35,100%*
+34,Body Slam,Normal,85,15,100%
+35,Wrap,Normal,15,20,90%*
+36,Take Down,Normal,90,20,85%
+37,Thrash,Normal,90,20,100%
+38,Double-Edge,Normal,120,15,100%
+39,Tail Whip,Normal,---,30,100%
+40,Poison Sting,Poison,15,35,100%
+41,Twineedle,Bug,25,20,100%
+42,Pin Missile,Bug,14,20,95%*
+43,Leer,Normal,---,30,100%
+44,Bite,Dark,60,25,100%
+45,Growl,Normal,---,40,100%
+46,Roar,Normal,---,20,---*
+47,Sing,Normal,---,15,55%
+48,Supersonic,Normal,---,20,55%
+49,Sonicboom,Normal,---,20,90%
+50,Disable,Normal,---,20,100%*
+51,Acid,Poison,40,30,100%
+52,Ember,Fire,40,25,100%
+53,Flamethrower,Fire,95,15,100%
+54,Mist,Ice,---,30,---
+55,Water Gun,Water,40,25,100%
+56,Hydro Pump,Water,120,5,80%
+57,Surf,Water,95,15,100%
+58,Ice Beam,Ice,95,10,100%
+59,Blizzard,Ice,120,5,70%*
+60,Psybeam,Psychic,65,20,100%
+61,BubbleBeam,Water,65,20,100%
+62,Aurora Beam,Ice,65,20,100%
+63,Hyper Beam,Normal,150,5,90%
+64,Peck,Flying,35,35,100%
+65,Drill Peck,Flying,80,20,100%
+66,Submission,Fighting,80,20*,80%
+67,Low Kick,Fighting,60,20,100%*
+68,Counter,Fighting,---,20,100%
+69,Seismic Toss,Fighting,---,20,100%
+70,Strength,Normal,80,15,100%
+71,Absorb,Grass,20,25*,100%
+72,Mega Drain,Grass,40,15*,100%
+73,Leech Seed,Grass,---,10,90%
+74,Growth,Normal,---,20*,---
+75,Razor Leaf,Grass,55,25,95%
+76,Solarbeam,Grass,120,10,100%
+77,Poisonpowder,Poison,---,35,75%
+78,Stun Spore,Grass,---,30,75%
+79,Sleep Powder,Grass,---,15,75%
+80,Petal Dance,Grass,70,10*,100%
+81,String Shot,Bug,---,40,95%
+82,Dragon Rage,Dragon,---,10,100%
+83,Fire Spin,Fire,15,15,85%*
+84,Thundershock,Electric,40,30,100%
+85,Thunderbolt,Electric,95,15,100%
+86,Thunder Wave,Electric,---,20,90%*
+87,Thunder,Electric,120,10,70%
+88,Rock Throw,Rock,50,15,90%*
+89,Earthquake,Ground,100,10,100%
+90,Fissure,Ground,---,5,30%
+91,Dig,Ground,60,10,100%
+92,Toxic,Poison,---,10,90%*
+93,Confusion,Psychic,50,25,100%
+94,Psychic,Psychic,90,10,100%
+95,Hypnosis,Psychic,---,20,60%*
+96,Meditate,Psychic,---,40,---
+97,Agility,Psychic,---,30,---
+98,Quick Attack,Normal,40,30,100%
+99,Rage,Normal,20,20,100%
+100,Teleport,Psychic,---,20,---
+101,Night Shade,Ghost,---,15,100%
+102,Mimic,Normal,---,10,---*
+103,Screech,Normal,---,40,85%
+104,Double Team,Normal,---,15,---
+105,Recover,Normal,---,10*,---
+106,Harden,Normal,---,30,---
+107,Minimize,Normal,---,10*,---
+108,SmokeScreen,Normal,---,20,100%
+109,Confuse Ray,Ghost,---,10,100%
+110,Withdraw,Water,---,40,---
+111,Defense Curl,Normal,---,40,---
+112,Barrier,Psychic,---,20*,---
+113,Light Screen,Psychic,---,30,---
+114,Haze,Ice,---,30,---
+115,Reflect,Psychic,---,20,---
+116,Focus Energy,Normal,---,30,---
+117,Bide,Normal,---,10,---*
+118,Metronome,Normal,---,10,---
+119,Mirror Move,Flying,---,20,---
+120,Selfdestruct,Normal,400,5,100%
+121,Egg Bomb,Normal,100,10,75%
+122,Lick,Ghost,20,30,100%
+123,Smog,Poison,20,20,70%
+124,Sludge,Poison,65,20,100%
+125,Bone Club,Ground,65,20,85%
+126,Fire Blast,Fire,120,5,85%
+127,Waterfall,Water,80,15,100%
+128,Clamp,Water,35,15*,85%*
+129,Swift,Normal,60,20,---
+130,Skull Bash,Normal,100,10*,100%
+131,Spike Cannon,Normal,20,15,100%
+132,Constrict,Normal,10,35,100%
+133,Amnesia,Psychic,---,20,---
+134,Kinesis,Psychic,---,15,80%
+135,Softboiled,Normal,---,10,---
+136,Hi Jump Kick,Fighting,85,10*,90%
+137,Glare,Normal,---,30,100%*
+138,Dream Eater,Psychic,100,15,100%
+139,Poison Gas,Poison,---,40,90%*
+140,Barrage,Normal,15,20,85%
+141,Leech Life,Bug,20,10*,100%
+142,Lovely Kiss,Normal,---,10,75%
+143,Sky Attack,Flying,140,5,90%
+144,Transform,Normal,---,10,---
+145,Bubble,Water,20,30,100%
+146,Dizzy Punch,Normal,70,10,100%
+147,Spore,Grass,---,15,100%
+148,Flash,Normal,---,20,100%*
+149,Psywave,Psychic,---,15,100%*
+150,Splash,Normal,---,40,---
+151,Acid Armor,Poison,---,20*,---
+152,Crabhammer,Water,90,10,85
+153,Explosion,Normal,500,5,100%
+154,Fury Swipes,Normal,18,15,80%
+155,Bonemerang,Ground,50,10,90%
+156,Rest,Psychic,---,10,---
+157,Rock Slide,Rock,75,10,90%
+158,Hyper Fang,Normal,80,15,90%
+159,Sharpen,Normal,---,30,---
+160,Conversion,Normal,---,30,---
+161,Tri Attack,Normal,80,10,100%
+162,Super Fang,Normal,---,10,90%
+163,Slash,Normal,70,20,100%
+164,Substitute,Normal,---,10,---
+165,Struggle,Normal,50,1*,---*
+166,Sketch,Normal,---,1,---
+167,Triple Kick,Fighting,10,10,90%
+168,Thief,Dark,40,25*,100%
+169,Spider Web,Bug,---,10,---
+170,Mind Reader,Normal,---,5,---*
+171,Nightmare,Ghost,---,15,100%
+172,Flame Wheel,Fire,60,25,100%
+173,Snore,Normal,40,15,100%
+174,Curse,Ghost,---,10,---
+175,Flail,Normal,200,15,100%
+176,Conversion 2,Normal,---,30,---
+177,Aeroblast,Flying,100,5,95%
+178,Cotton Spore,Grass,---,40,100%*
+179,Reversal,Fighting,200,15,100%
+180,Spite,Ghost,---,10,100%
+181,Powder Snow,Ice,40,25,100%
+182,Protect,Normal,---,10,---
+183,Mach Punch,Fighting,40,30,100%
+184,Scary Face,Normal,---,10,100%*
+185,Faint Attack,Dark,60,20,---
+186,Sweet Kiss,Fairy,---,10,75%
+187,Belly Drum,Normal,---,10,---
+188,Sludge Bomb,Poison,90,10,100%
+189,Mud-Slap,Ground,20,10,100%
+190,Octazooka,Water,65,10,85%
+191,Spikes,Ground,---,20,---
+192,Zap Cannon,Electric,100,5,50%
+193,Foresight,Normal,---,40,---*
+194,Destiny Bond,Ghost,---,5,---
+195,Perish Song,Normal,---,5,---
+196,Icy Wind,Ice,55,15,95%
+197,Detect,Fighting,---,5,---
+198,Bone Rush,Ground,25,10,90%*
+199,Lock-On,Normal,---,5,---*
+200,Outrage,Dragon,90,10*,100%
+201,Sandstorm,Rock,---,10,---
+202,Giga Drain,Grass,60,10*,100%
+203,Endure,Normal,---,10,---
+204,Charm,Fairy,---,20,100%
+205,Rollout,Rock,30,20,90%
+206,False Swipe,Normal,40,40,100%
+207,Swagger,Normal,---,15,85%*
+208,Milk Drink,Normal,---,10,---
+209,Spark,Electric,65,20,100%
+210,Fury Cutter,Bug,10,20,95%
+211,Steel Wing,Steel,70,25,90%
+212,Mean Look,Normal,---,5,---
+213,Attract,Normal,---,15,100%
+214,Sleep Talk,Normal,---,10,---
+215,Heal Bell,Normal,---,5,---
+216,Return,Normal,102,20,100%
+217,Present,Normal,---,15,90%
+218,Frustration,Normal,102,20,100%
+219,Safeguard,Normal,---,25,---
+220,Pain Split,Normal,---,20,---*
+221,Sacred Fire,Fire,100,5,95%
+222,Magnitude,Ground,70,30,100%
+223,Dynamicpunch,Fighting,100,5,50%
+224,Megahorn,Bug,120,10,85%
+225,DragonBreath,Dragon,60,20,100%
+226,Baton Pass,Normal,---,40,---
+227,Encore,Normal,---,5,100%
+228,Pursuit,Dark,40,20,100%
+229,Rapid Spin,Normal,20,40,100%
+230,Sweet Scent,Normal,---,20,100%
+231,Iron Tail,Steel,100,15,75%
+232,Metal Claw,Steel,50,35,95%
+233,Vital Throw,Fighting,70,10,---
+234,Morning Sun,Normal,---,5,---
+235,Synthesis,Grass,---,5,---
+236,Moonlight,Fairy,---,5,---
+237,Hidden Power,Normal,70,15,100%
+238,Cross Chop,Fighting,100,5,80%
+239,Twister,Dragon,40,20,100%
+240,Rain Dance,Water,---,5,---
+241,Sunny Day,Fire,---,5,---
+242,Crunch,Dark,80,15,100%
+243,Mirror Coat,Psychic,---,20,100%
+244,Psych Up,Normal,---,10,---
+245,ExtremeSpeed,Normal,80,5,100%
+246,AncientPower,Rock,60,5,100%
+247,Shadow Ball,Ghost,80,15,100%
+248,Future Sight,Dragon,80,10*,100%*
+249,Rock Smash,Fighting,20,15,100%
+250,Whirlpool,Water,15,15,85%*
+251,Beat Up,Dark,---,10,100%
+252,Fake Out,Normal,40,10,100%
+253,Uproar,Normal,50,10,100%
+254,Stockpile,Normal,---,20*,---
+255,Spit Up,Normal,---,10,100%
+256,Swallow,Normal,---,10,---
+257,Heat Wave,Fire,100,10,90%
+258,Hail,Ice,---,10,---
+259,Torment,Dark,---,15,100%
+260,Flatter,Dark,---,15,100%
+261,Will-O-Wisp,Fire,---,15,85%*
+262,Memento,Dark,---,10,100%
+263,Facade,Normal,70,20,100%
+264,Focus Punch,Fighting,150,20,100%
+265,SmellingSalt,Normal,60,10,100%
+266,Follow Me,Normal,---,20,---
+267,Nature Power,Normal,---,20,---
+268,Charge,Electric,---,20,---
+269,Taunt,Dark,---,20,100%
+270,Helping Hand,Normal,---,20,---
+271,Trick,Psychic,---,10,100%
+272,Role Play,Psychic,---,10,---
+273,Wish,Normal,---,10,---
+274,Assist,Normal,---,20,---
+275,Ingrain,Grass,---,20,---
+276,Superpower,Fighting,120,5,100%
+277,Magic Coat,Psychic,---,15,---
+278,Recycle,Normal,---,10,---
+279,Revenge,Fighting,60,10,100%
+280,Brick Break,Fighting,75,15,100%
+281,Yawn,Normal,---,10,---
+282,Knock Off,Dark,20,20,100%
+283,Endeavor,Normal,---,5,100%
+284,Eruption,Fire,150,5,100%
+285,Skill Swap,Psychic,---,10,---
+286,Imprison,Psychic,---,10,---
+287,Refresh,Normal,---,20,---
+288,Grudge,Ghost,---,5,---
+289,Snatch,Dark,---,10,---
+290,Secret Power,Normal,70,20,100%
+291,Dive,Water,60,10,100%
+292,Arm Thrust,Fighting,15,20,100%
+293,Camouflage,Normal,---,20,---
+294,Tail Glow,Bug,---,20,---
+295,Luster Purge,Psychic,70,5,100%
+296,Mist Ball,Psychic,70,5,100%
+297,Featherdance,Flying,---,15,100%
+298,Teeter Dance,Normal,---,20,100%
+299,Blaze Kick,Fire,85,10,90%
+300,Mud Sport,Ground,---,15,---
+301,Ice Ball,Ice,30,20,90%
+302,Needle Arm,Grass,60,15,100%
+303,Slack Off,Normal,---,10,---
+304,Hyper Voice,Normal,90,10,100%
+305,Poison Fang,Poison,50,15,100%
+306,Crush Claw,Normal,75,10,95%
+307,Blast Burn,Fire,150,5,90%
+308,Hydro Cannon,Water,150,5,90%
+309,Meteor Mash,Steel,100,10,85
+310,Astonish,Ghost,30,15,100%
+311,Weather Ball,Normal,50,10,100%
+312,Aromatherapy,Grass,---,5,---
+313,Fake Tears,Dark,---,20,100%
+314,Air Cutter,Flying,55,25,95%
+315,Overheat,Fire,140,5,90%
+316,Odor Sleuth,Normal,---,40,---
+317,Rock Tomb,Rock,50,15*,80
+318,Silver Wind,Bug,60,5,100%
+319,Metal Sound,Steel,---,40,85%
+320,Grasswhistle,Grass,---,15,55%
+321,Tickle,Normal,---,20,100%
+322,Cosmic Power,Psychic,---,20,---
+323,Water Spout,Water,150,5,100%
+324,Signal Beam,Bug,75,15,100%
+325,Shadow Punch,Ghost,60,20,---
+326,Extrasensory,Psychic,80,20*,100%
+327,Sky Uppercut,Fighting,85,15,90%
+328,Sand Tomb,Ground,15,15,85%*
+329,Sheer Cold,Ice,---,5,30%
+330,Muddy Water,Water,95,10,85%
+331,Bullet Seed,Grass,10,30,100%
+332,Aerial Ace,Flying,60,20,---
+333,Icicle Spear,Ice,10,30,100%
+334,Iron Defense,Steel,---,15,---
+335,Block,Normal,---,5,---
+336,Howl,Normal,---,40,---
+337,Dragon Claw,Dragon,80,15,100%
+338,Frenzy Plant,Grass,150,5,90%
+339,Bulk Up,Fighting,---,20,---
+340,Bounce,Flying,85,5,85%
+341,Mud Shot,Ground,55,15,95%
+342,Poison Tail,Poison,50,25,100%
+343,Covet,Normal,40,25*,100%
+344,Volt Tackle,Electric,120,15,100%
+345,Magical Leaf,Grass,60,20,---
+346,Water Sport,Water,---,15,---
+347,Calm Mind,Psychic,---,20,---
+348,Leaf Blade,Grass,70,15,100%
+349,Dragon Dance,Dragon,---,20,---
+350,Rock Blast,Rock,25,10,90%*
+351,Shock Wave,Electric,60,20,---
+352,Water Pulse,Water,60,20,100%
+353,Doom Desire,Normal,120,5,100%*
+354,Psycho Boost,Psychic,140,5,90%
+355,HP Fire,Fire,70,15,100%
+356,HP Water,Water,70,15,100%
+357,HP Electric,Electric,70,15,100%
+358,HP Grass,Grass,70,15,100%
+359,HP Ice,Ice,70,15,100%
+360,HP Psychic,Psychic,70,15,100%
+361,HP Dark,Dark,70,15,100%
+362,HP Dragon,Dragon,70,15,100%
+363,HP Flying,Flying,70,15,100%
+364,HP Ground,Ground,70,15,100%
+365,HP Rock,Rock,70,15,100%
+366,HP Fighting,Fighting,70,15,100%
+367,HP Poison,Poison,70,15,100%
+368,HP Bug,Bug,70,15,100%
+369,HP Ghost,Ghost,70,15,100%
+370,HP Steel,Steel,70,15,100%

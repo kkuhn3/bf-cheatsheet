@@ -15486,112 +15486,112 @@
             "Starmie 8"
         ]
     },
-    "ANABEL Silver": {
+    "ANABEL S": {
         "Class": "Salon Maiden",
         "IVs": 24,
         "Pokemon": [
-            "Alakazam Silver",
-            "Entei Silver",
-            "Snorlax Silver"
+            "Alakazam S",
+            "Entei S",
+            "Snorlax S"
         ]
     },
-    "ANABEL Gold": {
+    "ANABEL G": {
         "Class": "Salon Maiden",
         "IVs": 31,
         "Pokemon": [
-            "Raikou Gold",
-            "Latios Gold",
-            "Snorla Gold"
+            "Raikou G",
+            "Latios G",
+            "Snorlax G"
         ]
     },
-    "TUCKER Silver": {
+    "TUCKER S": {
         "Class": "Dome Ace",
         "IVs": 20,
         "Pokemon": [
-            "Swampert Silver",
-            "Salamence Silver",
-            "Charizard Silver"
+            "Swampert S",
+            "Salamence S",
+            "Charizard S"
         ]
     },
-    "TUCKER Gold": {
+    "TUCKER G": {
         "Class": "Dome Ace",
         "IVs": 31,
         "Pokemon": [
-            "Swampert Gold",
-            "Metagross Gold",
-            "Latias Gold"
+            "Swampert G",
+            "Metagross G",
+            "Latias G"
         ]
     },
-    "SPENSER Silver": {
+    "SPENSER S": {
         "Class": "Palace Maven",
         "IVs": 16,
         "Pokemon": [
-            "Crobat Silver",
-            "Slaking Silver",
-            "Lapras Silver"
+            "Crobat S",
+            "Slaking S",
+            "Lapras S"
         ]
     },
-    "SPENSER Gold": {
+    "SPENSER G": {
         "Class": "Palace Maven",
         "IVs": 31,
         "Pokemon": [
-            "Arcanine Gold",
-            "Slaking Gold",
-            "Suicune Gold"
+            "Arcanine G",
+            "Slaking G",
+            "Suicune G"
         ]
     },
-    "GRETA Silver": {
+    "GRETA S": {
         "Class": "Arena Tycoon",
         "IVs": 20,
         "Pokemon": [
-            "Heracross Silver",
-            "Umbreon Silver",
-            "Shedinja Silver"
+            "Heracross S",
+            "Umbreon S",
+            "Shedinja S"
         ]
     },
-    "GRETA Gold": {
+    "GRETA G": {
         "Class": "Arena Tycoon",
         "IVs": 31,
         "Pokemon": [
-            "Umbreon Gold",
-            "Gengar Gold",
-            "Breloom Gold"
+            "Umbreon G",
+            "Gengar G",
+            "Breloom G"
         ]
     },
-    "LUCY Silver": {
+    "LUCY S": {
         "Class": "Pike Queen",
         "IVs": 16,
         "Pokemon": [
-            "Seviper Silver",
-            "Shuckle Silver",
-            "Milotic Silver"
+            "Seviper S",
+            "Shuckle S",
+            "Milotic S"
         ]
     },
-    "LUCY Gold": {
+    "LUCY G": {
         "Class": "Pike Queen",
         "IVs": 31,
         "Pokemon": [
-            "Seviper Gold",
-            "Steelix Gold",
-            "Gyarados Gold"
+            "Seviper G",
+            "Steelix G",
+            "Gyarados G"
         ]
     },
-    "BRANDON Silver": {
+    "BRANDON S": {
         "Class": "Pyramid King",
         "IVs": 16,
         "Pokemon": [
-            "Regirock Silver",
-            "Registeel Silver",
-            "Regice Silver"
+            "Regirock S",
+            "Registeel S",
+            "Regice S"
         ]
     },
-    "BRANDON Gold": {
+    "BRANDON G": {
         "Class": "Pyramid King",
         "IVs": 31,
         "Pokemon": [
-            "Articuno Gold",
-            "Zapdos Gold",
-            "Moltres Gold"
+            "Articuno G",
+            "Zapdos G",
+            "Moltres G"
         ]
     }
 }

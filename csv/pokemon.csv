@@ -882,61 +882,61 @@ Entry,Species,Instance,Nature,Item,Move 1,Move 2,Move 3,Move 4,Possible Ability,
 881,Suicune,5,Modest,Lum Berry,Surf,Ice Beam,Calm Mind,Icy Wind,Pressure,255/ 0 / 0 /255/ 0 / 0 ,404/167/266/306/266/206,206,207/85/135/156/135/105,105,
 882,Suicune,6,Modest,Chesto Berry,Surf,Ice Beam,Calm Mind,Rest,Pressure,170/ 0 /170/ 0 /170/ 0 ,383/167/308/237/308/206,206,196/85/156/121/156/105,105,
 ,,,,,,,,,,,,,,,
-Anabel Silver,Alakazam,Silver,Modest,BrightPowder,ThunderPunch,Fire Punch,Ice Punch,Disable,Synchronize / Inner Focus,106/ 0 /152/100/ 0 /152 ,270/116/157/356/199/307,307,140/60/81/180/102/156,156,24
-Anabel Silver,Entei,Silver,Lonely,Lum Berry,Fire Blast,Calm Mind,Return,Roar,Pressure,100/152/152/100/ 6 / 0  ,389/326/213/234/180/229,229,199/166/108/119/92/117,117,24
-Anabel Silver,Snorlax,Silver,Adamant,Quick Claw,Body Slam,Belly Drum,Yawn,Shadow Ball,Immunity / Thick Fat,152/152/ 0 /106/100/0 ,492/315/159/166/274/89,89,251/160/82/85/139/47,47,24
+Anabel S,Alakazam,S,Modest,BrightPowder,ThunderPunch,Fire Punch,Ice Punch,Disable,Synchronize / Inner Focus,106/ 0 /152/100/ 0 /152 ,270/116/157/356/199/307,307,140/60/81/180/102/156,156,24
+Anabel S,Entei,S,Lonely,Lum Berry,Fire Blast,Calm Mind,Return,Roar,Pressure,100/152/152/100/ 6 / 0  ,389/326/213/234/180/229,229,199/166/108/119/92/117,117,24
+Anabel S,Snorlax,S,Adamant,Quick Claw,Body Slam,Belly Drum,Yawn,Shadow Ball,Immunity / Thick Fat,152/152/ 0 /106/100/0 ,492/315/159/166/274/89,89,251/160/82/85/139/47,47,24
 ,,,,,,,,,,,,,,,
-Anabel Gold,Raikou,Gold,Modest,Lum Berry,Thunderbolt,Calm Mind,Reflect,Rest,Pressure,158/ 0 /252/ 0 / 0 /100 ,360/185/249/292/236/291,291,185/94/127/149/120/148,148,31
-Anabel Gold,Latios,Gold,Modest,BrightPowder,Psychic,Calm Mind,Recover,Dragon Claw,Levitate,252/ 0 /252/ 0 / 0 / 6  ,364/194/259/325/256/257,257,187/99/132/165/130/131,131,31
-Anabel Gold,Snorlax,Gold,Adamant,Chesto Berry,Curse,Return,Rest,Shadow Ball,Immunity / Thick Fat,252/252/ 0 / 6 / 0 / 0  ,524/350/166/150/256/96,96,267/178/85/77/130/50,50,31
+Anabel G,Raikou,G,Modest,Lum Berry,Thunderbolt,Calm Mind,Reflect,Rest,Pressure,158/ 0 /252/ 0 / 0 /100 ,360/185/249/292/236/291,291,185/94/127/149/120/148,148,31
+Anabel G,Latios,G,Modest,BrightPowder,Psychic,Calm Mind,Recover,Dragon Claw,Levitate,252/ 0 /252/ 0 / 0 / 6  ,364/194/259/325/256/257,257,187/99/132/165/130/131,131,31
+Anabel G,Snorlax,G,Adamant,Chesto Berry,Curse,Return,Rest,Shadow Ball,Immunity / Thick Fat,252/252/ 0 / 6 / 0 / 0  ,524/350/166/150/256/96,96,267/178/85/77/130/50,50,31
 ,,,,,,,,,,,,,,,
-Tucker Silver,Swampert,Silver,Brave,Focus Band,Surf,Earthquake,Ice Beam,Counter,Intimidate,152/152/106/100/ 0 / 0  ,368/311/231/220/205/130,130,189/158/118/112/105/67,67,20
-Tucker Silver,Salamence,Silver,Adamant,Lum Berry,Earthquake,Brick Break,Dragon Claw,Aerial Ace,Blaze,152/152/106/ 0 / 0 /100 ,358/366/211/220/185/250,250,184/185/108/112/95/127,127,20
-Tucker Silver,Charizard,Silver,Quiet,White Herb,Overheat,Rock Slide,Aerial Ace,Earthquake,Torrent,100/152/106/ 0 / 0 /152 ,311/231/207/267/195/236,236,160/118/106/136/100/120,120,20
+Tucker S,Swampert,S,Brave,Focus Band,Surf,Earthquake,Ice Beam,Counter,Intimidate,152/152/106/100/ 0 / 0  ,368/311/231/220/205/130,130,189/158/118/112/105/67,67,20
+Tucker S,Salamence,S,Adamant,Lum Berry,Earthquake,Brick Break,Dragon Claw,Aerial Ace,Blaze,152/152/106/ 0 / 0 /100 ,358/366/211/220/185/250,250,184/185/108/112/95/127,127,20
+Tucker S,Charizard,S,Quiet,White Herb,Overheat,Rock Slide,Aerial Ace,Earthquake,Torrent,100/152/106/ 0 / 0 /152 ,311/231/207/267/195/236,236,160/118/106/136/100/120,120,20
 ,,,,,,,,,,,,,,,
-Tucker Gold,Swampert,Gold,Brave,Leftovers,Surf,Earthquake,Ice Beam,Mirror Coat,Torrent,252/252/ 6 / 0 / 0 / 0  ,404/350/217/206/216/140,140,207/178/111/105/110/72,72,31
-Tucker Gold,Metagross,Gold,Brave,Quick Claw,Psychic,Meteor Mash,Earthquake,Protect,Clear Body,252/252/ 6 / 0 / 0 / 0  ,364/405/297/226/216/158,158,187/205/151/115/110/81,81,31
-Tucker Gold,Latias,Gold,Modest,Chesto Berry,Thunderbolt,Psychic,Calm Mind,Rest,Levitate,252/ 0 /252/ 0 / 0 / 6  ,364/176/279/281/296/257,257,187/90/142/143/150/131,131,31
+Tucker G,Swampert,G,Brave,Leftovers,Surf,Earthquake,Ice Beam,Mirror Coat,Torrent,252/252/ 6 / 0 / 0 / 0  ,404/350/217/206/216/140,140,207/178/111/105/110/72,72,31
+Tucker G,Metagross,G,Brave,Quick Claw,Psychic,Meteor Mash,Earthquake,Protect,Clear Body,252/252/ 6 / 0 / 0 / 0  ,364/405/297/226/216/158,158,187/205/151/115/110/81,81,31
+Tucker G,Latias,G,Modest,Chesto Berry,Thunderbolt,Psychic,Calm Mind,Rest,Levitate,252/ 0 /252/ 0 / 0 / 6  ,364/176/279/281/296/257,257,187/90/142/143/150/131,131,31
 ,,,,,,,,,,,,,,,
-Spenser Silver,Crobat,Silver,Adamant,BrightPowder,Confuse Ray,Double Team,Toxic,Fly,Inner Focus,152/ 0 / 0 /100/106/152 ,334/221/181/167/207/319,319,172/113/93/85/106/162,162,16
-Spenser Silver,Slaking,Silver,Hardy,Scope Lens,Earthquake,Swagger,Shadow Ball,Brick Break,Truant,152/152/ 0 /100/ 0 /106 ,464/379/221/236/151/247,247,237/192/113/120/78/126,126,16
-Spenser Silver,Lapras,Silver,Quiet,Quick Claw,Ice Beam,Horn Drill,Confuse Ray,Protect,Water Absorb / Shell Armor, 0 / 0 /252/106/152/ 0  ,386/191/244/238/249/126,126,198/98/124/122/127/65,65,16
+Spenser S,Crobat,S,Adamant,BrightPowder,Confuse Ray,Double Team,Toxic,Fly,Inner Focus,152/ 0 / 0 /100/106/152 ,334/221/181/167/207/319,319,172/113/93/85/106/162,162,16
+Spenser S,Slaking,S,Hardy,Scope Lens,Earthquake,Swagger,Shadow Ball,Brick Break,Truant,152/152/ 0 /100/ 0 /106 ,464/379/221/236/151/247,247,237/192/113/120/78/126,126,16
+Spenser S,Lapras,S,Quiet,Quick Claw,Ice Beam,Horn Drill,Confuse Ray,Protect,Water Absorb / Shell Armor, 0 / 0 /252/106/152/ 0  ,386/191/244/238/249/126,126,198/98/124/122/127/65,65,16
 ,,,,,,,,,,,,,,,
-Spenser Gold,Arcanine,Gold,Hasty,White Herb,Overheat,ExtremeSpeed,Roar,Protect,Flash Fire / Intimidate, 6 /252/252/ 0 / 0 / 0  ,322/319/233/236/196/248,248,166/162/118/120/100/127,127,31
-Spenser Gold,Slaking,Gold,Hardy,Scope Lens,Hyper Beam,Earthquake,Shadow Ball,Yawn,Truant, 6 /252/ 0 / 0 / 0 /252 ,442/419/236/226/166/299,299,226/212/120/115/85/152,152,31
-Spenser Gold,Suicune,Gold,Hasty,King's Rock,Blizzard,Surf,Bite,Calm Mind,Pressure,252/ 0 /252/ 0 / 0 / 6  ,404/186/296/216/266/227,227,207/95/150/110/135/116,116,31
+Spenser G,Arcanine,G,Hasty,White Herb,Overheat,ExtremeSpeed,Roar,Protect,Flash Fire / Intimidate, 6 /252/252/ 0 / 0 / 0  ,322/319/233/236/196/248,248,166/162/118/120/100/127,127,31
+Spenser G,Slaking,G,Hardy,Scope Lens,Hyper Beam,Earthquake,Shadow Ball,Yawn,Truant, 6 /252/ 0 / 0 / 0 /252 ,442/419/236/226/166/299,299,226/212/120/115/85/152,152,31
+Spenser G,Suicune,G,Hasty,King's Rock,Blizzard,Surf,Bite,Calm Mind,Pressure,252/ 0 /252/ 0 / 0 / 6  ,404/186/296/216/266/227,227,207/95/150/110/135/116,116,31
 ,,,,,,,,,,,,,,,
-Greta Silver,Heracross,Silver,Jolly,Salac Berry,Megahorn,Rock Tomb,Endure,Reversal,Guts / Swarm,106/152/ 0 /0/100/152 ,316/313/175/94/240/256,256,163/159/90/49/122/130,130,20
-Greta Silver,Umbreon,Silver,Calm,Leftovers,Body Slam,Confuse Ray,Psychic,Faint Attack,Synchronize,152/ 0 /100/152/106/ 0  ,358/139/270/183/342/155,155,184/72/137/94/173/80,80,20
-Greta Silver,Shedinja,Silver,Adamant,BrightPowder,Shadow Ball,Return,Confuse Ray,Aerial Ace,Wonder Guard, 0 /252/ 6 / 0 / 0 /252 ,132/294/116/76/85/168,168,71/150/60/40/45/86,86,20
+Greta S,Heracross,S,Jolly,Salac Berry,Megahorn,Rock Tomb,Endure,Reversal,Guts / Swarm,106/152/ 0 /0/100/152 ,316/313/175/94/240/256,256,163/159/90/49/122/130,130,20
+Greta S,Umbreon,S,Calm,Leftovers,Body Slam,Confuse Ray,Psychic,Faint Attack,Synchronize,152/ 0 /100/152/106/ 0  ,358/139/270/183/342/155,155,184/72/137/94/173/80,80,20
+Greta S,Shedinja,S,Adamant,BrightPowder,Shadow Ball,Return,Confuse Ray,Aerial Ace,Wonder Guard, 0 /252/ 6 / 0 / 0 /252 ,132/294/116/76/85/168,168,71/150/60/40/45/86,86,20
 ,,,,,,,,,,,,,,,
-Greta Gold,Umbreon,Gold,Calm,Chesto Berry,Double-Edge,Confuse Ray,Rest,Psychic,Synchronize,252/ 0 / 0 /252/ 6 / 0  ,394/149/256/219/326/166,166,202/76/130/112/166/85,85,31
-Greta Gold,Gengar,Gold,Modest,Leftovers,Psychic,Hypnosis,Dream Eater,Destiny Bond,Levitate,252/ 0 /252/ 6 / 0 / 0  ,324/149/219/326/186/256,256,167/76/112/166/95/130,130,31
-Greta Gold,Breloom,Gold,Jolly,Lum Berry,Spore,Focus Punch,Giga Drain,Headbutt,Effect Spore, 6 /252/ 0 / 0 / 0 /252 ,262/359/196/140/156/262,262,136/182/100/72/80/134,134,31
+Greta G,Umbreon,G,Calm,Chesto Berry,Double-Edge,Confuse Ray,Rest,Psychic,Synchronize,252/ 0 / 0 /252/ 6 / 0  ,394/149/256/219/326/166,166,202/76/130/112/166/85,85,31
+Greta G,Gengar,G,Modest,Leftovers,Psychic,Hypnosis,Dream Eater,Destiny Bond,Levitate,252/ 0 /252/ 6 / 0 / 0  ,324/149/219/326/186/256,256,167/76/112/166/95/130,130,31
+Greta G,Breloom,G,Jolly,Lum Berry,Spore,Focus Punch,Giga Drain,Headbutt,Effect Spore, 6 /252/ 0 / 0 / 0 /252 ,262/359/196/140/156/262,262,136/182/100/72/80/134,134,31
 ,,,,,,,,,,,,,,,
-Noland Silver,Metang,Silver,Brave,Sitrus Berry,Light Screen,Psychic,Reflect,Metal Claw,Clear Body, 0 /252/252/ 6 / 0 / 0  ,261/273/299/147/196/122,122,135/139/152/76/100/63,63,31
-Noland Silver,Skarmory,Silver,Impish,Sitrus Berry,Toxic,Aerial Ace,Protect,Steel Wing,Keen Eye / Sturdy,252/ 0 / 0 / 6 /252/ 0  ,334/196/347/105/239/176,176,172/100/176/54/122/90,90,31
-Noland Silver,Aggron,Silver,Adamant,Sitrus Berry,Thunderbolt,Protect,SolarBeam,Dragon Claw,Sturdy / Rock Head, 0 /252/ 0 /252/ 6 / 0  ,281/350/396/197/157/136,136,145/178/200/100/81/70,70,31
+Noland S,Metang,S,Brave,Sitrus Berry,Light Screen,Psychic,Reflect,Metal Claw,Clear Body, 0 /252/252/ 6 / 0 / 0  ,261/273/299/147/196/122,122,135/139/152/76/100/63,63,31
+Noland S,Skarmory,S,Impish,Sitrus Berry,Toxic,Aerial Ace,Protect,Steel Wing,Keen Eye / Sturdy,252/ 0 / 0 / 6 /252/ 0  ,334/196/347/105/239/176,176,172/100/176/54/122/90,90,31
+Noland S,Aggron,S,Adamant,Sitrus Berry,Thunderbolt,Protect,SolarBeam,Dragon Claw,Sturdy / Rock Head, 0 /252/ 0 /252/ 6 / 0  ,281/350/396/197/157/136,136,145/178/200/100/81/70,70,31
 ,,,,,,,,,,,,,,,
-Noland Gold,Metang,Gold,Brave,Sitrus Berry,Light Screen,Psychic,Reflect,Metal Claw,Clear Body, 0 /252/252/ 6 / 0 / 0  ,261/273/299/147/196/122,122,135/139/152/76/100/63,63,31
-Noland Gold,Skarmory,Gold,Impish,Sitrus Berry,Toxic,Aerial Ace,Protect,Steel Wing,Keen Eye / Sturdy,252/ 0 / 0 / 6 /252/ 0  ,334/196/347/105/239/176,176,172/100/176/54/122/90,90,31
-Noland Gold,Aggron,Gold,Adamant,Sitrus Berry,Thunderbolt,Protect,SolarBeam,Dragon Claw,Sturdy / Rock Head, 0 /252/ 0 /252/ 6 / 0  ,281/350/396/197/157/136,136,145/178/200/100/81/70,70,31
+Noland G,Metang,G,Brave,Sitrus Berry,Light Screen,Psychic,Reflect,Metal Claw,Clear Body, 0 /252/252/ 6 / 0 / 0  ,261/273/299/147/196/122,122,135/139/152/76/100/63,63,31
+Noland G,Skarmory,G,Impish,Sitrus Berry,Toxic,Aerial Ace,Protect,Steel Wing,Keen Eye / Sturdy,252/ 0 / 0 / 6 /252/ 0  ,334/196/347/105/239/176,176,172/100/176/54/122/90,90,31
+Noland G,Aggron,G,Adamant,Sitrus Berry,Thunderbolt,Protect,SolarBeam,Dragon Claw,Sturdy / Rock Head, 0 /252/ 0 /252/ 6 / 0  ,281/350/396/197/157/136,136,145/178/200/100/81/70,70,31
 ,,,,,,,,,,,,,,,
-Lucy Silver,Seviper,Silver,Brave,Quick Claw,Swagger,Crunch,Poison Fang,Giga Drain,Shed Skin,252/ 0 /252/ 6 / 0 / 0  ,335/243/204/222/141/135,135,172/124/104/113/73/70,70,16
-Lucy Silver,Shuckle,Silver,Bold,Chesto Berry,Toxic,Sandstorm,Protect,Rest,Sturdy,252/ 0 / 0 /106/252/ 0  ,229/36/529/67/544/31,31,119/20/267/36/274/18,18,16
-Lucy Silver,Milotic,Silver,Modest,Leftovers,Ice Beam,Mirror Coat,Surf,Recover,Marvel Scale,152/ 0 /100/152/106/ 0  ,354/126/204/284/297/183,183,182/65/104/145/151/94,94,16
+Lucy S,Seviper,S,Brave,Quick Claw,Swagger,Crunch,Poison Fang,Giga Drain,Shed Skin,252/ 0 /252/ 6 / 0 / 0  ,335/243/204/222/141/135,135,172/124/104/113/73/70,70,16
+Lucy S,Shuckle,S,Bold,Chesto Berry,Toxic,Sandstorm,Protect,Rest,Sturdy,252/ 0 / 0 /106/252/ 0  ,229/36/529/67/544/31,31,119/20/267/36/274/18,18,16
+Lucy S,Milotic,S,Modest,Leftovers,Ice Beam,Mirror Coat,Surf,Recover,Marvel Scale,152/ 0 /100/152/106/ 0  ,354/126/204/284/297/183,183,182/65/104/145/151/94,94,16
 ,,,,,,,,,,,,,,,
-Lucy Gold,Seviper,Gold,Bold,Focus Band,Swagger,Crunch,Sludge Bomb,Giga Drain,Shed Skin,252/ 0 / 0 /252/ 6 / 0  ,350/212/171/299/157/166,166,180/108/88/152/81/85,85,31
-Lucy Gold,Steelix,Gold,Brave,BrightPowder,Earthquake,Rock Slide,Explosion,Screech,Sturdy / Rock Head,252/ 0 / 0 / 6 /252/ 0  ,354/226/436/147/229/86,86,182/116/220/76/117/45,45,31
-Lucy Gold,Gyarados,Gold,Adamant,Chesto Berry,Dragon Dance,Return,Roar,Rest,Intimidate,252/ 6 / 0 / 0 /252/ 0  ,394/315/194/140/299/198,198,202/160/99/72/152/101,101,31
+Lucy G,Seviper,G,Bold,Focus Band,Swagger,Crunch,Sludge Bomb,Giga Drain,Shed Skin,252/ 0 / 0 /252/ 6 / 0  ,350/212/171/299/157/166,166,180/108/88/152/81/85,85,31
+Lucy G,Steelix,G,Brave,BrightPowder,Earthquake,Rock Slide,Explosion,Screech,Sturdy / Rock Head,252/ 0 / 0 / 6 /252/ 0  ,354/226/436/147/229/86,86,182/116/220/76/117/45,45,31
+Lucy G,Gyarados,G,Adamant,Chesto Berry,Dragon Dance,Return,Roar,Rest,Intimidate,252/ 6 / 0 / 0 /252/ 0  ,394/315/194/140/299/198,198,202/160/99/72/152/101,101,31
 ,,,,,,,,,,,,,,,
-Brandon Silver,Regirock,Silver,Adamant,Quick Claw,Explosion,Superpower,Earthquake,AncientPower,Clear Body,152/152/ 0 /106/100/ 0  ,324/284/421/132/246/121,121,167/145/213/68/125/63,63,16
-Brandon Silver,Registeel,Silver,Adamant,Leftovers,Earthquake,Metal Claw,Toxic,Iron Defense,Clear Body,152/152/ 0 / 6 /200/ 0  ,324/229/321/154/371/121,121,167/117/163/79/188/63,63,16
-Brandon Silver,Regice,Silver,Modest,Chesto Berry,Ice Beam,Amnesia,Thunder,Rest,Clear Body,106/ 0 /152/100/152/ 0  ,312/108/259/270/459/121,121,161/56/132/138/232/63,63,16
+Brandon S,Regirock,S,Adamant,Quick Claw,Explosion,Superpower,Earthquake,AncientPower,Clear Body,152/152/ 0 /106/100/ 0  ,324/284/421/132/246/121,121,167/145/213/68/125/63,63,16
+Brandon S,Registeel,S,Adamant,Leftovers,Earthquake,Metal Claw,Toxic,Iron Defense,Clear Body,152/152/ 0 / 6 /200/ 0  ,324/229/321/154/371/121,121,167/117/163/79/188/63,63,16
+Brandon S,Regice,S,Modest,Chesto Berry,Ice Beam,Amnesia,Thunder,Rest,Clear Body,106/ 0 /152/100/152/ 0  ,312/108/259/270/459/121,121,161/56/132/138/232/63,63,16
 ,,,,,,,,,,,,,,,
-Brandon Gold,Articuno,Gold,Mild,Scope Lens,Blizzard,Water Pulse,Aerial Ace,Reflect,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/206/269/248/286/269,269,166/105/136/127/145/137,137,31
-Brandon Gold,Zapdos,Gold,Mild,Lum Berry,Thunder,Detect,Drill Peck,Light Screen,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/216/242/314/216/299,299,166/110/123/160/110/152,152,31
-Brandon Gold,Moltres,Gold,Mild,BrightPowder,Fire Blast,Hyper Beam,Aerial Ace,Safeguard,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/236/251/314/206/279,279,166/120/127/160/105/142,142,31
+Brandon G,Articuno,G,Mild,Scope Lens,Blizzard,Water Pulse,Aerial Ace,Reflect,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/206/269/248/286/269,269,166/105/136/127/145/137,137,31
+Brandon G,Zapdos,G,Mild,Lum Berry,Thunder,Detect,Drill Peck,Light Screen,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/216/242/314/216/299,299,166/110/123/160/110/152,152,31
+Brandon G,Moltres,G,Mild,BrightPowder,Fire Blast,Hyper Beam,Aerial Ace,Safeguard,Pressure, 6 / 0 /252/ 0 / 0 /252 ,322/236/251/314/206/279,279,166/120/127/160/105/142,142,31
 ,,,,,,,,,,,,,,,
 "*All instances of Frustration* were listed as Return in the ROM. However, in the Factory Frustration replaces Return.",,,,,,,,,,,,,,,
 "†Placeholder only. Noland`s team is subject to the same restrictions as regular trainers - sets 565-660 in Open Level the first time with IVs of 15s, and sets 373-882 for the second time with IVs of 31s.",,,,,,,,,,,,,,,
