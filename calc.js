@@ -86,6 +86,7 @@ function calcDamage(attacker, defender, moveId) {
 	// calc
 	let attackStat;
 	let defenseStat;
+	// Scale Attack, Defense
 	if (physicalTypes.includes(move.Type)) {
 		attackStat = getAttack(attacker);
 		if (attacker.ability === "Huge Power" || attacker.ability === "Pure Power") {
@@ -108,6 +109,7 @@ function calcDamage(attacker, defender, moveId) {
 			defenseStat = defenseStat * 2;
 		}
 	}
+	// Scale Special Attack, Special Defense
 	else {
 		attackStat = getSpecialAttack(attacker);
 		if (attacker.item === "Sea Incense" && move.Type === "Water") {
@@ -127,9 +129,11 @@ function calcDamage(attacker, defender, moveId) {
 			defenseStat = defenseStat * 2;
 		}
 	}
+	// Silk Scarf and co
 	if (move.Type === getItemBoostType(attacker.item)) {
 		attackStat = attackStat * 1.1;
 	}
+	// Damage Calc
 	let baseDamage = Math.floor(Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * attackStat * move.Power) / defenseStat) / 50);
 	baseDamage = Math.max(1, baseDamage) + 2;
 	let stab = 1;
@@ -168,7 +172,6 @@ function getType2(mon) {
 function getStat(base, nature, evs, ivs, level) {
 	return Math.floor((Math.floor(((base * 2 + ivs + Math.floor(evs / 4)) * level) / 100) + 5) * nature);
 }
-
 function getSpeed(species, nature, evs, ivs, level) {
 	const base = basestats[species].Speed;
 	const natureMulti = getSpeedNature(nature);
@@ -176,8 +179,8 @@ function getSpeed(species, nature, evs, ivs, level) {
 }
 function getAttack(mon) {
 	const base = basestats[mon.species].Attack;
-	const evs = mon.evs.att;
-	const ivs = mon.ivs.att;
+	const evs = mon.evs.atk;
+	const ivs = mon.ivs.atk;
 	const level = mon.level;
 	const natureMulti = getAttackNature(mon.nature);
 	return getStat(base, natureMulti, evs, ivs, level);

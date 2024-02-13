@@ -108,12 +108,7 @@ function myMonRow(myMon, key, value, isWhite) {
 		return "";
 	}
 	let innertable = "<tr class='" + isWhite + "'>";
-	if (myMon.name) {
-		innertable = innertable + "<td>" + myMon.species + " (" + myMon.name + ")</td>";
-	}
-	else {
-		innertable = innertable + "<td>" + myMon.species + "</td>";
-	}
+	innertable = innertable + "<td>> " + myMon.species + "</td>";
 	innertable = innertable + tdifExists(myMon.item);
 	innertable = innertable + tdifExists(myMon.ability);
 	let speedevs = 0;
@@ -167,7 +162,7 @@ function theirsToAttacker(key, value) {
 		"ability": ability,
 		"evs": {
 			"hp": parseInt(listEvs[0]),
-			"att": parseInt(listEvs[1]),
+			"atk": parseInt(listEvs[1]),
 			"def": parseInt(listEvs[2]),
 			"spa": parseInt(listEvs[3]),
 			"spd": parseInt(listEvs[4]),
@@ -175,7 +170,7 @@ function theirsToAttacker(key, value) {
 		},
 		"ivs": {
 			"hp": ivs,
-			"att": ivs,
+			"atk": ivs,
 			"def": ivs,
 			"spa": ivs,
 			"spd": ivs,
@@ -198,7 +193,7 @@ function tdifExists(tobetd) {
 function moveIfExists(mine, theirs, move) {
 	let range = calcDamage(mine, theirs, move);
 	if (range) {
-		return "<td>" + move + " " + range[0] + " - " + range[1]  + "%</td>";
+		return "<td>" + move + " (" + range[0] + " - " + range[1]  + "%)</td>";
 	}
 	return "<td>" + move + "</td>";
 }
@@ -366,7 +361,7 @@ function importPrompt(character, button) {
 		myMons[character] = parseSetFromString(set);
 		if (myMons[character]) {
 			if (myMons[character].name) {
-				button.innerHTML = myMons[character].name;
+				button.innerHTML = myMons[character].species + " (" + myMons[character].name + ")";
 			}
 			else {
 				button.innerHTML = myMons[character].species;
@@ -381,15 +376,15 @@ function importPrompt(character, button) {
 
 function parseSetFromString(showdownStr) {
 	let set = {};
+	set.evs = {hp: 0, atk: 0, def: 0, spa: 0, spd: 0, spe: 0};
+	set.ivs = {hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31};
+	set.level = parseInt(levelSelect.value);
 	let lines = showdownStr.split("\n");
 	for (let i = 0; i < lines.length; i++) {
 		set = parseExportedTeamLine(lines[i], i===0, set);
 	}
 	if (!basestats[set.species]) {
 		return null;
-	}
-	if (!set.level) {
-		set.level = levelSelect.value;
 	}
 	return set;
 }
@@ -428,7 +423,6 @@ function parseExportedTeamLine(line, isFirstLine, set) {
 	} else if (line.startsWith('EVs: ')) {
 		line = line.slice(5);
 		const evLines = line.split('/');
-		set.evs = {hp: 0, atk: 0, def: 0, spa: 0, spd: 0, spe: 0};
 		for (const evLine of evLines) {
 			const [statValue, statName] = evLine.trim().split(' ');
 			let value = parseInt(statValue);
@@ -437,7 +431,6 @@ function parseExportedTeamLine(line, isFirstLine, set) {
 	} else if (line.startsWith('IVs: ')) {
 		line = line.slice(5);
 		const ivLines = line.split('/');
-		set.ivs = {hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31};
 		for (const ivLine of ivLines) {
 			const [statValue, statName] = ivLine.trim().split(' ');
 			let value = parseInt(statValue);
